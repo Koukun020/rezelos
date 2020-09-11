@@ -1,0 +1,983 @@
+[
+	{
+		"ID": 1,
+		"Category": "MAIN",
+		"Name": "emilia01",
+		"FileName": "live2d/AC_emilia01",
+		"Model": "ac_emilia01",
+		"BaseModel": "ac_base_emilia01",
+		"BaseLink": "/CH_top"
+	},
+	{
+		"ID": 2,
+		"Category": "SUB",
+		"Name": "rom01",
+		"FileName": "live2d/AC_rom01",
+		"Model": "ac_rom01",
+		"BaseModel": "ac_base_rom01",
+		"BaseLink": "/CH_top"
+	},
+	{
+		"ID": 3,
+		"Category": "MAIN",
+		"Name": "felt01",
+		"FileName": "live2d/AC_felt01",
+		"Model": "ac_felt01",
+		"BaseModel": "ac_base_felt01",
+		"BaseLink": "/CH_top"
+	},
+	{
+		"ID": 4,
+		"Category": "SUB",
+		"Name": "elsa01",
+		"FileName": "live2d/AC_elsa01",
+		"Model": "ac_elsa01",
+		"BaseModel": "ac_base_elsa01",
+		"BaseLink": "/CH_top"
+	},
+	{
+		"ID": 5,
+		"Category": "MAIN",
+		"Name": "beatrice01",
+		"FileName": "live2d/AC_beatrice01",
+		"Model": "ac_beatrice01",
+		"BaseModel": "ac_base_beatrice01",
+		"BaseLink": "/CH_top"
+	},
+	{
+		"ID": 6,
+		"Category": "MAIN",
+		"Name": "pack01",
+		"FileName": "live2d/AC_pack01",
+		"Model": "ac_pack01",
+		"BaseModel": "ac_base_pack01",
+		"BaseLink": "/CH_top"
+	},
+	{
+		"ID": 7,
+		"Category": "SUB",
+		"Name": "kadomon01",
+		"FileName": "live2d/AC_kadomon01",
+		"Model": "ac_kadomon01",
+		"BaseModel": "ac_base_kadomon01",
+		"BaseLink": "/CH_top"
+	},
+	{
+		"ID": 8,
+		"Category": "SUB",
+		"Name": "kan01",
+		"FileName": "live2d/AC_kan01",
+		"Model": "ac_kan01",
+		"BaseModel": "ac_base_kan01",
+		"BaseLink": "/CH_top"
+	},
+	{
+		"ID": 9,
+		"Category": "SUB",
+		"Name": "ton01",
+		"FileName": "live2d/AC_ton01",
+		"Model": "ac_ton01",
+		"BaseModel": "ac_base_ton01",
+		"BaseLink": "/CH_top"
+	},
+	{
+		"ID": 10,
+		"Category": "MAIN",
+		"Name": "rem01",
+		"FileName": "live2d/AC_rem01",
+		"Model": "ac_rem01",
+		"BaseModel": "ac_base_rem01",
+		"BaseLink": "/CH_top"
+	},
+	{
+		"ID": 11,
+		"Category": "MAIN",
+		"Name": "subaru01",
+		"FileName": "live2d/AC_subaru01",
+		"Model": "ac_subaru01",
+		"BaseModel": "ac_base_subaru01",
+		"BaseLink": "/CH_top"
+	},
+	{
+		"ID": 12,
+		"Category": "MOB",
+		"Name": "russell01",
+		"FileName": "live2d/AC_russell01",
+		"Model": "ac_russell01",
+		"BaseModel": "ac_base_russell01",
+		"BaseLink": "/CH_top"
+	},
+	{
+		"ID": 13,
+		"Category": "SUB",
+		"Name": "green01",
+		"FileName": "live2d/AC_green01",
+		"Model": "ac_green01",
+		"BaseModel": "ac_base_green01",
+		"BaseLink": "/CH_top"
+	},
+	{
+		"ID": 14,
+		"Category": "MAIN",
+		"Name": "emilia_nemaki01",
+		"FileName": "live2d/AC_emilia_nemaki01",
+		"Model": "ac_emilia_nemaki01",
+		"BaseModel": "ac_base_emilia_nemaki01",
+		"BaseLink": "/CH_top"
+	},
+	{
+		"ID": 15,
+		"Category": "MAIN",
+		"Name": "emilia_nemaki02",
+		"FileName": "live2d/AC_emilia_nemaki02",
+		"Model": "ac_emilia_nemaki02",
+		"BaseModel": "ac_base_emilia_nemaki02",
+		"BaseLink": "/CH_top"
+	},
+	{
+		"ID": 16,
+		"Category": "MAIN",
+		"Name": "emilia_nemaki03",
+		"FileName": "live2d/AC_emilia_nemaki03",
+		"Model": "ac_emilia_nemaki03",
+		"BaseModel": "ac_base_emilia_nemaki03",
+		"BaseLink": "/CH_top"
+	},
+	{
+		"ID": 17,
+		"Category": "SUB",
+		"Name": "chin01",
+		"FileName": "live2d/AC_chin01",
+		"Model": "ac_chin01",
+		"BaseModel": "ac_base_chin01",
+		"BaseLink": "/CH_top"
+	},
+	{
+		"ID": 18,
+		"Category": "SUB",
+		"Name": "priscilla01",
+		"FileName": "live2d/AC_priscilla01",
+		"Model": "ac_priscilla01",
+		"BaseModel": "ac_base_priscilla01",
+		"BaseLink": "/CH_top"
+	},
+	{
+		"ID": 19,
+		"Category": "MOB",
+		"Name": "dine01",
+		"FileName": "live2d/AC_dine01",
+		"Model": "ac_dine01",
+		"BaseModel": "ac_base_dine01",
+		"BaseLink": "/CH_top"
+	},
+	{
+		"ID": 20,
+		"Category": "MAIN",
+		"Name": "emilia01",
+		"FileName": "live2d/AC_emilia01_lipsync",
+		"Model": "ac_emilia01_lipsync",
+		"BaseModel": "ac_base_emilia01_lipsync",
+		"BaseLink": "/CH_top"
+	},
+	{
+		"ID": 21,
+		"Category": "SUB",
+		"Name": "anastasia01",
+		"FileName": "live2d/AC_anastasia01",
+		"Model": "ac_anastasia01",
+		"BaseModel": "ac_base_anastasia01",
+		"BaseLink": "/CH_top"
+	},
+	{
+		"ID": 22,
+		"Category": "SUB",
+		"Name": "reinhard01",
+		"FileName": "live2d/AC_reinhard01",
+		"Model": "ac_reinhard01",
+		"BaseModel": "ac_base_reinhard01",
+		"BaseLink": "/CH_top"
+	},
+	{
+		"ID": 23,
+		"Category": "SUB",
+		"Name": "mimi01",
+		"FileName": "live2d/AC_mimi01",
+		"Model": "ac_mimi01",
+		"BaseModel": "ac_base_mimi01",
+		"BaseLink": "/CH_top"
+	},
+	{
+		"ID": 24,
+		"Category": "MOB",
+		"Name": "maina01",
+		"FileName": "live2d/AC_maina01",
+		"Model": "ac_maina01",
+		"BaseModel": "ac_base_maina01",
+		"BaseLink": "/CH_top"
+	},
+	{
+		"ID": 25,
+		"Category": "MOB",
+		"Name": "poorman01",
+		"FileName": "live2d/AC_poorman01",
+		"Model": "ac_poorman01",
+		"BaseModel": "ac_base_poorman01",
+		"BaseLink": "/CH_top"
+	},
+	{
+		"ID": 26,
+		"Category": "SUB",
+		"Name": "ram_childhood01",
+		"FileName": "live2d/AC_ram_childhood01",
+		"Model": "ac_ram_childhood01",
+		"BaseModel": "ac_base_ram_childhood01",
+		"BaseLink": "/CH_top"
+	},
+	{
+		"ID": 27,
+		"Category": "SUB",
+		"Name": "ferris_dress01",
+		"FileName": "live2d/AC_ferris_dress01",
+		"Model": "ac_ferris_dress01",
+		"BaseModel": "ac_base_ferris_dress01",
+		"BaseLink": "/CH_top"
+	},
+	{
+		"ID": 28,
+		"Category": "SUB",
+		"Name": "julius01",
+		"FileName": "live2d/AC_julius01",
+		"Model": "ac_julius01",
+		"BaseModel": "ac_base_julius01",
+		"BaseLink": "/CH_top"
+	},
+	{
+		"ID": 29,
+		"Category": "MAIN",
+		"Name": "ram01",
+		"FileName": "live2d/AC_ram01",
+		"Model": "ac_ram01",
+		"BaseModel": "ac_base_ram01",
+		"BaseLink": "/CH_top"
+	},
+	{
+		"ID": 30,
+		"Category": "SUB",
+		"Name": "roswaal01",
+		"FileName": "live2d/AC_roswaal01",
+		"Model": "ac_roswaal01",
+		"BaseModel": "ac_base_roswaal01",
+		"BaseLink": "/CH_top"
+	},
+	{
+		"ID": 31,
+		"Category": "SUB",
+		"Name": "petra01",
+		"FileName": "live2d/AC_petra01",
+		"Model": "ac_petra01",
+		"BaseModel": "ac_base_petra01",
+		"BaseLink": "/CH_top"
+	},
+	{
+		"ID": 32,
+		"Category": "MAIN",
+		"Name": "subaru_butler01",
+		"FileName": "live2d/AC_subaru_butler01",
+		"Model": "ac_subaru_butler01",
+		"BaseModel": "ac_base_subaru_butler01",
+		"BaseLink": "/CH_top"
+	},
+	{
+		"ID": 33,
+		"Category": "MAIN",
+		"Name": "subaru_tshirt01",
+		"FileName": "live2d/AC_subaru_tshirt01",
+		"Model": "ac_subaru_tshirt01",
+		"BaseModel": "ac_base_subaru_tshirt01",
+		"BaseLink": "/CH_top"
+	},
+	{
+		"ID": 34,
+		"Category": "MAIN",
+		"Name": "rem_ogre01",
+		"FileName": "live2d/AC_rem_ogre01",
+		"Model": "ac_rem_ogre01",
+		"BaseModel": "ac_base_rem_ogre01",
+		"BaseLink": "/CH_top"
+	},
+	{
+		"ID": 35,
+		"Category": "SUB",
+		"Name": "petelgeuse01",
+		"FileName": "live2d/AC_petelgeuse01",
+		"Model": "ac_petelgeuse01",
+		"BaseModel": "ac_base_petelgeuse01",
+		"BaseLink": "/CH_top"
+	},
+	{
+		"ID": 36,
+		"Category": "SUB",
+		"Name": "crusch01",
+		"FileName": "live2d/AC_crusch01",
+		"Model": "ac_crusch01",
+		"BaseModel": "ac_base_crusch01",
+		"BaseLink": "/CH_top"
+	},
+	{
+		"ID": 37,
+		"Category": "SUB",
+		"Name": "rem_childhood01",
+		"FileName": "live2d/AC_rem_childhood01",
+		"Model": "ac_rem_childhood01",
+		"BaseModel": "ac_base_rem_childhood01",
+		"BaseLink": "/CH_top"
+	},
+	{
+		"ID": 38,
+		"Category": "SUB",
+		"Name": "theresia01",
+		"FileName": "live2d/AC_theresia01",
+		"Model": "ac_theresia01",
+		"BaseModel": "ac_base_theresia01",
+		"BaseLink": "/CH_top"
+	},
+	{
+		"ID": 39,
+		"Category": "SUB",
+		"Name": "wilhelm01",
+		"FileName": "live2d/AC_wilhelm01",
+		"Model": "ac_wilhelm01",
+		"BaseModel": "ac_base_wilhelm01",
+		"BaseLink": "/CH_top"
+	},
+	{
+		"ID": 40,
+		"Category": "SUB",
+		"Name": "al01",
+		"FileName": "live2d/AC_al01",
+		"Model": "ac_al01",
+		"BaseModel": "ac_base_al01",
+		"BaseLink": "/CH_top"
+	},
+	{
+		"ID": 41,
+		"Category": "MOB",
+		"Name": "cain01",
+		"FileName": "live2d/AC_cain01",
+		"Model": "ac_cain01",
+		"BaseModel": "ac_base_cain01",
+		"BaseLink": "/CH_top"
+	},
+	{
+		"ID": 42,
+		"Category": "MOB",
+		"Name": "greenmama01",
+		"FileName": "live2d/AC_greenmama01",
+		"Model": "ac_greenmama01",
+		"BaseModel": "ac_base_greenmama01",
+		"BaseLink": "/CH_top"
+	},
+	{
+		"ID": 43,
+		"Category": "SUB",
+		"Name": "ricardo01",
+		"FileName": "live2d/AC_ricardo01",
+		"Model": "ac_ricardo01",
+		"BaseModel": "ac_base_ricardo01",
+		"BaseLink": "/CH_top"
+	},
+	{
+		"ID": 44,
+		"Category": "MOB",
+		"Name": "mild01",
+		"FileName": "live2d/AC_mild01",
+		"Model": "ac_mild01",
+		"BaseModel": "ac_base_mild01",
+		"BaseLink": "/CH_top"
+	},
+	{
+		"ID": 45,
+		"Category": "MOB",
+		"Name": "lucas01",
+		"FileName": "live2d/AC_lucas01",
+		"Model": "ac_lucas01",
+		"BaseModel": "ac_base_lucas01",
+		"BaseLink": "/CH_top"
+	},
+	{
+		"ID": 46,
+		"Category": "SUB",
+		"Name": "wilhelm_young01",
+		"FileName": "live2d/AC_wilhelm_young01",
+		"Model": "ac_wilhelm_young01",
+		"BaseModel": "ac_base_wilhelm_young01",
+		"BaseLink": "/CH_top"
+	},
+	{
+		"ID": 47,
+		"Category": "MAIN",
+		"Name": "subaru_gown01",
+		"FileName": "live2d/AC_subaru_gown01",
+		"Model": "ac_subaru_gown01",
+		"BaseModel": "ac_base_subaru_gown01",
+		"BaseLink": "/CH_top"
+	},
+	{
+		"ID": 48,
+		"Category": "SUB",
+		"Name": "otto01",
+		"FileName": "live2d/AC_otto01",
+		"Model": "ac_otto01",
+		"BaseModel": "ac_base_otto01",
+		"BaseLink": "/CH_top"
+	},
+	{
+		"ID": 49,
+		"Category": "SUB",
+		"Name": "subaru_petelgeuse01",
+		"FileName": "live2d/AC_subaru_petelgeuse01",
+		"Model": "ac_subaru_petelgeuse01",
+		"BaseModel": "ac_base_subaru_petelgeuse01",
+		"BaseLink": "/CH_top"
+	},
+	{
+		"ID": 50,
+		"Category": "SUB",
+		"Name": "roswaal_nude01",
+		"FileName": "live2d/AC_roswaal_nude01",
+		"Model": "ac_roswaal_nude01",
+		"BaseModel": "ac_base_roswaal_nude01",
+		"BaseLink": "/CH_top"
+	},
+	{
+		"ID": 51,
+		"Category": "MOB",
+		"Name": "citizen_beast01",
+		"FileName": "live2d/AC_citizen_beast01",
+		"Model": "ac_citizen_beast01",
+		"BaseModel": "ac_base_citizen_beast01",
+		"BaseLink": "/CH_top"
+	},
+	{
+		"ID": 52,
+		"Category": "MAIN",
+		"Name": "subaru_nude01",
+		"FileName": "live2d/AC_subaru_nude01",
+		"Model": "ac_subaru_nude01",
+		"BaseModel": "ac_base_subaru_nude01",
+		"BaseLink": "/CH_top"
+	},
+	{
+		"ID": 53,
+		"Category": "SUB",
+		"Name": "ferris01",
+		"FileName": "live2d/AC_ferris01",
+		"Model": "ac_ferris01",
+		"BaseModel": "ac_base_ferris01",
+		"BaseLink": "/CH_top"
+	},
+	{
+		"ID": 54,
+		"Category": "SUB",
+		"Name": "anastasia_private01",
+		"FileName": "live2d/AC_anastasia_private01",
+		"Model": "ac_anastasia_private01",
+		"BaseModel": "ac_base_anastasia_private01",
+		"BaseLink": "/CH_top"
+	},
+	{
+		"ID": 55,
+		"Category": "SUB",
+		"Name": "mary01",
+		"FileName": "live2d/AC_mary01",
+		"Model": "ac_mary01",
+		"BaseModel": "ac_base_mary01",
+		"BaseLink": "/CH_top"
+	},
+	{
+		"ID": 56,
+		"Category": "SUB",
+		"Name": "ram_hood01",
+		"FileName": "live2d/AC_ram_hood01",
+		"Model": "ac_ram_hood01",
+		"BaseModel": "ac_base_ram_hood01",
+		"BaseLink": "/CH_top"
+	},
+	{
+		"ID": 57,
+		"Category": "MAIN",
+		"Name": "rem_pokerface01",
+		"FileName": "live2d/AC_rem_pokerface01",
+		"Model": "ac_rem_pokerface01",
+		"BaseModel": "ac_base_rem_pokerface01",
+		"BaseLink": "/CH_top"
+	},
+	{
+		"ID": 58,
+		"Category": "MAIN",
+		"Name": "rem_nemaki01",
+		"FileName": "live2d/AC_rem_nemaki01",
+		"Model": "ac_rem_nemaki01",
+		"BaseModel": "ac_base_rem_nemaki01",
+		"BaseLink": "/CH_top"
+	},
+	{
+		"ID": 59,
+		"Category": "MOB",
+		"Name": "hetaro01",
+		"FileName": "live2d/AC_hetaro01",
+		"Model": "ac_hetaro01",
+		"BaseModel": "ac_base_hetaro01",
+		"BaseLink": "/CH_top"
+	},
+	{
+		"ID": 60,
+		"Category": "SUB",
+		"Name": "julius_jersey01",
+		"FileName": "live2d/AC_julius_jersey01",
+		"Model": "ac_julius_jersey01",
+		"BaseModel": "ac_base_julius_jersey01",
+		"BaseLink": "/CH_top"
+	},
+	{
+		"ID": 61,
+		"Category": "SUB",
+		"Name": "crusch_nemaki01",
+		"FileName": "live2d/AC_crusch_nemaki01",
+		"Model": "ac_crusch_nemaki01",
+		"BaseModel": "ac_base_crusch_nemaki01",
+		"BaseLink": "/CH_top"
+	},
+	{
+		"ID": 62,
+		"Category": "SUB",
+		"Name": "crusch_armor01",
+		"FileName": "live2d/AC_crusch_armor01",
+		"Model": "ac_crusch_armor01",
+		"BaseModel": "ac_base_crusch_armor01",
+		"BaseLink": "/CH_top"
+	},
+	{
+		"ID": 63,
+		"Category": "MAIN",
+		"Name": "emilia_hood01",
+		"FileName": "live2d/AC_emilia_hood01",
+		"Model": "ac_emilia_hood01",
+		"BaseModel": "ac_base_emilia_hood01",
+		"BaseLink": "/CH_top"
+	},
+	{
+		"ID": 64,
+		"Category": "SUB",
+		"Name": "theresia_armor01",
+		"FileName": "live2d/AC_theresia_armor01",
+		"Model": "ac_theresia_armor01",
+		"BaseModel": "ac_base_theresia_armor01",
+		"BaseLink": "/CH_top"
+	},
+	{
+		"ID": 65,
+		"Category": "SUB",
+		"Name": "reinhard_formal01",
+		"FileName": "live2d/AC_reinhard_formal01",
+		"Model": "ac_reinhard_formal01",
+		"BaseModel": "ac_base_reinhard_formal01",
+		"BaseLink": "/CH_top"
+	},
+	{
+		"ID": 66,
+		"Category": "MOB",
+		"Name": "soldier01",
+		"FileName": "live2d/AC_soldier01",
+		"Model": "ac_soldier01",
+		"BaseModel": "ac_base_soldier01",
+		"BaseLink": "/CH_top"
+	},
+	{
+		"ID": 67,
+		"Category": "MOB",
+		"Name": "citizen_man01",
+		"FileName": "live2d/AC_citizen_man01",
+		"Model": "ac_citizen_man01",
+		"BaseModel": "ac_base_citizen_man01",
+		"BaseLink": "/CH_top"
+	},
+	{
+		"ID": 68,
+		"Category": "MOB",
+		"Name": "citizen_woman01",
+		"FileName": "live2d/AC_citizen_woman01",
+		"Model": "ac_citizen_woman01",
+		"BaseModel": "ac_base_citizen_woman01",
+		"BaseLink": "/CH_top"
+	},
+	{
+		"ID": 69,
+		"Category": "MAIN",
+		"Name": "ram_nemaki01",
+		"FileName": "live2d/AC_ram_nemaki01",
+		"Model": "ac_ram_nemaki01",
+		"BaseModel": "ac_base_ram_nemaki01",
+		"BaseLink": "/CH_top"
+	},
+	{
+		"ID": 70,
+		"Category": "MOB",
+		"Name": "muraosa01",
+		"FileName": "live2d/AC_muraosa01",
+		"Model": "ac_muraosa01",
+		"BaseModel": "ac_base_muraosa01",
+		"BaseLink": "/CH_top"
+	},
+	{
+		"ID": 71,
+		"Category": "MOB",
+		"Name": "citizen_boy01",
+		"FileName": "live2d/AC_citizen_boy01",
+		"Model": "ac_citizen_boy01",
+		"BaseModel": "ac_base_citizen_boy01",
+		"BaseLink": "/CH_top"
+	},
+	{
+		"ID": 72,
+		"Category": "MOB",
+		"Name": "citizen_girl01",
+		"FileName": "live2d/AC_citizen_girl01",
+		"Model": "ac_citizen_girl01",
+		"BaseModel": "ac_base_citizen_girl01",
+		"BaseLink": "/CH_top"
+	},
+	{
+		"ID": 73,
+		"Category": "MOB",
+		"Name": "citizen_oldman01",
+		"FileName": "live2d/AC_citizen_oldman01",
+		"Model": "ac_citizen_oldman01",
+		"BaseModel": "ac_base_citizen_oldman01",
+		"BaseLink": "/CH_top"
+	},
+	{
+		"ID": 74,
+		"Category": "MOB",
+		"Name": "citizen_oldwoman01",
+		"FileName": "live2d/AC_citizen_oldwoman01",
+		"Model": "ac_citizen_oldwoman01",
+		"BaseModel": "ac_base_citizen_oldwoman01",
+		"BaseLink": "/CH_top"
+	},
+	{
+		"ID": 75,
+		"Category": "SUB",
+		"Name": "elsa_nomantle01",
+		"FileName": "live2d/AC_elsa_nomantle01",
+		"Model": "ac_elsa_nomantle01",
+		"BaseModel": "ac_base_elsa_nomantle01",
+		"BaseLink": "/CH_top"
+	},
+	{
+		"ID": 76,
+		"Category": "SUB",
+		"Name": "roswaal_formal01",
+		"FileName": "live2d/AC_roswaal_formal01",
+		"Model": "ac_roswaal_formal01",
+		"BaseModel": "ac_base_roswaal_formal01",
+		"BaseLink": "/CH_top"
+	},
+	{
+		"ID": 77,
+		"Category": "SUB",
+		"Name": "wilhelm_youngmantle01",
+		"FileName": "live2d/AC_wilhelm_youngmantle01",
+		"Model": "ac_wilhelm_youngmantle01",
+		"BaseModel": "ac_base_wilhelm_youngmantle01",
+		"BaseLink": "/CH_top"
+	},
+	{
+		"ID": 78,
+		"Category": "MAIN",
+		"Name": "shion01",
+		"FileName": "live2d/AC_shion01",
+		"Model": "ac_shion01",
+		"BaseModel": "ac_base_shion01",
+		"BaseLink": "/CH_top"
+	},
+	{
+		"ID": 79,
+		"Category": "SUB",
+		"Name": "subaru_tshirt02",
+		"FileName": "live2d/AC_subaru_tshirt02",
+		"Model": "ac_subaru_tshirt02",
+		"BaseModel": "ac_base_subaru_tshirt02",
+		"BaseLink": "/CH_top"
+	},
+	{
+		"ID": 80,
+		"Category": "SUB",
+		"Name": "pack_true01",
+		"FileName": "live2d/AC_pack_true01",
+		"Model": "ac_pack_true01",
+		"BaseModel": "ac_base_pack_true01",
+		"BaseLink": "/CH_top"
+	},
+	{
+		"ID": 81,
+		"Category": "MAIN",
+		"Name": "alcor01",
+		"FileName": "live2d/AC_alcor01",
+		"Model": "ac_alcor01",
+		"BaseModel": "ac_base_alcor01",
+		"BaseLink": "/CH_top"
+	},
+	{
+		"ID": 82,
+		"Category": "MAIN",
+		"Name": "schuldt01",
+		"FileName": "live2d/AC_schuldt01",
+		"Model": "ac_schuldt01",
+		"BaseModel": "ac_base_schuldt01",
+		"BaseLink": "/CH_top"
+	},
+	{
+		"ID": 83,
+		"Category": "MAIN",
+		"Name": "tibby01",
+		"FileName": "live2d/AC_tibby01",
+		"Model": "ac_tibby01",
+		"BaseModel": "ac_base_tibby01",
+		"BaseLink": "/CH_top"
+	},
+	{
+		"ID": 84,
+		"Category": "SUB",
+		"Name": "felt_dress01",
+		"FileName": "live2d/AC_felt_dress01",
+		"Model": "ac_felt_dress01",
+		"BaseModel": "ac_base_felt_dress01",
+		"BaseLink": "/CH_top"
+	},
+	{
+		"ID": 85,
+		"Category": "SUB",
+		"Name": "priscilla_nemaki01",
+		"FileName": "live2d/AC_priscilla_nemaki01",
+		"Model": "ac_priscilla_nemaki01",
+		"BaseModel": "ac_base_priscilla_nemaki01",
+		"BaseLink": "/CH_top"
+	},
+	{
+		"ID": 86,
+		"Category": "SUB",
+		"Name": "citizen_hood01",
+		"FileName": "live2d/AC_citizen_hood01",
+		"Model": "ac_citizen_hood01",
+		"BaseModel": "ac_base_citizen_hood01",
+		"BaseLink": "/CH_top"
+	},
+	{
+		"ID": 87,
+		"Category": "SUB",
+		"Name": "yubisaki_man01",
+		"FileName": "live2d/AC_yubisaki_man01",
+		"Model": "ac_yubisaki_man01",
+		"BaseModel": "ac_base_yubisaki_man01",
+		"BaseLink": "/CH_top"
+	},
+	{
+		"ID": 88,
+		"Category": "SUB",
+		"Name": "yubisaki_woman01",
+		"FileName": "live2d/AC_yubisaki_woman01",
+		"Model": "ac_yubisaki_woman01",
+		"BaseModel": "ac_base_yubisaki_woman01",
+		"BaseLink": "/CH_top"
+	},
+	{
+		"ID": 89,
+		"Category": "SUB",
+		"Name": "miklotov01",
+		"FileName": "live2d/AC_miklotov01",
+		"Model": "ac_miklotov01",
+		"BaseModel": "ac_base_miklotov01",
+		"BaseLink": "/CH_top"
+	},
+	{
+		"ID": 90,
+		"Category": "SUB",
+		"Name": "hetaro_prison01",
+		"FileName": "live2d/AC_hetaro_prison01",
+		"Model": "ac_hetaro_prison01",
+		"BaseModel": "ac_base_hetaro_prison01",
+		"BaseLink": "/CH_top"
+	},
+	{
+		"ID": 91,
+		"Category": "SUB",
+		"Name": "otto_prison01",
+		"FileName": "live2d/AC_otto_prison01",
+		"Model": "ac_otto_prison01",
+		"BaseModel": "ac_base_otto_prison01",
+		"BaseLink": "/CH_top"
+	},
+	{
+		"ID": 92,
+		"Category": "SUB",
+		"Name": "tibby_prison01",
+		"FileName": "live2d/AC_tibby_prison01",
+		"Model": "ac_tibby_prison01",
+		"BaseModel": "ac_base_tibby_prison01",
+		"BaseLink": "/CH_top"
+	},
+	{
+		"ID": 93,
+		"Category": "SUB",
+		"Name": "ricardo_prison01",
+		"FileName": "live2d/AC_ricardo_prison01",
+		"Model": "ac_ricardo_prison01",
+		"BaseModel": "ac_base_ricardo_prison01",
+		"BaseLink": "/CH_top"
+	},
+	{
+		"ID": 94,
+		"Category": "SUB",
+		"Name": "subaru_prison01",
+		"FileName": "live2d/AC_subaru_prison01",
+		"Model": "ac_subaru_prison01",
+		"BaseModel": "ac_base_subaru_prison01",
+		"BaseLink": "/CH_top"
+	},
+	{
+		"ID": 95,
+		"Category": "SUB",
+		"Name": "kan_prison01",
+		"FileName": "live2d/AC_kan_prison01",
+		"Model": "ac_kan_prison01",
+		"BaseModel": "ac_base_kan_prison01",
+		"BaseLink": "/CH_top"
+	},
+	{
+		"ID": 96,
+		"Category": "SUB",
+		"Name": "chin_prison01",
+		"FileName": "live2d/AC_chin_prison01",
+		"Model": "ac_chin_prison01",
+		"BaseModel": "ac_base_chin_prison01",
+		"BaseLink": "/CH_top"
+	},
+	{
+		"ID": 97,
+		"Category": "SUB",
+		"Name": "ton_prison01",
+		"FileName": "live2d/AC_ton_prison01",
+		"Model": "ac_ton_prison01",
+		"BaseModel": "ac_base_ton_prison01",
+		"BaseLink": "/CH_top"
+	},
+	{
+		"ID": 98,
+		"Category": "SUB",
+		"Name": "ghost01",
+		"FileName": "live2d/AC_ghost01",
+		"Model": "ac_ghost01",
+		"BaseModel": "ac_base_ghost01",
+		"BaseLink": "/CH_top"
+	},
+	{
+		"ID": 99,
+		"Category": "SUB",
+		"Name": "governor01",
+		"FileName": "live2d/AC_governor01",
+		"Model": "ac_governor01",
+		"BaseModel": "ac_base_governor01",
+		"BaseLink": "/CH_top"
+	},
+	{
+		"ID": 100,
+		"Category": "SUB",
+		"Name": "villager_woman01",
+		"FileName": "live2d/AC_villager_woman01",
+		"Model": "ac_villager_woman01",
+		"BaseModel": "ac_base_villager_woman01",
+		"BaseLink": "/CH_top"
+	},
+	{
+		"ID": 101,
+		"Category": "SUB",
+		"Name": "villager_man01",
+		"FileName": "live2d/AC_villager_man01",
+		"Model": "ac_villager_man01",
+		"BaseModel": "ac_base_villager_man01",
+		"BaseLink": "/CH_top"
+	},
+	{
+		"ID": 102,
+		"Category": "SUB",
+		"Name": "roswaal_yukata01",
+		"FileName": "live2d/AC_roswaal_yukata01",
+		"Model": "ac_roswaal_yukata01",
+		"BaseModel": "ac_base_roswaal_yukata01",
+		"BaseLink": "/CH_top"
+	},
+	{
+		"ID": 103,
+		"Category": "SUB",
+		"Name": "felt_beast01",
+		"FileName": "live2d/AC_felt_beast01",
+		"Model": "ac_felt_beast01",
+		"BaseModel": "ac_base_felt_beast01",
+		"BaseLink": "/CH_top"
+	},
+	{
+		"ID": 104,
+		"Category": "SUB",
+		"Name": "rowdy01",
+		"FileName": "live2d/AC_rowdy01",
+		"Model": "ac_rowdy01",
+		"BaseModel": "ac_base_rowdy01",
+		"BaseLink": "/CH_top"
+	},
+	{
+		"ID": 105,
+		"Category": "SUB",
+		"Name": "nobility01",
+		"FileName": "live2d/AC_nobility01",
+		"Model": "ac_nobility01",
+		"BaseModel": "ac_base_nobility01",
+		"BaseLink": "/CH_top"
+	},
+	{
+		"ID": 106,
+		"Category": "SUB",
+		"Name": "witchcult01",
+		"FileName": "live2d/AC_witchcult01",
+		"Model": "ac_witchcult01",
+		"BaseModel": "ac_base_witchcult01",
+		"BaseLink": "/CH_top"
+	},
+	{
+		"ID": 107,
+		"Category": "SUB",
+		"Name": "urugarumu01",
+		"FileName": "live2d/AC_urugarumu01",
+		"Model": "ac_urugarumu01",
+		"BaseModel": "ac_base_urugarumu01",
+		"BaseLink": "/CH_top"
+	},
+	{
+		"ID": 108,
+		"Category": "SUB",
+		"Name": "urugarumuboss01",
+		"FileName": "live2d/AC_urugarumuboss01",
+		"Model": "ac_urugarumuboss01",
+		"BaseModel": "ac_base_urugarumuboss01",
+		"BaseLink": "/CH_top"
+	},
+	{
+		"ID": 109,
+		"Category": "SUB",
+		"Name": "urugarumuboss_true01",
+		"FileName": "live2d/AC_urugarumuboss_true01",
+		"Model": "ac_urugarumuboss_true01",
+		"BaseModel": "ac_base_urugarumuboss_true01",
+		"BaseLink": "/CH_top"
+	}
+]

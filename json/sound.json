@@ -1,0 +1,86 @@
+[
+	{
+		"ID": "bgm03",
+		"Sound": "bgm03",
+		"Type": "BGM",
+		"Volume": 50
+	},
+	{
+		"ID": "bgm04",
+		"Sound": "bgm04",
+		"Type": "BGM",
+		"Volume": 50
+	},
+	{
+		"ID": "bgm07",
+		"Sound": "bgm07",
+		"Type": "BGM",
+		"Volume": 50
+	},
+	{
+		"ID": "ButtonClick01",
+		"Sound": "seButtonClick01",
+		"Type": "SE",
+		"Volume": 50
+	},
+	{
+		"ID": "Cancel01",
+		"Sound": "seCancel01",
+		"Type": "SE",
+		"Volume": 50
+	},
+	{
+		"ID": "SerifOpen",
+		"Sound": "seSerifOpen",
+		"Type": "SE",
+		"Volume": 50
+	},
+	{
+		"ID": "ParameterChange",
+		"Sound": "seParameterChange",
+		"Type": "SE",
+		"Volume": 50
+	},
+	{
+		"ID": "MissionAchieve01",
+		"Sound": "seMissionAchieve01",
+		"Type": "SE",
+		"Volume": 50
+	},
+	{
+		"ID": "MissionAchieve02",
+		"Sound": "seMissionAchieve02",
+		"Type": "SE",
+		"Volume": 30
+	},
+	{
+		"ID": "NewEvent",
+		"Sound": "seNewEvent",
+		"Type": "SE",
+		"Volume": 50
+	},
+	{
+		"ID": "ChapterTitle",
+		"Sound": "seChapterTitle",
+		"Type": "SE",
+		"Volume": 30
+	},
+	{
+		"ID": "voice_felt_call01",
+		"Sound": "voice_felt_call01",
+		"Type": "VOICE",
+		"Volume": 100
+	},
+	{
+		"ID": "voice_rom_angry01",
+		"Sound": "voice_rom_angry01",
+		"Type": "VOICE",
+		"Volume": 100
+	},
+	{
+		"ID": "voice_rom_angry02",
+		"Sound": "voice_rom_angry02",
+		"Type": "VOICE",
+		"Volume": 100
+	}
+]

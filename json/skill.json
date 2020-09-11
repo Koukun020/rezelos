@@ -1,0 +1,80 @@
+{ "data":
+[
+	{
+		"ID": 101,
+		"Name": "ゴーア",
+		"Desc": "火の魔法",
+		"NeedID": "need_1",
+		"MaxLv": 10
+	},
+	{
+		"ID": 102,
+		"Name": "エルゴーア",
+		"Desc": "火の魔法(中)",
+		"NeedID": "need_2",
+		"MaxLv": 10
+	},
+	{
+		"ID": 103,
+		"Name": "ウルゴーア",
+		"Desc": "火の魔法(大)",
+		"NeedID": "need_3",
+		"MaxLv": 10
+	},
+	{
+		"ID": 104,
+		"Name": "アルゴーア",
+		"Desc": "火の魔法(極大)",
+		"NeedID": "need_4",
+		"MaxLv": 10
+	},
+	{
+		"ID": 201,
+		"Name": "ヒューマ",
+		"Desc": "氷の魔法",
+		"NeedID": "need_5",
+		"MaxLv": 10
+	},
+	{
+		"ID": 202,
+		"Name": "エルヒューマ",
+		"Desc": "氷の魔法(中)",
+		"NeedID": "need_6",
+		"MaxLv": 10
+	},
+	{
+		"ID": 203,
+		"Name": "ウルヒューマ",
+		"Desc": "氷の魔法(大)",
+		"NeedID": "need_7",
+		"MaxLv": 10
+	},
+	{
+		"ID": 204,
+		"Name": "アルヒューマ",
+		"Desc": "氷の魔法(極大)",
+		"NeedID": "need_8",
+		"MaxLv": 10
+	},
+	{
+		"ID": 301,
+		"Name": "フーラ",
+		"Desc": "風の魔法",
+		"NeedID": "need_1",
+		"MaxLv": 10
+	},
+	{
+		"ID": 401,
+		"Name": "ドーナ",
+		"Desc": "土の魔法",
+		"NeedID": "need_2",
+		"MaxLv": 10
+	},
+	{
+		"ID": 501,
+		"Name": "シャマク",
+		"Desc": "陰の魔法",
+		"NeedID": "need_3",
+		"MaxLv": 10
+	}
+]}
