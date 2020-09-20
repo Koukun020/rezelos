@@ -147,7 +147,7 @@
             }
         ],
         "id": 1001,
-        "is_sp_boss": false,
+        "is_sp_boss": true,
         "shop_destination": {
             "view": "交換所へ",
             "val3": 0,
