@@ -1,0 +1,87 @@
+{
+    "transaction_id": "user_data",
+    "is_boss_event_unlock": 1,
+    "server_time": 1600603438088,
+    "is_extra_battle_unlock": 1,
+    "is_arena_unlock": 1,
+    "stamina": [
+        {
+            "val": "user_data",
+            "recover_sec": 300,
+            "is_full": 1,
+            "max": "user_data",
+            "is_update": 0,
+            "recover_one_sec": 0,
+            "recover_full_ts": "user_data",
+            "type": 2,
+            "recover_total_sec": 0
+        },
+        {
+            "val": "user_data",
+            "recover_sec": 10800,
+            "is_full": 0,
+            "max": 5,
+            "is_update": 0,
+            "recover_one_sec": "user_data",
+            "recover_full_ts": "user_data",
+            "type": 3,
+            "recover_total_sec": "user_data"
+        }
+    ],
+    "boss_event": [
+        {
+            "event_id": 1001,
+            "img_name": "evt_bnr_0001_04",
+            "is_create_ranking": 0,
+            "is_badge": 0,
+            "term_end": 1600829999000
+        }
+    ],
+    "user_data": "user_data",
+    "area_list": [
+        {
+            "clear_count": 0,
+            "is_lock": 0,
+            "progress_status": 1,
+            "area_id": 2001
+        },
+        {
+            "clear_count": 0,
+            "is_lock": 0,
+            "progress_status": 1,
+            "area_id": 2002
+        },
+        {
+            "clear_count": 0,
+            "is_lock": 0,
+            "progress_status": 1,
+            "area_id": 2003
+        }
+    ],
+    "res_code": 0,
+    "client_wait": 0,
+    "extra_battle": {
+        "is_drop_up": 0,
+        "play_limit": -1,
+        "clear_count": 0,
+        "is_badge": 0,
+        "term_end": 0,
+        "is_campaign_open": 0
+    },
+    "weekday_battle": {
+        "is_drop_up": 0,
+        "play_limit": -1,
+        "clear_count": 0,
+        "is_badge": 0,
+        "term_end": 0,
+        "is_campaign_open": 0
+    },
+    "is_weekday_battle_unlock": 1,
+    "arena_season": {
+        "reward_start_tm": 1601431199000,
+        "is_badge": 0,
+        "start_tm": 1598886000000,
+        "id": 1,
+        "end_tm": 1601431199000
+    }
+}
