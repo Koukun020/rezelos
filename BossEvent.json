@@ -1,0 +1,162 @@
+{
+    "transaction_id": "user_data",
+    "server_time": "user_data",
+    "mission": {
+        "norma": 1,
+        "name": "[ウルガルム討伐デイリーミッション]\nウルガルム討伐クエストを1回クリアする",
+        "destination": {
+            "view": "イベントへ",
+            "val3": 0,
+            "val2": 0,
+            "val1": 0,
+            "id": 2006
+        },
+        "description": "[ウルガルム討伐デイリーミッション]\nウルガルム討伐クエストを1回クリアする",
+        "progress": 0,
+        "term_end": 1600613999000,
+        "id": 110529,
+        "type": 1,
+        "prize_list": [
+            {
+                "ticket_num": 0,
+                "prize_id_sub": 0,
+                "prize_id": 40201,
+                "num": 100,
+                "val_b": 0,
+                "piece_num": 0,
+                "val_type": 0,
+                "type": 3,
+                "is_duplicate": 0,
+                "val_a": 0
+            }
+        ],
+        "status": 1
+    },
+    "how_to_play": {
+        "skit_id": 2001,
+        "scene_option": "",
+        "scenario_list": [
+            {
+                "voice": "",
+                "image": "evt_bnr_0001_06",
+                "character": "",
+                "uniq_id": 20010001,
+                "motion": "",
+                "video": "",
+                "msg_text": "ボス討伐イベント開催中です。",
+                "msg_header": "ボス討伐イベントの遊び方",
+                "scenario_type": 4,
+                "scenario_id": 1,
+                "command": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "voice": "",
+                "image": "SKIT_EVT_01",
+                "character": "",
+                "uniq_id": 20010002,
+                "motion": "",
+                "video": "",
+                "msg_text": "通常のクエストをクリアして、イベントボス\n挑戦券を入手しましょう。\nイベントボス討伐クエストに挑戦できます。",
+                "msg_header": "ボス討伐イベントの遊び方",
+                "scenario_type": 4,
+                "scenario_id": 2,
+                "command": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "voice": "",
+                "image": "SKIT_EVT_02",
+                "character": "",
+                "uniq_id": 20010003,
+                "motion": "",
+                "video": "",
+                "msg_text": "イベントボスを倒して、勲章を手に入れま\nしょう。入手した勲章は、勲章交換所で様々\nなアイテムと交換できます。",
+                "msg_header": "ボス討伐イベントの遊び方",
+                "scenario_type": 4,
+                "scenario_id": 3,
+                "command": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "voice": "",
+                "image": "SKIT_EVT_03",
+                "character": "",
+                "uniq_id": 20010004,
+                "motion": "",
+                "video": "",
+                "msg_text": "イベントボスを倒すと、レアクリスタルと\n遭遇することがあります。倒すと大量の勲章\nを手に入れることができます。",
+                "msg_header": "ボス討伐イベントの遊び方",
+                "scenario_type": 4,
+                "scenario_id": 4,
+                "command": [
+                    "",
+                    "",
+                    ""
+                ]
+            }
+        ]
+    },
+    "boss_event": {
+        "img_deck_name": "ADV_bg103a_forest",
+        "cost_item": {
+            "prize_id": 40101,
+            "num": "user_data",
+            "type": 3
+        },
+        "cost_item_up_max": 0,
+        "mission_destination": {
+            "view": "交換所へ",
+            "val3": 0,
+            "val2": 0,
+            "val1": 0,
+            "id": 209
+        },
+        "is_exchang": false,
+        "prize_item_up_max": 100,
+        "view_end": 1601089199000,
+        "term_start": 1600225200000,
+        "prize_item": {
+            "prize_id": 40201,
+            "num": "user_data",
+            "type": 3
+        },
+        "img_name": "evt_bnr_0001_01",
+        "battle_card_skill": [
+            {
+                "base_id": 10402001
+            }
+        ],
+        "img_bg_name": "ADV_bg103a_forest",
+        "name": "ウルガルム討伐イベント",
+        "term_end": 1600829999000,
+        "ranking": "user_data",
+        "support_card_skill": [
+            {
+                "base_id": 50111030,
+                "parameter": 15
+            }
+        ],
+        "id": 1001,
+        "is_sp_boss": false,
+        "shop_destination": {
+            "view": "交換所へ",
+            "val3": 0,
+            "val2": 0,
+            "val1": 40001,
+            "id": 209
+        },
+        "is_ranking_reward": false
+    },
+    "res_code": 0,
+    "client_wait": 0
+}

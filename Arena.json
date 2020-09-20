@@ -1,0 +1,51 @@
+{
+    "transaction_id": "user_data",
+    "server_time": "user_data",
+    "stamina": [
+        {
+            "val": "user_data",
+            "recover_sec": 300,
+            "is_full": 1,
+            "max": "user_data",
+            "is_update": 0,
+            "recover_one_sec": 0,
+            "recover_full_ts": "user_data",
+            "type": 2,
+            "recover_total_sec": 0
+        },
+        {
+            "val": "user_data",
+            "recover_sec": 10800,
+            "is_full": 0,
+            "max": 5,
+            "is_update": 1,
+            "recover_one_sec": "user_data",
+            "recover_full_ts": "user_data",
+            "type": 3,
+            "recover_total_sec": "user_data"
+        }
+    ],
+    "ranking_point": "user_data",
+    "arena_coin": "user_data",
+    "user_data": "user_data",
+    "res_code": 0,
+    "client_wait": 0,
+    "event_coin": 0,
+    "condition_pattern_id": 1,
+    "rank": "user_data",
+    "season_data": {
+        "reward_start_tm": 1601431199000,
+        "is_badge": 0,
+        "start_tm": 1598886000000,
+        "id": 1,
+        "end_tm": 1601431199000
+    },
+    "defense_deck": "user_data",
+    "shop_destination": {
+        "view": "ŒğŠ·Š‚Ö",
+        "val3": 0,
+        "val2": 0,
+        "val1": 30001,
+        "id": 209
+    }
+}
