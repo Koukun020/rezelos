@@ -1,0 +1,4900 @@
+{
+    "shop_list": [
+        {
+            "item_view": 0,
+            "img_name": "",
+            "item_id": 0,
+            "catalog_list": [
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 0,
+                            "num": 0,
+                            "type": 0
+                        }
+                    ],
+                    "buy_count": 0,
+                    "total_buy_count": "user_data",
+                    "limit_term_num": -1,
+                    "description": "・購入した有償魔法石は、直接所持数に加算されます。",
+                    "priority": 3,
+                    "prize": [
+                        {
+                            "prize_id": 0,
+                            "num": 0,
+                            "type": 0
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "魔法石 34個",
+                    "id": 10000101,
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 0,
+                            "num": 0,
+                            "type": 0
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "魔法石 140個",
+                    "limit_term_num": -1,
+                    "description": "・購入した有償魔法石は、直接所持数に加算されます。",
+                    "id": 10000401,
+                    "priority": 4,
+                    "prize": [
+                        {
+                            "prize_id": 0,
+                            "num": 0,
+                            "type": 0
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 0,
+                            "num": 0,
+                            "type": 0
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "魔法石 280個＋オマケ12個",
+                    "limit_term_num": -1,
+                    "description": "・購入した有償、無償魔法石は、直接所持数に加算されます。",
+                    "id": 10000801,
+                    "priority": 5,
+                    "prize": [
+                        {
+                            "prize_id": 0,
+                            "num": 0,
+                            "type": 0
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 0,
+                            "num": 0,
+                            "type": 0
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "魔法石 422個＋オマケ32個",
+                    "limit_term_num": -1,
+                    "description": "・購入した有償、無償魔法石は、直接所持数に加算されます。",
+                    "id": 10001201,
+                    "priority": 6,
+                    "prize": [
+                        {
+                            "prize_id": 0,
+                            "num": 0,
+                            "type": 0
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 2,
+                    "cost": [
+                        {
+                            "prize_id": 0,
+                            "num": 0,
+                            "type": 0
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "[月4回限定]魔法石 560個＋オマケ350個",
+                    "limit_term_num": -1,
+                    "description": "・購入した有償、無償魔法石は、直接所持数に加算されます。\n・「[月4回限定]魔法石 560個＋オマケ350個」は同一月内に4回購入することができます。\n・購入回数は、毎月1日の00:00にリセットされます。",
+                    "id": 10001601,
+                    "priority": 1,
+                    "prize": [
+                        {
+                            "prize_id": 0,
+                            "num": 0,
+                            "type": 0
+                        }
+                    ],
+                    "limit_num": 4
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 0,
+                            "num": 0,
+                            "type": 0
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "魔法石 840個＋オマケ100個",
+                    "limit_term_num": -1,
+                    "description": "・購入した有償、無償魔法石は、直接所持数に加算されます。",
+                    "id": 10002401,
+                    "priority": 7,
+                    "prize": [
+                        {
+                            "prize_id": 0,
+                            "num": 0,
+                            "type": 0
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 0,
+                            "num": 0,
+                            "type": 0
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "魔法石 1,400個＋オマケ230個",
+                    "limit_term_num": -1,
+                    "description": "・購入した有償、無償魔法石は、直接所持数に加算されます。",
+                    "id": 10004001,
+                    "priority": 8,
+                    "prize": [
+                        {
+                            "prize_id": 0,
+                            "num": 0,
+                            "type": 0
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 0,
+                            "num": 0,
+                            "type": 0
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "魔法石 2,857個＋オマケ620個",
+                    "limit_term_num": -1,
+                    "description": "・購入した有償、無償魔法石は、直接所持数に加算されます。",
+                    "id": 10005601,
+                    "priority": 9,
+                    "prize": [
+                        {
+                            "prize_id": 0,
+                            "num": 0,
+                            "type": 0
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 2,
+                    "cost": [
+                        {
+                            "prize_id": 0,
+                            "num": 0,
+                            "type": 0
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "[月3回限定]魔法石 2,857個＋オマケ2,000個",
+                    "limit_term_num": -1,
+                    "description": "・購入した有償、無償魔法石は、直接所持数に加算されます。\n・「[月3回限定]魔法石 2,857個＋オマケ2,000個」は同一月内に3回購入することができます。\n・購入回数は、毎月1日の00:00にリセットされます。",
+                    "id": 10005602,
+                    "priority": 2,
+                    "prize": [
+                        {
+                            "prize_id": 0,
+                            "num": 0,
+                            "type": 0
+                        }
+                    ],
+                    "limit_num": 3
+                }
+            ],
+            "name": "魔法石購入",
+            "shop_type": 1,
+            "description": "魔法石購入",
+            "term_view": 0,
+            "id": 10001,
+            "priority": 0
+        },
+        {
+            "item_view": 0,
+            "img_name": "",
+            "item_id": 0,
+            "catalog_list": [
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 0,
+                            "num": 0,
+                            "type": 0
+                        }
+                    ],
+                    "img_name": "pck_bnr_0001.png",
+                    "group_id": 100,
+                    "name": "【1回限定】★2以上確定ガチャチケットパック",
+                    "limit_term_num": 1,
+                    "description": "・購入した有償魔法石は、直接所持数に加算されます。\n・「【1回限定】★2以上確定ガチャチケットパック」で購入したチケットは、プレゼントBOXに送られます。\n・「【1回限定】★2以上確定ガチャチケットパック」は1回だけ購入することができます。\n・「★2以上確定ガチャチケット」の使用期限は獲得した日から170日後までになります。",
+                    "id": 10010102,
+                    "priority": 1,
+                    "prize": [
+                        {
+                            "prize_id": 1010,
+                            "num": 1,
+                            "type": 3
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 0,
+                            "num": 0,
+                            "type": 0
+                        }
+                    ],
+                    "img_name": "pck_bnr_0002.png",
+                    "group_id": 200,
+                    "name": "【1回限定】★2以上キャラ確定ガチャチケットパック",
+                    "limit_term_num": 1,
+                    "description": "・購入した有償魔法石は、直接所持数に加算されます。\n・「【1回限定】★2以上キャラ確定ガチャチケットパック」で購入したチケットは、プレゼントBOXに送られます。\n・「【1回限定】★2以上キャラ確定ガチャチケットパック」は1回だけ購入することができます。\n・「★2以上キャラ確定ガチャチケット」の使用期限は獲得した日から170日後までになります。",
+                    "id": 10010402,
+                    "priority": 2,
+                    "prize": [
+                        {
+                            "prize_id": 1020,
+                            "num": 1,
+                            "type": 3
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 3,
+                    "cost": [
+                        {
+                            "prize_id": 0,
+                            "num": 0,
+                            "type": 0
+                        }
+                    ],
+                    "img_name": "pck_bnr_0005.png",
+                    "group_id": 500,
+                    "name": "デイリー魔法石パック",
+                    "limit_term_num": -1,
+                    "description": "・「デイリー魔法石パック」の購入時に有償魔法石280個を獲得できます。\n・有効期間中、毎日配布される無償魔法石30個はログインボーナスとして受け取れます。\n・有効期間中、ログインしなかった日数分の無償魔法石は獲得することはできません。\n・有効期間は購入日から27日後の23:59までです。\n例）1月1日15:00に購入した場合、1月28日23:59までが有効期間になります。\n・「デイリー魔法石パック」は購入後28日目から再購入することができます。\n※28日目に再購入した場合は翌日の00:00から28日間ログインボーナスが発生します。",
+                    "id": 10010802,
+                    "priority": 5,
+                    "prize": [
+                        {
+                            "prize_id": 0,
+                            "num": 0,
+                            "type": 0
+                        }
+                    ],
+                    "limit_num": 1
+                },
+                {
+                    "limit_type": 3,
+                    "cost": [
+                        {
+                            "prize_id": 0,
+                            "num": 0,
+                            "type": 0
+                        }
+                    ],
+                    "img_name": "pck_bnr_0006.png",
+                    "group_id": 600,
+                    "name": "EXP特訓所SPドロップ報酬100%UPパック",
+                    "limit_term_num": -1,
+                    "description": "・「EXP特訓所SPドロップ報酬100%UPパック」の購入時に有償魔法石280個を獲得できます。\n・通常の「EXP訓練所」は対象外となります\n・有効期間の終了は購入日から27日後の23:59までです。\n例）1月1日15:00に購入した場合、1月28日23:59までが有効期間になります。\n・「EXP特訓所SPドロップ報酬100%UPパック」は購入後28日目から再購入することができます。\n※28日目に再購入した場合は翌日の00:00から28日間が有効期間となります。\n※訓練所SPをプレイ後に購入をしてしまうと、1日分の効果が得られなくなってしまうのでご注意ください",
+                    "id": 10010803,
+                    "priority": 6,
+                    "prize": [
+                        {
+                            "prize_id": 0,
+                            "num": 0,
+                            "type": 0
+                        }
+                    ],
+                    "limit_num": 1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 0,
+                            "num": 0,
+                            "type": 0
+                        }
+                    ],
+                    "img_name": "pck_bnr_0003.png",
+                    "group_id": 300,
+                    "name": "【1回限定】★3記憶結晶確定ガチャチケットパック",
+                    "limit_term_num": 1,
+                    "description": "・購入した有償魔法石は、直接所持数に加算されます。\n・「【1回限定】★3記憶結晶確定ガチャチケットパック」で購入したチケットは、プレゼントBOXに送られます。\n・「【1回限定】★3記憶結晶確定ガチャチケットパック」は1回だけ購入することができます。\n・「★3記憶結晶確定ガチャチケット」の使用期限は獲得した日から170日後までになります。",
+                    "id": 10011202,
+                    "priority": 3,
+                    "prize": [
+                        {
+                            "prize_id": 1040,
+                            "num": 1,
+                            "type": 3
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 0,
+                            "num": 0,
+                            "type": 0
+                        }
+                    ],
+                    "img_name": "pck_bnr_0004.png",
+                    "group_id": 400,
+                    "name": "【1回限定】★3キャラ確定ガチャチケットパック",
+                    "limit_term_num": 1,
+                    "description": "・購入した有償魔法石は、直接所持数に加算されます。\n・「【1回限定】★3キャラ確定ガチャチケットパック」で購入したチケットは、プレゼントBOXに送られます。\n・「【1回限定】★3キャラ確定ガチャチケットパック」は1回だけ購入することができます。\n・「★3キャラ確定ガチャチケット」の使用期限は獲得した日から170日後までになります。",
+                    "id": 10012402,
+                    "priority": 4,
+                    "prize": [
+                        {
+                            "prize_id": 1030,
+                            "num": 1,
+                            "type": 3
+                        }
+                    ],
+                    "limit_num": -1
+                }
+            ],
+            "name": "魔法石パック購入",
+            "shop_type": 2,
+            "description": "魔法石パック購入",
+            "term_view": 0,
+            "id": 10002,
+            "priority": 0
+        },
+        {
+            "item_view": 0,
+            "img_name": "",
+            "item_id": 0,
+            "catalog_list": [
+                {
+                    "limit_type": 2,
+                    "cost": [
+                        {
+                            "prize_id": 0,
+                            "num": 200,
+                            "type": 4
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "[月2回限定]上限突破の秘薬",
+                    "limit_term_num": -1,
+                    "description": "[月2回限定]上限突破の秘薬",
+                    "id": 10003001,
+                    "priority": 1,
+                    "prize": [
+                        {
+                            "prize_id": 32605,
+                            "num": 1,
+                            "type": 3
+                        }
+                    ],
+                    "limit_num": 2
+                }
+            ],
+            "name": "アイテム交換",
+            "shop_type": 3,
+            "description": "アイテム交換",
+            "term_view": 0,
+            "id": 10003,
+            "priority": 0
+        },
+        {
+            "item_view": 1,
+            "view": {
+                "prize_id": 100001,
+                "num": 0,
+                "type": 3
+            },
+            "img_name": "exc_bnr_medal_arena_01.png",
+            "item_id": 0,
+            "catalog_list": [
+                {
+                    "limit_type": 1,
+                    "cost": [
+                        {
+                            "prize_id": 100001,
+                            "num": 15,
+                            "type": 3
+                        }
+                    ],
+                    "buy_count": 0,
+                    "total_buy_count": "user_data",
+                    "limit_term_num": -1,
+                    "description": "アリーナメダル交換",
+                    "priority": 1,
+                    "prize": [
+                        {
+                            "prize_id": 11701001,
+                            "num": 2,
+                            "type": 9
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "[1日3回限定]【食いしんぼう】ミミのかけら",
+                    "id": 30001001,
+                    "limit_num": 3
+                },
+                {
+                    "limit_type": 1,
+                    "cost": [
+                        {
+                            "prize_id": 100001,
+                            "num": 15,
+                            "type": 3
+                        }
+                    ],
+                    "buy_count": 0,
+                    "total_buy_count": "user_data",
+                    "limit_term_num": -1,
+                    "description": "アリーナメダル交換",
+                    "priority": 2,
+                    "prize": [
+                        {
+                            "prize_id": 10101001,
+                            "num": 2,
+                            "type": 9
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "[1日3回限定]【夕闇の幻想】エミリアのかけら",
+                    "id": 30001002,
+                    "limit_num": 3
+                },
+                {
+                    "limit_type": 1,
+                    "cost": [
+                        {
+                            "prize_id": 100001,
+                            "num": 15,
+                            "type": 3
+                        }
+                    ],
+                    "buy_count": 0,
+                    "total_buy_count": "user_data",
+                    "limit_term_num": -1,
+                    "description": "アリーナメダル交換",
+                    "priority": 3,
+                    "prize": [
+                        {
+                            "prize_id": 10201001,
+                            "num": 2,
+                            "type": 9
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "[1日3回限定]【王都を駆ける】フェルトのかけら",
+                    "id": 30001003,
+                    "limit_num": 3
+                },
+                {
+                    "limit_type": 1,
+                    "cost": [
+                        {
+                            "prize_id": 100001,
+                            "num": 5,
+                            "type": 3
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "[1日1回限定]経験値の紙面",
+                    "limit_term_num": -1,
+                    "description": "アリーナメダル交換",
+                    "id": 30001004,
+                    "priority": 4,
+                    "prize": [
+                        {
+                            "prize_id": 12299,
+                            "num": 5,
+                            "type": 3
+                        }
+                    ],
+                    "limit_num": 1
+                },
+                {
+                    "limit_type": 1,
+                    "cost": [
+                        {
+                            "prize_id": 100001,
+                            "num": 5,
+                            "type": 3
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "[1日1回限定]コイン ",
+                    "limit_term_num": -1,
+                    "description": "アリーナメダル交換",
+                    "id": 30001005,
+                    "priority": 5,
+                    "prize": [
+                        {
+                            "prize_id": 0,
+                            "num": 10000,
+                            "type": 6
+                        }
+                    ],
+                    "limit_num": 1
+                },
+                {
+                    "limit_type": 1,
+                    "cost": [
+                        {
+                            "prize_id": 100001,
+                            "num": 10,
+                            "type": 3
+                        }
+                    ],
+                    "buy_count": 0,
+                    "total_buy_count": "user_data",
+                    "limit_term_num": -1,
+                    "description": "アリーナメダル交換",
+                    "priority": 6,
+                    "prize": [
+                        {
+                            "prize_id": 3400,
+                            "num": 30,
+                            "type": 3
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "[1日1回限定]幸運",
+                    "id": 30001006,
+                    "limit_num": 1
+                },
+                {
+                    "limit_type": 1,
+                    "cost": [
+                        {
+                            "prize_id": 100001,
+                            "num": 20,
+                            "type": 3
+                        }
+                    ],
+                    "buy_count": 0,
+                    "total_buy_count": "user_data",
+                    "limit_term_num": -1,
+                    "description": "アリーナメダル交換",
+                    "priority": 7,
+                    "prize": [
+                        {
+                            "prize_id": 3100,
+                            "num": 30,
+                            "type": 3
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "[1日1回限定]カリスマ",
+                    "id": 30001007,
+                    "limit_num": 1
+                },
+                {
+                    "limit_type": 1,
+                    "cost": [
+                        {
+                            "prize_id": 100001,
+                            "num": 40,
+                            "type": 3
+                        }
+                    ],
+                    "buy_count": 0,
+                    "total_buy_count": "user_data",
+                    "limit_term_num": -1,
+                    "description": "アリーナメダル交換",
+                    "priority": 8,
+                    "prize": [
+                        {
+                            "prize_id": 3300,
+                            "num": 30,
+                            "type": 3
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "[1日1回限定]覇気",
+                    "id": 30001008,
+                    "limit_num": 1
+                },
+                {
+                    "limit_type": 2,
+                    "cost": [
+                        {
+                            "prize_id": 100001,
+                            "num": 500,
+                            "type": 3
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "[月1回限定]上限突破の秘薬",
+                    "limit_term_num": -1,
+                    "description": "アリーナメダル交換",
+                    "id": 30001009,
+                    "priority": 9,
+                    "prize": [
+                        {
+                            "prize_id": 32605,
+                            "num": 1,
+                            "type": 3
+                        }
+                    ],
+                    "limit_num": 1
+                }
+            ],
+            "name": "アリーナメダル交換所",
+            "shop_type": 4,
+            "description": "アリーナメダル交換所",
+            "term_view": 0,
+            "id": 30001,
+            "priority": 5
+        },
+        {
+            "item_view": 1,
+            "view": {
+                "prize_id": 1501,
+                "num": 0,
+                "type": 3
+            },
+            "img_name": "exc_bnr_medal_rezelos_01.png",
+            "item_id": 0,
+            "catalog_list": [
+                {
+                    "limit_type": 2,
+                    "cost": [
+                        {
+                            "prize_id": 1501,
+                            "num": 100,
+                            "type": 3
+                        }
+                    ],
+                    "buy_count": 0,
+                    "total_buy_count": "user_data",
+                    "limit_term_num": -1,
+                    "description": "リゼロスメダル交換",
+                    "priority": 1,
+                    "prize": [
+                        {
+                            "prize_id": 1000,
+                            "num": 1,
+                            "type": 3
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "[月1回限定]リゼロスガチャチケット",
+                    "id": 30002001,
+                    "limit_num": 1
+                },
+                {
+                    "limit_type": 2,
+                    "cost": [
+                        {
+                            "prize_id": 1501,
+                            "num": 300,
+                            "type": 3
+                        }
+                    ],
+                    "buy_count": 0,
+                    "total_buy_count": "user_data",
+                    "limit_term_num": -1,
+                    "description": "リゼロスメダル交換",
+                    "priority": 2,
+                    "prize": [
+                        {
+                            "prize_id": 1000,
+                            "num": 1,
+                            "type": 3
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "[月5回限定]リゼロスガチャチケット",
+                    "id": 30002002,
+                    "limit_num": 5
+                },
+                {
+                    "limit_type": 2,
+                    "cost": [
+                        {
+                            "prize_id": 1501,
+                            "num": 100,
+                            "type": 3
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "[月5回限定]想起の結晶宝石",
+                    "limit_term_num": -1,
+                    "description": "リゼロスメダル交換",
+                    "id": 30002003,
+                    "priority": 5,
+                    "prize": [
+                        {
+                            "prize_id": 11301,
+                            "num": 5,
+                            "type": 3
+                        }
+                    ],
+                    "limit_num": 5
+                },
+                {
+                    "limit_type": 2,
+                    "cost": [
+                        {
+                            "prize_id": 1501,
+                            "num": 100,
+                            "type": 3
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "[月5回限定]輝く経験値の書",
+                    "limit_term_num": -1,
+                    "description": "リゼロスメダル交換",
+                    "id": 30002004,
+                    "priority": 7,
+                    "prize": [
+                        {
+                            "prize_id": 12399,
+                            "num": 10,
+                            "type": 3
+                        }
+                    ],
+                    "limit_num": 5
+                },
+                {
+                    "limit_type": 2,
+                    "cost": [
+                        {
+                            "prize_id": 1501,
+                            "num": 100,
+                            "type": 3
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "[月10回限定]知識",
+                    "limit_term_num": -1,
+                    "description": "リゼロスメダル交換",
+                    "id": 30002005,
+                    "priority": 8,
+                    "prize": [
+                        {
+                            "prize_id": 3001,
+                            "num": 500,
+                            "type": 3
+                        }
+                    ],
+                    "limit_num": 10
+                },
+                {
+                    "limit_type": 2,
+                    "cost": [
+                        {
+                            "prize_id": 1501,
+                            "num": 100,
+                            "type": 3
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "[月10回限定]勇気",
+                    "limit_term_num": -1,
+                    "description": "リゼロスメダル交換",
+                    "id": 30002006,
+                    "priority": 9,
+                    "prize": [
+                        {
+                            "prize_id": 3002,
+                            "num": 500,
+                            "type": 3
+                        }
+                    ],
+                    "limit_num": 10
+                },
+                {
+                    "limit_type": 2,
+                    "cost": [
+                        {
+                            "prize_id": 1501,
+                            "num": 100,
+                            "type": 3
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "[月10回限定]ノリ",
+                    "limit_term_num": -1,
+                    "description": "リゼロスメダル交換",
+                    "id": 30002007,
+                    "priority": 10,
+                    "prize": [
+                        {
+                            "prize_id": 3003,
+                            "num": 500,
+                            "type": 3
+                        }
+                    ],
+                    "limit_num": 10
+                },
+                {
+                    "limit_type": 2,
+                    "cost": [
+                        {
+                            "prize_id": 1501,
+                            "num": 100,
+                            "type": 3
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "[月10回限定]魅力",
+                    "limit_term_num": -1,
+                    "description": "リゼロスメダル交換",
+                    "id": 30002008,
+                    "priority": 11,
+                    "prize": [
+                        {
+                            "prize_id": 3004,
+                            "num": 500,
+                            "type": 3
+                        }
+                    ],
+                    "limit_num": 10
+                }
+            ],
+            "name": "リゼロスメダル交換所",
+            "shop_type": 4,
+            "description": "リゼロスメダル交換所",
+            "term_view": 0,
+            "id": 30002,
+            "priority": 6
+        },
+        {
+            "item_view": 1,
+            "view": {
+                "prize_id": 1500,
+                "num": 0,
+                "type": 3
+            },
+            "img_name": "exc_bnr_medal_shion_01.png",
+            "item_id": 0,
+            "catalog_list": [
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 1500,
+                            "num": 20,
+                            "type": 3
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "【夕闇の幻想】エミリアのかけら",
+                    "limit_term_num": -1,
+                    "description": "シオンメダル交換",
+                    "id": 30003001,
+                    "priority": 1,
+                    "prize": [
+                        {
+                            "prize_id": 10101001,
+                            "num": 10,
+                            "type": 9
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 1500,
+                            "num": 20,
+                            "type": 3
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "【王都を駆ける】フェルトのかけら",
+                    "limit_term_num": -1,
+                    "description": "シオンメダル交換",
+                    "id": 30003002,
+                    "priority": 2,
+                    "prize": [
+                        {
+                            "prize_id": 10201001,
+                            "num": 10,
+                            "type": 9
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 1500,
+                            "num": 20,
+                            "type": 3
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "【命懸けのシャマク】スバルのかけら",
+                    "limit_term_num": -1,
+                    "description": "シオンメダル交換",
+                    "id": 30003003,
+                    "priority": 3,
+                    "prize": [
+                        {
+                            "prize_id": 10302001,
+                            "num": 10,
+                            "type": 9
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 1500,
+                            "num": 20,
+                            "type": 3
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "【弾む喜び】レムのかけら",
+                    "limit_term_num": -1,
+                    "description": "シオンメダル交換",
+                    "id": 30003004,
+                    "priority": 4,
+                    "prize": [
+                        {
+                            "prize_id": 10401002,
+                            "num": 10,
+                            "type": 9
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 1500,
+                            "num": 20,
+                            "type": 3
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "【大精霊の遊び心】パックのかけら",
+                    "limit_term_num": -1,
+                    "description": "シオンメダル交換",
+                    "id": 30003005,
+                    "priority": 5,
+                    "prize": [
+                        {
+                            "prize_id": 11001001,
+                            "num": 10,
+                            "type": 9
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 1500,
+                            "num": 20,
+                            "type": 3
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "【月夜の舞風】ラムのかけら",
+                    "limit_term_num": -1,
+                    "description": "シオンメダル交換",
+                    "id": 30003006,
+                    "priority": 6,
+                    "prize": [
+                        {
+                            "prize_id": 11101002,
+                            "num": 10,
+                            "type": 9
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 1500,
+                            "num": 20,
+                            "type": 3
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "【陰魔法の熟練者】ベアトリスのかけら",
+                    "limit_term_num": -1,
+                    "description": "シオンメダル交換",
+                    "id": 30003008,
+                    "priority": 8,
+                    "prize": [
+                        {
+                            "prize_id": 11301002,
+                            "num": 10,
+                            "type": 9
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 1500,
+                            "num": 20,
+                            "type": 3
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "【辺境伯の実力】ロズワールのかけら",
+                    "limit_term_num": -1,
+                    "description": "シオンメダル交換",
+                    "id": 30003009,
+                    "priority": 9,
+                    "prize": [
+                        {
+                            "prize_id": 11501001,
+                            "num": 10,
+                            "type": 9
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 1500,
+                            "num": 20,
+                            "type": 3
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "【治癒術師の矜持】フェリスのかけら",
+                    "limit_term_num": -1,
+                    "description": "シオンメダル交換",
+                    "id": 30003010,
+                    "priority": 10,
+                    "prize": [
+                        {
+                            "prize_id": 11601001,
+                            "num": 10,
+                            "type": 9
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 1500,
+                            "num": 20,
+                            "type": 3
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "【食いしんぼう】ミミのかけら",
+                    "limit_term_num": -1,
+                    "description": "シオンメダル交換",
+                    "id": 30003011,
+                    "priority": 11,
+                    "prize": [
+                        {
+                            "prize_id": 11701001,
+                            "num": 10,
+                            "type": 9
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 1500,
+                            "num": 20,
+                            "type": 3
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "【お姉ちゃんと】ヘータローのかけら",
+                    "limit_term_num": -1,
+                    "description": "シオンメダル交換",
+                    "id": 30003012,
+                    "priority": 12,
+                    "prize": [
+                        {
+                            "prize_id": 11801001,
+                            "num": 10,
+                            "type": 9
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 1500,
+                            "num": 20,
+                            "type": 3
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "【平穏と研鑽と】ティビーのかけら",
+                    "limit_term_num": -1,
+                    "description": "シオンメダル交換",
+                    "id": 30003013,
+                    "priority": 13,
+                    "prize": [
+                        {
+                            "prize_id": 11901001,
+                            "num": 10,
+                            "type": 9
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 1500,
+                            "num": 20,
+                            "type": 3
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "【信念の剣舞】ユリウスのかけら",
+                    "limit_term_num": -1,
+                    "description": "シオンメダル交換",
+                    "id": 30003014,
+                    "priority": 14,
+                    "prize": [
+                        {
+                            "prize_id": 12001001,
+                            "num": 10,
+                            "type": 9
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 1500,
+                            "num": 20,
+                            "type": 3
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "【執務の合間に】クルシュのかけら",
+                    "limit_term_num": -1,
+                    "description": "シオンメダル交換",
+                    "id": 30003015,
+                    "priority": 15,
+                    "prize": [
+                        {
+                            "prize_id": 12201002,
+                            "num": 10,
+                            "type": 9
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 1500,
+                            "num": 20,
+                            "type": 3
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "【強靭な獣戦士】リカードのかけら",
+                    "limit_term_num": -1,
+                    "description": "シオンメダル交換",
+                    "id": 30003016,
+                    "priority": 16,
+                    "prize": [
+                        {
+                            "prize_id": 12301001,
+                            "num": 10,
+                            "type": 9
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 1500,
+                            "num": 20,
+                            "type": 3
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "【鷹揚な太陽姫】プリシラのかけら",
+                    "limit_term_num": -1,
+                    "description": "シオンメダル交換",
+                    "id": 30003017,
+                    "priority": 17,
+                    "prize": [
+                        {
+                            "prize_id": 12701001,
+                            "num": 10,
+                            "type": 9
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 1500,
+                            "num": 20,
+                            "type": 3
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "【隻腕の風来坊】アルのかけら",
+                    "limit_term_num": -1,
+                    "description": "シオンメダル交換",
+                    "id": 30003018,
+                    "priority": 18,
+                    "prize": [
+                        {
+                            "prize_id": 12801001,
+                            "num": 10,
+                            "type": 9
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 1500,
+                            "num": 20,
+                            "type": 3
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "【商会長の野心】アナスタシアのかけら",
+                    "limit_term_num": -1,
+                    "description": "シオンメダル交換",
+                    "id": 30003019,
+                    "priority": 19,
+                    "prize": [
+                        {
+                            "prize_id": 12901001,
+                            "num": 10,
+                            "type": 9
+                        }
+                    ],
+                    "limit_num": -1
+                }
+            ],
+            "name": "シオンメダル交換所",
+            "shop_type": 4,
+            "description": "シオンメダル交換所",
+            "term_view": 0,
+            "id": 30003,
+            "priority": 7
+        },
+        {
+            "item_view": 0,
+            "img_name": "exc_bnr_peace_clear_01.png",
+            "item_id": 0,
+            "catalog_list": [
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 1502,
+                            "num": 300,
+                            "type": 3
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "【夕闇の幻想】エミリア",
+                    "limit_term_num": -1,
+                    "description": "ガチャポイント交換",
+                    "id": 30004001,
+                    "priority": 12,
+                    "prize": [
+                        {
+                            "prize_id": 10101001,
+                            "num": 1,
+                            "type": 1
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 1502,
+                            "num": 300,
+                            "type": 3
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "【王都を駆ける】フェルト",
+                    "limit_term_num": -1,
+                    "description": "ガチャポイント交換",
+                    "id": 30004002,
+                    "priority": 13,
+                    "prize": [
+                        {
+                            "prize_id": 10201001,
+                            "num": 1,
+                            "type": 1
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 1502,
+                            "num": 300,
+                            "type": 3
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "【命懸けのシャマク】スバル",
+                    "limit_term_num": -1,
+                    "description": "ガチャポイント交換",
+                    "id": 30004003,
+                    "priority": 14,
+                    "prize": [
+                        {
+                            "prize_id": 10302001,
+                            "num": 1,
+                            "type": 1
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 1502,
+                            "num": 300,
+                            "type": 3
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "【弾む喜び】レム",
+                    "limit_term_num": -1,
+                    "description": "ガチャポイント交換",
+                    "id": 30004004,
+                    "priority": 15,
+                    "prize": [
+                        {
+                            "prize_id": 10401002,
+                            "num": 1,
+                            "type": 1
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 1502,
+                            "num": 300,
+                            "type": 3
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "【大精霊の遊び心】パック",
+                    "limit_term_num": -1,
+                    "description": "ガチャポイント交換",
+                    "id": 30004005,
+                    "priority": 16,
+                    "prize": [
+                        {
+                            "prize_id": 11001001,
+                            "num": 1,
+                            "type": 1
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 1502,
+                            "num": 300,
+                            "type": 3
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "【月夜の舞風】ラム",
+                    "limit_term_num": -1,
+                    "description": "ガチャポイント交換",
+                    "id": 30004006,
+                    "priority": 17,
+                    "prize": [
+                        {
+                            "prize_id": 11101002,
+                            "num": 1,
+                            "type": 1
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 1502,
+                            "num": 300,
+                            "type": 3
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "【陰魔法の熟練者】ベアトリス",
+                    "limit_term_num": -1,
+                    "description": "ガチャポイント交換",
+                    "id": 30004008,
+                    "priority": 19,
+                    "prize": [
+                        {
+                            "prize_id": 11301002,
+                            "num": 1,
+                            "type": 1
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 1502,
+                            "num": 300,
+                            "type": 3
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "【辺境伯の実力】ロズワール",
+                    "limit_term_num": -1,
+                    "description": "ガチャポイント交換",
+                    "id": 30004009,
+                    "priority": 20,
+                    "prize": [
+                        {
+                            "prize_id": 11501001,
+                            "num": 1,
+                            "type": 1
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 1502,
+                            "num": 300,
+                            "type": 3
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "【治癒術師の矜持】フェリス",
+                    "limit_term_num": -1,
+                    "description": "ガチャポイント交換",
+                    "id": 30004010,
+                    "priority": 21,
+                    "prize": [
+                        {
+                            "prize_id": 11601001,
+                            "num": 1,
+                            "type": 1
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 1502,
+                            "num": 300,
+                            "type": 3
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "【食いしんぼう】ミミ",
+                    "limit_term_num": -1,
+                    "description": "ガチャポイント交換",
+                    "id": 30004011,
+                    "priority": 22,
+                    "prize": [
+                        {
+                            "prize_id": 11701001,
+                            "num": 1,
+                            "type": 1
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 1502,
+                            "num": 300,
+                            "type": 3
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "【お姉ちゃんと】ヘータロー",
+                    "limit_term_num": -1,
+                    "description": "ガチャポイント交換",
+                    "id": 30004012,
+                    "priority": 23,
+                    "prize": [
+                        {
+                            "prize_id": 11801001,
+                            "num": 1,
+                            "type": 1
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 1502,
+                            "num": 300,
+                            "type": 3
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "【平穏と研鑽と】ティビー",
+                    "limit_term_num": -1,
+                    "description": "ガチャポイント交換",
+                    "id": 30004013,
+                    "priority": 24,
+                    "prize": [
+                        {
+                            "prize_id": 11901001,
+                            "num": 1,
+                            "type": 1
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 1502,
+                            "num": 300,
+                            "type": 3
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "【信念の剣舞】ユリウス",
+                    "limit_term_num": -1,
+                    "description": "ガチャポイント交換",
+                    "id": 30004014,
+                    "priority": 25,
+                    "prize": [
+                        {
+                            "prize_id": 12001001,
+                            "num": 1,
+                            "type": 1
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 1502,
+                            "num": 300,
+                            "type": 3
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "【執務の合間に】クルシュ",
+                    "limit_term_num": -1,
+                    "description": "ガチャポイント交換",
+                    "id": 30004015,
+                    "priority": 26,
+                    "prize": [
+                        {
+                            "prize_id": 12201002,
+                            "num": 1,
+                            "type": 1
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 1502,
+                            "num": 300,
+                            "type": 3
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "【強靭な獣戦士】リカード",
+                    "limit_term_num": -1,
+                    "description": "ガチャポイント交換",
+                    "id": 30004016,
+                    "priority": 27,
+                    "prize": [
+                        {
+                            "prize_id": 12301001,
+                            "num": 1,
+                            "type": 1
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 1502,
+                            "num": 300,
+                            "type": 3
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "【鷹揚な太陽姫】プリシラ",
+                    "limit_term_num": -1,
+                    "description": "ガチャポイント交換",
+                    "id": 30004017,
+                    "priority": 28,
+                    "prize": [
+                        {
+                            "prize_id": 12701001,
+                            "num": 1,
+                            "type": 1
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 1502,
+                            "num": 300,
+                            "type": 3
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "【隻腕の風来坊】アル",
+                    "limit_term_num": -1,
+                    "description": "ガチャポイント交換",
+                    "id": 30004018,
+                    "priority": 29,
+                    "prize": [
+                        {
+                            "prize_id": 12801001,
+                            "num": 1,
+                            "type": 1
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 1502,
+                            "num": 300,
+                            "type": 3
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "【商会長の野心】アナスタシア",
+                    "limit_term_num": -1,
+                    "description": "ガチャポイント交換",
+                    "id": 30004019,
+                    "priority": 30,
+                    "prize": [
+                        {
+                            "prize_id": 12901001,
+                            "num": 1,
+                            "type": 1
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 1502,
+                            "num": 150,
+                            "type": 3
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "追憶郷へようこそ",
+                    "limit_term_num": -1,
+                    "description": "ガチャポイント交換",
+                    "id": 30004020,
+                    "priority": 31,
+                    "prize": [
+                        {
+                            "prize_id": 59901010,
+                            "num": 1,
+                            "type": 2
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 1502,
+                            "num": 150,
+                            "type": 3
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "初の強制イベント発生?",
+                    "limit_term_num": -1,
+                    "description": "ガチャポイント交換",
+                    "id": 30004021,
+                    "priority": 32,
+                    "prize": [
+                        {
+                            "prize_id": 50100010,
+                            "num": 1,
+                            "type": 2
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 1502,
+                            "num": 150,
+                            "type": 3
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "鬼族の神童は片方だけ",
+                    "limit_term_num": -1,
+                    "description": "ガチャポイント交換",
+                    "id": 30004022,
+                    "priority": 33,
+                    "prize": [
+                        {
+                            "prize_id": 50100040,
+                            "num": 1,
+                            "type": 2
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 1502,
+                            "num": 150,
+                            "type": 3
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "王選候補揃い踏み",
+                    "limit_term_num": -1,
+                    "description": "ガチャポイント交換",
+                    "id": 30004023,
+                    "priority": 34,
+                    "prize": [
+                        {
+                            "prize_id": 50100050,
+                            "num": 1,
+                            "type": 2
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 1502,
+                            "num": 150,
+                            "type": 3
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "愛竜との出会い",
+                    "limit_term_num": -1,
+                    "description": "ガチャポイント交換",
+                    "id": 30004024,
+                    "priority": 35,
+                    "prize": [
+                        {
+                            "prize_id": 50100070,
+                            "num": 1,
+                            "type": 2
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 1502,
+                            "num": 150,
+                            "type": 3
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "これからは姉様の代わりに",
+                    "limit_term_num": -1,
+                    "description": "ガチャポイント交換",
+                    "id": 30004025,
+                    "priority": 36,
+                    "prize": [
+                        {
+                            "prize_id": 50100060,
+                            "num": 1,
+                            "type": 2
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 1502,
+                            "num": 150,
+                            "type": 3
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "目覚めのメイド姉妹",
+                    "limit_term_num": -1,
+                    "description": "ガチャポイント交換",
+                    "id": 30004026,
+                    "priority": 37,
+                    "prize": [
+                        {
+                            "prize_id": 50100110,
+                            "num": 1,
+                            "type": 2
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 1502,
+                            "num": 150,
+                            "type": 3
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "浴場での主従関係?",
+                    "limit_term_num": -1,
+                    "description": "ガチャポイント交換",
+                    "id": 30004027,
+                    "priority": 38,
+                    "prize": [
+                        {
+                            "prize_id": 50100160,
+                            "num": 1,
+                            "type": 2
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 1502,
+                            "num": 150,
+                            "type": 3
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "ついに光明が見えた！",
+                    "limit_term_num": -1,
+                    "description": "ガチャポイント交換",
+                    "id": 30004028,
+                    "priority": 39,
+                    "prize": [
+                        {
+                            "prize_id": 50100150,
+                            "num": 1,
+                            "type": 2
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 1502,
+                            "num": 150,
+                            "type": 3
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "セーブポイント更新",
+                    "limit_term_num": -1,
+                    "description": "ガチャポイント交換",
+                    "id": 30004029,
+                    "priority": 40,
+                    "prize": [
+                        {
+                            "prize_id": 50100080,
+                            "num": 1,
+                            "type": 2
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 1502,
+                            "num": 150,
+                            "type": 3
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "ビクトリー！",
+                    "limit_term_num": -1,
+                    "description": "ガチャポイント交換",
+                    "id": 30004030,
+                    "priority": 41,
+                    "prize": [
+                        {
+                            "prize_id": 50100090,
+                            "num": 1,
+                            "type": 2
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 1502,
+                            "num": 150,
+                            "type": 3
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "精霊の去る時間",
+                    "limit_term_num": -1,
+                    "description": "ガチャポイント交換",
+                    "id": 30004031,
+                    "priority": 42,
+                    "prize": [
+                        {
+                            "prize_id": 50100100,
+                            "num": 1,
+                            "type": 2
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 1502,
+                            "num": 150,
+                            "type": 3
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "レムの英雄は世界一",
+                    "limit_term_num": -1,
+                    "description": "ガチャポイント交換",
+                    "id": 30004032,
+                    "priority": 43,
+                    "prize": [
+                        {
+                            "prize_id": 50100130,
+                            "num": 1,
+                            "type": 2
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 1502,
+                            "num": 150,
+                            "type": 3
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "剣を持つ理由",
+                    "limit_term_num": -1,
+                    "description": "ガチャポイント交換",
+                    "id": 30004033,
+                    "priority": 44,
+                    "prize": [
+                        {
+                            "prize_id": 50100140,
+                            "num": 1,
+                            "type": 2
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 1502,
+                            "num": 150,
+                            "type": 3
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "朝焼けの感謝",
+                    "limit_term_num": -1,
+                    "description": "ガチャポイント交換",
+                    "id": 30004034,
+                    "priority": 45,
+                    "prize": [
+                        {
+                            "prize_id": 50100120,
+                            "num": 1,
+                            "type": 2
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 1502,
+                            "num": 150,
+                            "type": 3
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "いいえ、ゼロから！",
+                    "limit_term_num": -1,
+                    "description": "ガチャポイント交換",
+                    "id": 30004035,
+                    "priority": 46,
+                    "prize": [
+                        {
+                            "prize_id": 50104100,
+                            "num": 1,
+                            "type": 2
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 1506,
+                            "num": 300,
+                            "type": 3
+                        }
+                    ],
+                    "limit_term_num": -1,
+                    "description": "期間限定ガチャポイント交換",
+                    "priority": 9,
+                    "prize": [
+                        {
+                            "prize_id": 11501001,
+                            "num": 1,
+                            "type": 1
+                        }
+                    ],
+                    "img_name": "",
+                    "term_start": 1600182000000,
+                    "group_id": 0,
+                    "name": "【辺境伯の実力】ロズワール",
+                    "term_end": 1601045999000,
+                    "id": 30005004,
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 1506,
+                            "num": 3,
+                            "type": 3
+                        }
+                    ],
+                    "limit_term_num": -1,
+                    "description": "期間限定ガチャポイント交換",
+                    "priority": 10,
+                    "prize": [
+                        {
+                            "prize_id": 11501001,
+                            "num": 1,
+                            "type": 9
+                        }
+                    ],
+                    "img_name": "",
+                    "term_start": 1600182000000,
+                    "group_id": 0,
+                    "name": "【辺境伯の実力】ロズワールのかけら",
+                    "term_end": 1601045999000,
+                    "id": 30005005,
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 1506,
+                            "num": 150,
+                            "type": 3
+                        }
+                    ],
+                    "limit_term_num": -1,
+                    "description": "期間限定ガチャポイント交換",
+                    "priority": 11,
+                    "prize": [
+                        {
+                            "prize_id": 50100160,
+                            "num": 1,
+                            "type": 2
+                        }
+                    ],
+                    "img_name": "",
+                    "term_start": 1600182000000,
+                    "group_id": 0,
+                    "name": "浴場での主従関係?",
+                    "term_end": 1601045999000,
+                    "id": 30005006,
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 1504,
+                            "num": 300,
+                            "type": 3
+                        }
+                    ],
+                    "limit_term_num": -1,
+                    "description": "期間限定ガチャポイント交換",
+                    "priority": 4,
+                    "prize": [
+                        {
+                            "prize_id": 10402001,
+                            "num": 1,
+                            "type": 1
+                        }
+                    ],
+                    "img_name": "",
+                    "term_start": 1600225200000,
+                    "group_id": 0,
+                    "name": "【殺戮の鬼少女】レム",
+                    "term_end": 1601089199000,
+                    "id": 30005007,
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 1504,
+                            "num": 3,
+                            "type": 3
+                        }
+                    ],
+                    "limit_term_num": -1,
+                    "description": "期間限定ガチャポイント交換",
+                    "priority": 5,
+                    "prize": [
+                        {
+                            "prize_id": 10402001,
+                            "num": 1,
+                            "type": 9
+                        }
+                    ],
+                    "img_name": "",
+                    "term_start": 1600225200000,
+                    "group_id": 0,
+                    "name": "【殺戮の鬼少女】レムのかけら",
+                    "term_end": 1601089199000,
+                    "id": 30005008,
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 1504,
+                            "num": 150,
+                            "type": 3
+                        }
+                    ],
+                    "limit_term_num": -1,
+                    "description": "期間限定ガチャポイント交換",
+                    "priority": 6,
+                    "prize": [
+                        {
+                            "prize_id": 50111030,
+                            "num": 1,
+                            "type": 2
+                        }
+                    ],
+                    "img_name": "",
+                    "term_start": 1600225200000,
+                    "group_id": 0,
+                    "name": "もう、絶対に逃がさない",
+                    "term_end": 1601089199000,
+                    "id": 30005009,
+                    "limit_num": -1
+                }
+            ],
+            "name": "ガチャポイント交換所",
+            "shop_type": 4,
+            "description": "ガチャポイント交換所",
+            "term_view": 0,
+            "id": 30004,
+            "priority": 99
+        },
+        {
+            "item_id": 0,
+            "description": "勲章交換所",
+            "term_view": 1,
+            "priority": 2,
+            "item_view": 1,
+            "view": {
+                "prize_id": 40201,
+                "num": 0,
+                "type": 3
+            },
+            "img_name": "exc_bnr_medal_event_01.png",
+            "term_start": 1600225200000,
+            "catalog_list": [
+                {
+                    "limit_type": 1,
+                    "cost": [
+                        {
+                            "prize_id": 40201,
+                            "num": 100,
+                            "type": 3
+                        }
+                    ],
+                    "buy_count": 0,
+                    "total_buy_count": "user_data",
+                    "limit_term_num": -1,
+                    "description": "イベントアイテム交換",
+                    "priority": 2,
+                    "prize": [
+                        {
+                            "prize_id": 12299,
+                            "num": 5,
+                            "type": 3
+                        }
+                    ],
+                    "img_name": "",
+                    "term_start": 1600225200000,
+                    "group_id": 0,
+                    "name": "[1日1回限定]輝く経験値の紙面",
+                    "term_end": 1600873199000,
+                    "id": 40001001,
+                    "limit_num": 1
+                },
+                {
+                    "limit_type": 1,
+                    "cost": [
+                        {
+                            "prize_id": 40201,
+                            "num": 100,
+                            "type": 3
+                        }
+                    ],
+                    "buy_count": 0,
+                    "total_buy_count": "user_data",
+                    "limit_term_num": -1,
+                    "description": "イベントアイテム交換",
+                    "priority": 3,
+                    "prize": [
+                        {
+                            "prize_id": 0,
+                            "num": 20000,
+                            "type": 6
+                        }
+                    ],
+                    "img_name": "",
+                    "term_start": 1600225200000,
+                    "group_id": 0,
+                    "name": "[1日1回限定]コイン",
+                    "term_end": 1600873199000,
+                    "id": 40001002,
+                    "limit_num": 1
+                },
+                {
+                    "limit_type": 1,
+                    "cost": [
+                        {
+                            "prize_id": 40201,
+                            "num": 100,
+                            "type": 3
+                        }
+                    ],
+                    "buy_count": 0,
+                    "total_buy_count": "user_data",
+                    "limit_term_num": -1,
+                    "description": "イベントアイテム交換",
+                    "priority": 4,
+                    "prize": [
+                        {
+                            "prize_id": 3007,
+                            "num": 300,
+                            "type": 3
+                        }
+                    ],
+                    "img_name": "",
+                    "term_start": 1600225200000,
+                    "group_id": 0,
+                    "name": "[1日1回限定]ノリⅡ",
+                    "term_end": 1600873199000,
+                    "id": 40001003,
+                    "limit_num": 1
+                },
+                {
+                    "limit_type": 1,
+                    "cost": [
+                        {
+                            "prize_id": 40201,
+                            "num": 100,
+                            "type": 3
+                        }
+                    ],
+                    "buy_count": 0,
+                    "total_buy_count": "user_data",
+                    "limit_term_num": -1,
+                    "description": "イベントアイテム交換",
+                    "priority": 5,
+                    "prize": [
+                        {
+                            "prize_id": 3008,
+                            "num": 300,
+                            "type": 3
+                        }
+                    ],
+                    "img_name": "",
+                    "term_start": 1600225200000,
+                    "group_id": 0,
+                    "name": "[1日1回限定]魅力Ⅱ",
+                    "term_end": 1600873199000,
+                    "id": 40001004,
+                    "limit_num": 1
+                },
+                {
+                    "limit_type": 1,
+                    "cost": [
+                        {
+                            "prize_id": 40201,
+                            "num": 100,
+                            "type": 3
+                        }
+                    ],
+                    "buy_count": 0,
+                    "total_buy_count": "user_data",
+                    "limit_term_num": -1,
+                    "description": "イベントアイテム交換",
+                    "priority": 6,
+                    "prize": [
+                        {
+                            "prize_id": 3005,
+                            "num": 300,
+                            "type": 3
+                        }
+                    ],
+                    "img_name": "",
+                    "term_start": 1600225200000,
+                    "group_id": 0,
+                    "name": "[1日1回限定]知識Ⅱ",
+                    "term_end": 1600873199000,
+                    "id": 40001005,
+                    "limit_num": 1
+                },
+                {
+                    "limit_type": 1,
+                    "cost": [
+                        {
+                            "prize_id": 40201,
+                            "num": 100,
+                            "type": 3
+                        }
+                    ],
+                    "buy_count": 0,
+                    "total_buy_count": "user_data",
+                    "limit_term_num": -1,
+                    "description": "イベントアイテム交換",
+                    "priority": 7,
+                    "prize": [
+                        {
+                            "prize_id": 3006,
+                            "num": 300,
+                            "type": 3
+                        }
+                    ],
+                    "img_name": "",
+                    "term_start": 1600225200000,
+                    "group_id": 0,
+                    "name": "[1日1回限定]勇気Ⅱ",
+                    "term_end": 1600873199000,
+                    "id": 40001006,
+                    "limit_num": 1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 40201,
+                            "num": 400,
+                            "type": 3
+                        }
+                    ],
+                    "buy_count": 0,
+                    "total_buy_count": "user_data",
+                    "limit_term_num": 6,
+                    "description": "イベントアイテム交換",
+                    "priority": 8,
+                    "prize": [
+                        {
+                            "prize_id": 3400,
+                            "num": 100,
+                            "type": 3
+                        }
+                    ],
+                    "img_name": "",
+                    "term_start": 1600225200000,
+                    "group_id": 0,
+                    "name": "[6回限定]幸運",
+                    "term_end": 1601089199000,
+                    "id": 40001007,
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 40201,
+                            "num": 800,
+                            "type": 3
+                        }
+                    ],
+                    "buy_count": 0,
+                    "total_buy_count": "user_data",
+                    "limit_term_num": 6,
+                    "description": "イベントアイテム交換",
+                    "priority": 9,
+                    "prize": [
+                        {
+                            "prize_id": 3100,
+                            "num": 100,
+                            "type": 3
+                        }
+                    ],
+                    "img_name": "",
+                    "term_start": 1600225200000,
+                    "group_id": 0,
+                    "name": "[6回限定]カリスマ",
+                    "term_end": 1601089199000,
+                    "id": 40001008,
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 40201,
+                            "num": 1600,
+                            "type": 3
+                        }
+                    ],
+                    "buy_count": 0,
+                    "total_buy_count": "user_data",
+                    "limit_term_num": 6,
+                    "description": "イベントアイテム交換",
+                    "priority": 10,
+                    "prize": [
+                        {
+                            "prize_id": 3300,
+                            "num": 100,
+                            "type": 3
+                        }
+                    ],
+                    "img_name": "",
+                    "term_start": 1600225200000,
+                    "group_id": 0,
+                    "name": "[6回限定]覇気",
+                    "term_end": 1601089199000,
+                    "id": 40001009,
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 40201,
+                            "num": 3000,
+                            "type": 3
+                        }
+                    ],
+                    "buy_count": 0,
+                    "total_buy_count": "user_data",
+                    "limit_term_num": 1,
+                    "description": "イベントアイテム交換",
+                    "priority": 11,
+                    "prize": [
+                        {
+                            "prize_id": 32605,
+                            "num": 1,
+                            "type": 3
+                        }
+                    ],
+                    "img_name": "",
+                    "term_start": 1600225200000,
+                    "group_id": 0,
+                    "name": "[1回限定]上限突破の秘薬",
+                    "term_end": 1601089199000,
+                    "id": 40001010,
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 40201,
+                            "num": 5000,
+                            "type": 3
+                        }
+                    ],
+                    "buy_count": 0,
+                    "total_buy_count": "user_data",
+                    "limit_term_num": 1,
+                    "description": "イベントアイテム交換",
+                    "priority": 12,
+                    "prize": [
+                        {
+                            "prize_id": 32605,
+                            "num": 1,
+                            "type": 3
+                        }
+                    ],
+                    "img_name": "",
+                    "term_start": 1600225200000,
+                    "group_id": 0,
+                    "name": "[1回限定]上限突破の秘薬",
+                    "term_end": 1601089199000,
+                    "id": 40001011,
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 40201,
+                            "num": 200,
+                            "type": 3
+                        }
+                    ],
+                    "buy_count": 0,
+                    "total_buy_count": "user_data",
+                    "limit_term_num": -1,
+                    "description": "イベントアイテム交換",
+                    "priority": 13,
+                    "prize": [
+                        {
+                            "prize_id": 3001,
+                            "num": 300,
+                            "type": 3
+                        }
+                    ],
+                    "img_name": "",
+                    "term_start": 1600225200000,
+                    "group_id": 0,
+                    "name": "知識",
+                    "term_end": 1601089199000,
+                    "id": 40001012,
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 40201,
+                            "num": 200,
+                            "type": 3
+                        }
+                    ],
+                    "buy_count": 0,
+                    "total_buy_count": "user_data",
+                    "limit_term_num": -1,
+                    "description": "イベントアイテム交換",
+                    "priority": 14,
+                    "prize": [
+                        {
+                            "prize_id": 3002,
+                            "num": 300,
+                            "type": 3
+                        }
+                    ],
+                    "img_name": "",
+                    "term_start": 1600225200000,
+                    "group_id": 0,
+                    "name": "勇気",
+                    "term_end": 1601089199000,
+                    "id": 40001013,
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 40201,
+                            "num": 200,
+                            "type": 3
+                        }
+                    ],
+                    "buy_count": 0,
+                    "total_buy_count": "user_data",
+                    "limit_term_num": -1,
+                    "description": "イベントアイテム交換",
+                    "priority": 15,
+                    "prize": [
+                        {
+                            "prize_id": 3003,
+                            "num": 300,
+                            "type": 3
+                        }
+                    ],
+                    "img_name": "",
+                    "term_start": 1600225200000,
+                    "group_id": 0,
+                    "name": "ノリ",
+                    "term_end": 1601089199000,
+                    "id": 40001014,
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 40201,
+                            "num": 200,
+                            "type": 3
+                        }
+                    ],
+                    "buy_count": 0,
+                    "total_buy_count": "user_data",
+                    "limit_term_num": -1,
+                    "description": "イベントアイテム交換",
+                    "priority": 16,
+                    "prize": [
+                        {
+                            "prize_id": 3004,
+                            "num": 300,
+                            "type": 3
+                        }
+                    ],
+                    "img_name": "",
+                    "term_start": 1600225200000,
+                    "group_id": 0,
+                    "name": "魅力",
+                    "term_end": 1601089199000,
+                    "id": 40001015,
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 40201,
+                            "num": 5000,
+                            "type": 3
+                        }
+                    ],
+                    "limit_term_num": -1,
+                    "description": "イベントアイテム交換",
+                    "priority": 17,
+                    "prize": [
+                        {
+                            "prize_id": 0,
+                            "num": 10000,
+                            "type": 6
+                        }
+                    ],
+                    "img_name": "",
+                    "term_start": 1600225200000,
+                    "group_id": 0,
+                    "name": "コイン",
+                    "term_end": 1601089199000,
+                    "id": 40001016,
+                    "limit_num": -1
+                }
+            ],
+            "name": "勲章交換所",
+            "shop_type": 4,
+            "term_end": 1601089199000,
+            "id": 40001
+        },
+        {
+            "item_view": 0,
+            "img_name": "exc_bnr_sell_memorycard_01.png",
+            "item_id": 0,
+            "catalog_list": [
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 50104100,
+                            "num": 1,
+                            "type": 2
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "リゼロスメダル",
+                    "limit_term_num": -1,
+                    "description": "リゼロスメダル",
+                    "id": 99999001,
+                    "priority": 1,
+                    "prize": [
+                        {
+                            "prize_id": 1501,
+                            "num": 60,
+                            "type": 3
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 59901010,
+                            "num": 1,
+                            "type": 2
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "リゼロスメダル",
+                    "limit_term_num": -1,
+                    "description": "リゼロスメダル",
+                    "id": 99999002,
+                    "priority": 2,
+                    "prize": [
+                        {
+                            "prize_id": 1501,
+                            "num": 60,
+                            "type": 3
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 50100010,
+                            "num": 1,
+                            "type": 2
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "リゼロスメダル",
+                    "limit_term_num": -1,
+                    "description": "リゼロスメダル",
+                    "id": 99999003,
+                    "priority": 3,
+                    "prize": [
+                        {
+                            "prize_id": 1501,
+                            "num": 60,
+                            "type": 3
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 50100040,
+                            "num": 1,
+                            "type": 2
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "リゼロスメダル",
+                    "limit_term_num": -1,
+                    "description": "リゼロスメダル",
+                    "id": 99999004,
+                    "priority": 4,
+                    "prize": [
+                        {
+                            "prize_id": 1501,
+                            "num": 60,
+                            "type": 3
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 50100050,
+                            "num": 1,
+                            "type": 2
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "リゼロスメダル",
+                    "limit_term_num": -1,
+                    "description": "リゼロスメダル",
+                    "id": 99999005,
+                    "priority": 5,
+                    "prize": [
+                        {
+                            "prize_id": 1501,
+                            "num": 60,
+                            "type": 3
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 50100070,
+                            "num": 1,
+                            "type": 2
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "リゼロスメダル",
+                    "limit_term_num": -1,
+                    "description": "リゼロスメダル",
+                    "id": 99999006,
+                    "priority": 6,
+                    "prize": [
+                        {
+                            "prize_id": 1501,
+                            "num": 60,
+                            "type": 3
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 50100060,
+                            "num": 1,
+                            "type": 2
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "リゼロスメダル",
+                    "limit_term_num": -1,
+                    "description": "リゼロスメダル",
+                    "id": 99999007,
+                    "priority": 7,
+                    "prize": [
+                        {
+                            "prize_id": 1501,
+                            "num": 60,
+                            "type": 3
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 50100110,
+                            "num": 1,
+                            "type": 2
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "リゼロスメダル",
+                    "limit_term_num": -1,
+                    "description": "リゼロスメダル",
+                    "id": 99999008,
+                    "priority": 8,
+                    "prize": [
+                        {
+                            "prize_id": 1501,
+                            "num": 60,
+                            "type": 3
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 50100160,
+                            "num": 1,
+                            "type": 2
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "リゼロスメダル",
+                    "limit_term_num": -1,
+                    "description": "リゼロスメダル",
+                    "id": 99999009,
+                    "priority": 9,
+                    "prize": [
+                        {
+                            "prize_id": 1501,
+                            "num": 60,
+                            "type": 3
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 50100150,
+                            "num": 1,
+                            "type": 2
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "リゼロスメダル",
+                    "limit_term_num": -1,
+                    "description": "リゼロスメダル",
+                    "id": 99999010,
+                    "priority": 10,
+                    "prize": [
+                        {
+                            "prize_id": 1501,
+                            "num": 60,
+                            "type": 3
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 50100080,
+                            "num": 1,
+                            "type": 2
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "リゼロスメダル",
+                    "limit_term_num": -1,
+                    "description": "リゼロスメダル",
+                    "id": 99999011,
+                    "priority": 11,
+                    "prize": [
+                        {
+                            "prize_id": 1501,
+                            "num": 60,
+                            "type": 3
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 50100090,
+                            "num": 1,
+                            "type": 2
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "リゼロスメダル",
+                    "limit_term_num": -1,
+                    "description": "リゼロスメダル",
+                    "id": 99999012,
+                    "priority": 12,
+                    "prize": [
+                        {
+                            "prize_id": 1501,
+                            "num": 60,
+                            "type": 3
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 50100100,
+                            "num": 1,
+                            "type": 2
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "リゼロスメダル",
+                    "limit_term_num": -1,
+                    "description": "リゼロスメダル",
+                    "id": 99999013,
+                    "priority": 13,
+                    "prize": [
+                        {
+                            "prize_id": 1501,
+                            "num": 60,
+                            "type": 3
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 50100130,
+                            "num": 1,
+                            "type": 2
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "リゼロスメダル",
+                    "limit_term_num": -1,
+                    "description": "リゼロスメダル",
+                    "id": 99999014,
+                    "priority": 14,
+                    "prize": [
+                        {
+                            "prize_id": 1501,
+                            "num": 60,
+                            "type": 3
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 50100140,
+                            "num": 1,
+                            "type": 2
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "リゼロスメダル",
+                    "limit_term_num": -1,
+                    "description": "リゼロスメダル",
+                    "id": 99999015,
+                    "priority": 15,
+                    "prize": [
+                        {
+                            "prize_id": 1501,
+                            "num": 60,
+                            "type": 3
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 50100120,
+                            "num": 1,
+                            "type": 2
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "リゼロスメダル",
+                    "limit_term_num": -1,
+                    "description": "リゼロスメダル",
+                    "id": 99999016,
+                    "priority": 16,
+                    "prize": [
+                        {
+                            "prize_id": 1501,
+                            "num": 60,
+                            "type": 3
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 50111030,
+                            "num": 1,
+                            "type": 2
+                        }
+                    ],
+                    "img_name": "",
+                    "term_start": 1600225200000,
+                    "group_id": 0,
+                    "name": "リゼロスメダル",
+                    "limit_term_num": -1,
+                    "description": "リゼロスメダル",
+                    "id": 99999017,
+                    "priority": 17,
+                    "prize": [
+                        {
+                            "prize_id": 1501,
+                            "num": 20,
+                            "type": 3
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 50128030,
+                            "num": 1,
+                            "type": 2
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "リゼロスメダル",
+                    "limit_term_num": -1,
+                    "description": "リゼロスメダル",
+                    "id": 99999019,
+                    "priority": 19,
+                    "prize": [
+                        {
+                            "prize_id": 1501,
+                            "num": 20,
+                            "type": 3
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 50117010,
+                            "num": 1,
+                            "type": 2
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "リゼロスメダル",
+                    "limit_term_num": -1,
+                    "description": "リゼロスメダル",
+                    "id": 99999020,
+                    "priority": 20,
+                    "prize": [
+                        {
+                            "prize_id": 1501,
+                            "num": 20,
+                            "type": 3
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 50111050,
+                            "num": 1,
+                            "type": 2
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "リゼロスメダル",
+                    "limit_term_num": -1,
+                    "description": "リゼロスメダル",
+                    "id": 99999021,
+                    "priority": 21,
+                    "prize": [
+                        {
+                            "prize_id": 1501,
+                            "num": 20,
+                            "type": 3
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 50104020,
+                            "num": 1,
+                            "type": 2
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "リゼロスメダル",
+                    "limit_term_num": -1,
+                    "description": "リゼロスメダル",
+                    "id": 99999022,
+                    "priority": 22,
+                    "prize": [
+                        {
+                            "prize_id": 1501,
+                            "num": 20,
+                            "type": 3
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 50103030,
+                            "num": 1,
+                            "type": 2
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "リゼロスメダル",
+                    "limit_term_num": -1,
+                    "description": "リゼロスメダル",
+                    "id": 99999023,
+                    "priority": 23,
+                    "prize": [
+                        {
+                            "prize_id": 1501,
+                            "num": 20,
+                            "type": 3
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 50110040,
+                            "num": 1,
+                            "type": 2
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "リゼロスメダル",
+                    "limit_term_num": -1,
+                    "description": "リゼロスメダル",
+                    "id": 99999024,
+                    "priority": 24,
+                    "prize": [
+                        {
+                            "prize_id": 1501,
+                            "num": 20,
+                            "type": 3
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 50126010,
+                            "num": 1,
+                            "type": 2
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "リゼロスメダル",
+                    "limit_term_num": -1,
+                    "description": "リゼロスメダル",
+                    "id": 99999025,
+                    "priority": 25,
+                    "prize": [
+                        {
+                            "prize_id": 1501,
+                            "num": 20,
+                            "type": 3
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 50131020,
+                            "num": 1,
+                            "type": 2
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "リゼロスメダル",
+                    "limit_term_num": -1,
+                    "description": "リゼロスメダル",
+                    "id": 99999026,
+                    "priority": 26,
+                    "prize": [
+                        {
+                            "prize_id": 1501,
+                            "num": 20,
+                            "type": 3
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 50101020,
+                            "num": 1,
+                            "type": 2
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "リゼロスメダル",
+                    "limit_term_num": -1,
+                    "description": "リゼロスメダル",
+                    "id": 99999027,
+                    "priority": 27,
+                    "prize": [
+                        {
+                            "prize_id": 1501,
+                            "num": 20,
+                            "type": 3
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 50130010,
+                            "num": 1,
+                            "type": 2
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "リゼロスメダル",
+                    "limit_term_num": -1,
+                    "description": "リゼロスメダル",
+                    "id": 99999028,
+                    "priority": 28,
+                    "prize": [
+                        {
+                            "prize_id": 1501,
+                            "num": 20,
+                            "type": 3
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 50114020,
+                            "num": 1,
+                            "type": 2
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "リゼロスメダル",
+                    "limit_term_num": -1,
+                    "description": "リゼロスメダル",
+                    "id": 99999029,
+                    "priority": 29,
+                    "prize": [
+                        {
+                            "prize_id": 1501,
+                            "num": 20,
+                            "type": 3
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 50122050,
+                            "num": 1,
+                            "type": 2
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "リゼロスメダル",
+                    "limit_term_num": -1,
+                    "description": "リゼロスメダル",
+                    "id": 99999030,
+                    "priority": 30,
+                    "prize": [
+                        {
+                            "prize_id": 1501,
+                            "num": 20,
+                            "type": 3
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 50119020,
+                            "num": 1,
+                            "type": 2
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "リゼロスメダル",
+                    "limit_term_num": -1,
+                    "description": "リゼロスメダル",
+                    "id": 99999031,
+                    "priority": 31,
+                    "prize": [
+                        {
+                            "prize_id": 1501,
+                            "num": 20,
+                            "type": 3
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 50116020,
+                            "num": 1,
+                            "type": 2
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "リゼロスメダル",
+                    "limit_term_num": -1,
+                    "description": "リゼロスメダル",
+                    "id": 99999032,
+                    "priority": 32,
+                    "prize": [
+                        {
+                            "prize_id": 1501,
+                            "num": 20,
+                            "type": 3
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 50102040,
+                            "num": 1,
+                            "type": 2
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "リゼロスメダル",
+                    "limit_term_num": -1,
+                    "description": "リゼロスメダル",
+                    "id": 99999033,
+                    "priority": 33,
+                    "prize": [
+                        {
+                            "prize_id": 1501,
+                            "num": 20,
+                            "type": 3
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 50127050,
+                            "num": 1,
+                            "type": 2
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "リゼロスメダル",
+                    "limit_term_num": -1,
+                    "description": "リゼロスメダル",
+                    "id": 99999034,
+                    "priority": 34,
+                    "prize": [
+                        {
+                            "prize_id": 1501,
+                            "num": 20,
+                            "type": 3
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 50120020,
+                            "num": 1,
+                            "type": 2
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "リゼロスメダル",
+                    "limit_term_num": -1,
+                    "description": "リゼロスメダル",
+                    "id": 99999035,
+                    "priority": 35,
+                    "prize": [
+                        {
+                            "prize_id": 1501,
+                            "num": 20,
+                            "type": 3
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 50123010,
+                            "num": 1,
+                            "type": 2
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "リゼロスメダル",
+                    "limit_term_num": -1,
+                    "description": "リゼロスメダル",
+                    "id": 99999036,
+                    "priority": 36,
+                    "prize": [
+                        {
+                            "prize_id": 1501,
+                            "num": 20,
+                            "type": 3
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 50118040,
+                            "num": 1,
+                            "type": 2
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "リゼロスメダル",
+                    "limit_term_num": -1,
+                    "description": "リゼロスメダル",
+                    "id": 99999037,
+                    "priority": 37,
+                    "prize": [
+                        {
+                            "prize_id": 1501,
+                            "num": 20,
+                            "type": 3
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 50113030,
+                            "num": 1,
+                            "type": 2
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "リゼロスメダル",
+                    "limit_term_num": -1,
+                    "description": "リゼロスメダル",
+                    "id": 99999038,
+                    "priority": 38,
+                    "prize": [
+                        {
+                            "prize_id": 1501,
+                            "num": 20,
+                            "type": 3
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 50115030,
+                            "num": 1,
+                            "type": 2
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "リゼロスメダル",
+                    "limit_term_num": -1,
+                    "description": "リゼロスメダル",
+                    "id": 99999039,
+                    "priority": 39,
+                    "prize": [
+                        {
+                            "prize_id": 1501,
+                            "num": 20,
+                            "type": 3
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 50129050,
+                            "num": 1,
+                            "type": 2
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "リゼロスメダル",
+                    "limit_term_num": -1,
+                    "description": "リゼロスメダル",
+                    "id": 99999040,
+                    "priority": 40,
+                    "prize": [
+                        {
+                            "prize_id": 1501,
+                            "num": 20,
+                            "type": 3
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 50121040,
+                            "num": 1,
+                            "type": 2
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "リゼロスメダル",
+                    "limit_term_num": -1,
+                    "description": "リゼロスメダル",
+                    "id": 99999041,
+                    "priority": 41,
+                    "prize": [
+                        {
+                            "prize_id": 1501,
+                            "num": 20,
+                            "type": 3
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 50109020,
+                            "num": 1,
+                            "type": 2
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "リゼロスメダル",
+                    "limit_term_num": -1,
+                    "description": "リゼロスメダル",
+                    "id": 99999042,
+                    "priority": 42,
+                    "prize": [
+                        {
+                            "prize_id": 1501,
+                            "num": 20,
+                            "type": 3
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 50128010,
+                            "num": 1,
+                            "type": 2
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "リゼロスメダル",
+                    "limit_term_num": -1,
+                    "description": "リゼロスメダル",
+                    "id": 99999043,
+                    "priority": 43,
+                    "prize": [
+                        {
+                            "prize_id": 1501,
+                            "num": 3,
+                            "type": 3
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 50117020,
+                            "num": 1,
+                            "type": 2
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "リゼロスメダル",
+                    "limit_term_num": -1,
+                    "description": "リゼロスメダル",
+                    "id": 99999044,
+                    "priority": 44,
+                    "prize": [
+                        {
+                            "prize_id": 1501,
+                            "num": 3,
+                            "type": 3
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 50111020,
+                            "num": 1,
+                            "type": 2
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "リゼロスメダル",
+                    "limit_term_num": -1,
+                    "description": "リゼロスメダル",
+                    "id": 99999045,
+                    "priority": 45,
+                    "prize": [
+                        {
+                            "prize_id": 1501,
+                            "num": 3,
+                            "type": 3
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 50104010,
+                            "num": 1,
+                            "type": 2
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "リゼロスメダル",
+                    "limit_term_num": -1,
+                    "description": "リゼロスメダル",
+                    "id": 99999046,
+                    "priority": 46,
+                    "prize": [
+                        {
+                            "prize_id": 1501,
+                            "num": 3,
+                            "type": 3
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 50103040,
+                            "num": 1,
+                            "type": 2
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "リゼロスメダル",
+                    "limit_term_num": -1,
+                    "description": "リゼロスメダル",
+                    "id": 99999047,
+                    "priority": 47,
+                    "prize": [
+                        {
+                            "prize_id": 1501,
+                            "num": 3,
+                            "type": 3
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 50110010,
+                            "num": 1,
+                            "type": 2
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "リゼロスメダル",
+                    "limit_term_num": -1,
+                    "description": "リゼロスメダル",
+                    "id": 99999048,
+                    "priority": 48,
+                    "prize": [
+                        {
+                            "prize_id": 1501,
+                            "num": 3,
+                            "type": 3
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 50126020,
+                            "num": 1,
+                            "type": 2
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "リゼロスメダル",
+                    "limit_term_num": -1,
+                    "description": "リゼロスメダル",
+                    "id": 99999049,
+                    "priority": 49,
+                    "prize": [
+                        {
+                            "prize_id": 1501,
+                            "num": 3,
+                            "type": 3
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 50131010,
+                            "num": 1,
+                            "type": 2
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "リゼロスメダル",
+                    "limit_term_num": -1,
+                    "description": "リゼロスメダル",
+                    "id": 99999050,
+                    "priority": 50,
+                    "prize": [
+                        {
+                            "prize_id": 1501,
+                            "num": 3,
+                            "type": 3
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 50101010,
+                            "num": 1,
+                            "type": 2
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "リゼロスメダル",
+                    "limit_term_num": -1,
+                    "description": "リゼロスメダル",
+                    "id": 99999051,
+                    "priority": 51,
+                    "prize": [
+                        {
+                            "prize_id": 1501,
+                            "num": 3,
+                            "type": 3
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 50130020,
+                            "num": 1,
+                            "type": 2
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "リゼロスメダル",
+                    "limit_term_num": -1,
+                    "description": "リゼロスメダル",
+                    "id": 99999052,
+                    "priority": 52,
+                    "prize": [
+                        {
+                            "prize_id": 1501,
+                            "num": 3,
+                            "type": 3
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 50114010,
+                            "num": 1,
+                            "type": 2
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "リゼロスメダル",
+                    "limit_term_num": -1,
+                    "description": "リゼロスメダル",
+                    "id": 99999053,
+                    "priority": 53,
+                    "prize": [
+                        {
+                            "prize_id": 1501,
+                            "num": 3,
+                            "type": 3
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 50122010,
+                            "num": 1,
+                            "type": 2
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "リゼロスメダル",
+                    "limit_term_num": -1,
+                    "description": "リゼロスメダル",
+                    "id": 99999054,
+                    "priority": 54,
+                    "prize": [
+                        {
+                            "prize_id": 1501,
+                            "num": 3,
+                            "type": 3
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 50119040,
+                            "num": 1,
+                            "type": 2
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "リゼロスメダル",
+                    "limit_term_num": -1,
+                    "description": "リゼロスメダル",
+                    "id": 99999055,
+                    "priority": 55,
+                    "prize": [
+                        {
+                            "prize_id": 1501,
+                            "num": 3,
+                            "type": 3
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 50116030,
+                            "num": 1,
+                            "type": 2
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "リゼロスメダル",
+                    "limit_term_num": -1,
+                    "description": "リゼロスメダル",
+                    "id": 99999056,
+                    "priority": 56,
+                    "prize": [
+                        {
+                            "prize_id": 1501,
+                            "num": 3,
+                            "type": 3
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 50102020,
+                            "num": 1,
+                            "type": 2
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "リゼロスメダル",
+                    "limit_term_num": -1,
+                    "description": "リゼロスメダル",
+                    "id": 99999057,
+                    "priority": 57,
+                    "prize": [
+                        {
+                            "prize_id": 1501,
+                            "num": 3,
+                            "type": 3
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 50127040,
+                            "num": 1,
+                            "type": 2
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "リゼロスメダル",
+                    "limit_term_num": -1,
+                    "description": "リゼロスメダル",
+                    "id": 99999058,
+                    "priority": 58,
+                    "prize": [
+                        {
+                            "prize_id": 1501,
+                            "num": 3,
+                            "type": 3
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 50120030,
+                            "num": 1,
+                            "type": 2
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "リゼロスメダル",
+                    "limit_term_num": -1,
+                    "description": "リゼロスメダル",
+                    "id": 99999059,
+                    "priority": 59,
+                    "prize": [
+                        {
+                            "prize_id": 1501,
+                            "num": 3,
+                            "type": 3
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 50123040,
+                            "num": 1,
+                            "type": 2
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "リゼロスメダル",
+                    "limit_term_num": -1,
+                    "description": "リゼロスメダル",
+                    "id": 99999060,
+                    "priority": 60,
+                    "prize": [
+                        {
+                            "prize_id": 1501,
+                            "num": 3,
+                            "type": 3
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 50118010,
+                            "num": 1,
+                            "type": 2
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "リゼロスメダル",
+                    "limit_term_num": -1,
+                    "description": "リゼロスメダル",
+                    "id": 99999061,
+                    "priority": 61,
+                    "prize": [
+                        {
+                            "prize_id": 1501,
+                            "num": 3,
+                            "type": 3
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 50113010,
+                            "num": 1,
+                            "type": 2
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "リゼロスメダル",
+                    "limit_term_num": -1,
+                    "description": "リゼロスメダル",
+                    "id": 99999062,
+                    "priority": 62,
+                    "prize": [
+                        {
+                            "prize_id": 1501,
+                            "num": 3,
+                            "type": 3
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 50115010,
+                            "num": 1,
+                            "type": 2
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "リゼロスメダル",
+                    "limit_term_num": -1,
+                    "description": "リゼロスメダル",
+                    "id": 99999063,
+                    "priority": 63,
+                    "prize": [
+                        {
+                            "prize_id": 1501,
+                            "num": 3,
+                            "type": 3
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 50129010,
+                            "num": 1,
+                            "type": 2
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "リゼロスメダル",
+                    "limit_term_num": -1,
+                    "description": "リゼロスメダル",
+                    "id": 99999064,
+                    "priority": 64,
+                    "prize": [
+                        {
+                            "prize_id": 1501,
+                            "num": 3,
+                            "type": 3
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 50121010,
+                            "num": 1,
+                            "type": 2
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "リゼロスメダル",
+                    "limit_term_num": -1,
+                    "description": "リゼロスメダル",
+                    "id": 99999065,
+                    "priority": 65,
+                    "prize": [
+                        {
+                            "prize_id": 1501,
+                            "num": 3,
+                            "type": 3
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 50109010,
+                            "num": 1,
+                            "type": 2
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "リゼロスメダル",
+                    "limit_term_num": -1,
+                    "description": "リゼロスメダル",
+                    "id": 99999066,
+                    "priority": 66,
+                    "prize": [
+                        {
+                            "prize_id": 1501,
+                            "num": 3,
+                            "type": 3
+                        }
+                    ],
+                    "limit_num": -1
+                }
+            ],
+            "name": "記憶結晶売却所",
+            "shop_type": 4,
+            "description": "記憶結晶売却所",
+            "term_view": 0,
+            "id": 99999,
+            "priority": 101
+        },
+        {
+            "item_view": 0,
+            "view": {
+                "prize_id": 1000,
+                "num": 0,
+                "type": 3
+            },
+            "img_name": "exc_bnr_peace_character_01.png",
+            "item_id": 0,
+            "catalog_list": [
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 10101001,
+                            "num": 200,
+                            "type": 9
+                        }
+                    ],
+                    "group_id": 0,
+                    "name": "【夕闇の幻想】エミリア",
+                    "limit_term_num": 1,
+                    "description": "【夕闇の幻想】エミリア",
+                    "id": 10101001,
+                    "priority": 1,
+                    "prize": [
+                        {
+                            "prize_id": 10101001,
+                            "num": 1,
+                            "type": 1
+                        }
+                    ],
+                    "limit_num": 0
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 10104001,
+                            "num": 200,
+                            "type": 9
+                        }
+                    ],
+                    "group_id": 0,
+                    "name": "【寝間着の天使】エミリア",
+                    "limit_term_num": 1,
+                    "description": "【寝間着の天使】エミリア",
+                    "id": 10104001,
+                    "priority": 2,
+                    "prize": [
+                        {
+                            "prize_id": 10104001,
+                            "num": 1,
+                            "type": 1
+                        }
+                    ],
+                    "limit_num": 0
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 10302001,
+                            "num": 200,
+                            "type": 9
+                        }
+                    ],
+                    "group_id": 0,
+                    "name": "【命懸けのシャマク】スバル",
+                    "limit_term_num": 1,
+                    "description": "【命懸けのシャマク】スバル",
+                    "id": 10302001,
+                    "priority": 3,
+                    "prize": [
+                        {
+                            "prize_id": 10302001,
+                            "num": 1,
+                            "type": 1
+                        }
+                    ],
+                    "limit_num": 0
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 10402001,
+                            "num": 200,
+                            "type": 9
+                        }
+                    ],
+                    "group_id": 0,
+                    "name": "【殺戮の鬼少女】レム",
+                    "limit_term_num": 1,
+                    "description": "【殺戮の鬼少女】レム",
+                    "id": 10402001,
+                    "priority": 4,
+                    "prize": [
+                        {
+                            "prize_id": 10402001,
+                            "num": 1,
+                            "type": 1
+                        }
+                    ],
+                    "limit_num": 0
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 11001001,
+                            "num": 200,
+                            "type": 9
+                        }
+                    ],
+                    "group_id": 0,
+                    "name": "【大精霊の遊び心】パック",
+                    "limit_term_num": 1,
+                    "description": "【大精霊の遊び心】パック",
+                    "id": 11001001,
+                    "priority": 5,
+                    "prize": [
+                        {
+                            "prize_id": 11001001,
+                            "num": 1,
+                            "type": 1
+                        }
+                    ],
+                    "limit_num": 0
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 11601001,
+                            "num": 200,
+                            "type": 9
+                        }
+                    ],
+                    "group_id": 0,
+                    "name": "【治癒術師の矜持】フェリス",
+                    "limit_term_num": 1,
+                    "description": "【治癒術師の矜持】フェリス",
+                    "id": 11601001,
+                    "priority": 6,
+                    "prize": [
+                        {
+                            "prize_id": 11601001,
+                            "num": 1,
+                            "type": 1
+                        }
+                    ],
+                    "limit_num": 0
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 11801001,
+                            "num": 200,
+                            "type": 9
+                        }
+                    ],
+                    "group_id": 0,
+                    "name": "【お姉ちゃんと】ヘータロー",
+                    "limit_term_num": 1,
+                    "description": "【お姉ちゃんと】ヘータロー",
+                    "id": 11801001,
+                    "priority": 7,
+                    "prize": [
+                        {
+                            "prize_id": 11801001,
+                            "num": 1,
+                            "type": 1
+                        }
+                    ],
+                    "limit_num": 0
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 11901001,
+                            "num": 200,
+                            "type": 9
+                        }
+                    ],
+                    "group_id": 0,
+                    "name": "【平穏と研鑽と】ティビー",
+                    "limit_term_num": 1,
+                    "description": "【平穏と研鑽と】ティビー",
+                    "id": 11901001,
+                    "priority": 8,
+                    "prize": [
+                        {
+                            "prize_id": 11901001,
+                            "num": 1,
+                            "type": 1
+                        }
+                    ],
+                    "limit_num": 0
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 12001001,
+                            "num": 200,
+                            "type": 9
+                        }
+                    ],
+                    "group_id": 0,
+                    "name": "【信念の剣舞】ユリウス",
+                    "limit_term_num": 1,
+                    "description": "【信念の剣舞】ユリウス",
+                    "id": 12001001,
+                    "priority": 9,
+                    "prize": [
+                        {
+                            "prize_id": 12001001,
+                            "num": 1,
+                            "type": 1
+                        }
+                    ],
+                    "limit_num": 0
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 12201002,
+                            "num": 200,
+                            "type": 9
+                        }
+                    ],
+                    "group_id": 0,
+                    "name": "【執務の合間に】クルシュ",
+                    "limit_term_num": 1,
+                    "description": "【執務の合間に】クルシュ",
+                    "id": 12201002,
+                    "priority": 10,
+                    "prize": [
+                        {
+                            "prize_id": 12201002,
+                            "num": 1,
+                            "type": 1
+                        }
+                    ],
+                    "limit_num": 0
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 12801001,
+                            "num": 200,
+                            "type": 9
+                        }
+                    ],
+                    "group_id": 0,
+                    "name": "【隻腕の風来坊】アル",
+                    "limit_term_num": 1,
+                    "description": "【隻腕の風来坊】アル",
+                    "id": 12801001,
+                    "priority": 11,
+                    "prize": [
+                        {
+                            "prize_id": 12801001,
+                            "num": 1,
+                            "type": 1
+                        }
+                    ],
+                    "limit_num": 0
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 11401001,
+                            "num": 200,
+                            "type": 9
+                        }
+                    ],
+                    "group_id": 0,
+                    "name": "【不器用な接客】カドモン",
+                    "limit_term_num": 1,
+                    "description": "【不器用な接客】カドモン",
+                    "id": 11401001,
+                    "priority": 12,
+                    "prize": [
+                        {
+                            "prize_id": 11401001,
+                            "num": 1,
+                            "type": 1
+                        }
+                    ],
+                    "limit_num": 0
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 13001001,
+                            "num": 200,
+                            "type": 9
+                        }
+                    ],
+                    "group_id": 0,
+                    "name": "【旅商人の夢】オットー",
+                    "limit_term_num": 1,
+                    "description": "【旅商人の夢】オットー",
+                    "id": 13001001,
+                    "priority": 13,
+                    "prize": [
+                        {
+                            "prize_id": 13001001,
+                            "num": 1,
+                            "type": 1
+                        }
+                    ],
+                    "limit_num": 0
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 11701002,
+                            "num": 200,
+                            "type": 9
+                        }
+                    ],
+                    "group_id": 0,
+                    "name": "【鉄の牙】ミミ",
+                    "limit_term_num": 1,
+                    "description": "【鉄の牙】ミミ",
+                    "id": 11701002,
+                    "priority": 14,
+                    "prize": [
+                        {
+                            "prize_id": 11701002,
+                            "num": 1,
+                            "type": 1
+                        }
+                    ],
+                    "limit_num": 0
+                }
+            ],
+            "name": "キャラクターのかけら交換所",
+            "shop_type": 5,
+            "description": "キャラクターのかけら交換所",
+            "term_view": 0,
+            "id": 20001,
+            "priority": 100
+        }
+    ],
+    "transaction_id": "user_data",
+    "server_time": 1600738730082,
+    "day_end": 1600786799999,
+    "item_list": "user_data",
+    "month_end": 1601477999999,
+    "user_data": "user_data",
+    "week_end": 1601218799999,
+    "prize_list": "user_data",
+    "res_code": 0,
+    "client_wait": 0
+}

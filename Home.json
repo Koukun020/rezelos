@@ -1,0 +1,856 @@
+{
+    "transaction_id": "user_data",
+    "event_term_start": 1600225200000,
+    "server_time": 1600651632388,
+    "l2d_character": "live2d/AC_shion01",
+    "main_mission": "user_data",
+    "stamina": [
+        {
+            "val": "user_data",
+            "recover_sec": 300,
+            "is_full": 1,
+            "max": "user_data",
+            "is_update": 0,
+            "recover_one_sec": 0,
+            "recover_full_ts": "user_data",
+            "type": 2,
+            "recover_total_sec": 0
+        },
+        {
+            "val": "user_data",
+            "recover_sec": 10800,
+            "is_full": 0,
+            "max": 5,
+            "is_update": 0,
+            "recover_one_sec": "user_data",
+            "recover_full_ts": "user_data",
+            "type": 3,
+            "recover_total_sec": "user_data"
+        }
+    ],
+    "event_portal_list": [
+        {
+            "now_portal_prize_id": "user_data",
+            "link": "",
+            "description": "毎日アイテムが貰えるぞ！\n忘れずログインしよう！",
+            "priority": 99,
+            "is_receipt": false,
+            "event_portal_prize": [
+                {
+                    "sheet_num": 1,
+                    "day_num": 1,
+                    "id": 2000201,
+                    "prize_list": [
+                        {
+                            "prize_id": 0,
+                            "num": 5000,
+                            "type": 6
+                        }
+                    ],
+                    "next_id": 2000202
+                },
+                {
+                    "sheet_num": 1,
+                    "day_num": 2,
+                    "id": 2000202,
+                    "prize_list": [
+                        {
+                            "prize_id": 3001,
+                            "num": 150,
+                            "type": 3
+                        }
+                    ],
+                    "next_id": 2000203
+                },
+                {
+                    "sheet_num": 1,
+                    "day_num": 3,
+                    "id": 2000203,
+                    "prize_list": [
+                        {
+                            "prize_id": 12199,
+                            "num": 5,
+                            "type": 3
+                        }
+                    ],
+                    "next_id": 2000204
+                },
+                {
+                    "sheet_num": 1,
+                    "day_num": 4,
+                    "id": 2000204,
+                    "prize_list": [
+                        {
+                            "prize_id": 0,
+                            "num": 50,
+                            "type": 4
+                        }
+                    ],
+                    "next_id": 2000205
+                },
+                {
+                    "sheet_num": 1,
+                    "day_num": 5,
+                    "id": 2000205,
+                    "prize_list": [
+                        {
+                            "prize_id": 11101,
+                            "num": 5,
+                            "type": 3
+                        }
+                    ],
+                    "next_id": 2000206
+                },
+                {
+                    "sheet_num": 1,
+                    "day_num": 6,
+                    "id": 2000206,
+                    "prize_list": [
+                        {
+                            "prize_id": 3002,
+                            "num": 150,
+                            "type": 3
+                        }
+                    ],
+                    "next_id": 2000207
+                },
+                {
+                    "sheet_num": 1,
+                    "day_num": 7,
+                    "id": 2000207,
+                    "prize_list": [
+                        {
+                            "prize_id": 0,
+                            "num": 100,
+                            "type": 4
+                        }
+                    ],
+                    "next_id": 2000208
+                },
+                {
+                    "sheet_num": 1,
+                    "day_num": 8,
+                    "id": 2000208,
+                    "prize_list": [
+                        {
+                            "prize_id": 0,
+                            "num": 10000,
+                            "type": 6
+                        }
+                    ],
+                    "next_id": 2000209
+                },
+                {
+                    "sheet_num": 1,
+                    "day_num": 9,
+                    "id": 2000209,
+                    "prize_list": [
+                        {
+                            "prize_id": 3003,
+                            "num": 300,
+                            "type": 3
+                        }
+                    ],
+                    "next_id": 2000210
+                },
+                {
+                    "sheet_num": 1,
+                    "day_num": 10,
+                    "id": 2000210,
+                    "prize_list": [
+                        {
+                            "prize_id": 12199,
+                            "num": 10,
+                            "type": 3
+                        }
+                    ],
+                    "next_id": 2000211
+                },
+                {
+                    "sheet_num": 1,
+                    "day_num": 11,
+                    "id": 2000211,
+                    "prize_list": [
+                        {
+                            "prize_id": 0,
+                            "num": 50,
+                            "type": 4
+                        }
+                    ],
+                    "next_id": 2000212
+                },
+                {
+                    "sheet_num": 1,
+                    "day_num": 12,
+                    "id": 2000212,
+                    "prize_list": [
+                        {
+                            "prize_id": 11101,
+                            "num": 10,
+                            "type": 3
+                        }
+                    ],
+                    "next_id": 2000213
+                },
+                {
+                    "sheet_num": 1,
+                    "day_num": 13,
+                    "id": 2000213,
+                    "prize_list": [
+                        {
+                            "prize_id": 3004,
+                            "num": 300,
+                            "type": 3
+                        }
+                    ],
+                    "next_id": 2000214
+                },
+                {
+                    "sheet_num": 1,
+                    "day_num": 14,
+                    "id": 2000214,
+                    "prize_list": [
+                        {
+                            "prize_id": 0,
+                            "num": 200,
+                            "type": 4
+                        }
+                    ],
+                    "next_id": 2000215
+                },
+                {
+                    "sheet_num": 1,
+                    "day_num": 15,
+                    "id": 2000215,
+                    "prize_list": [
+                        {
+                            "prize_id": 0,
+                            "num": 5000,
+                            "type": 6
+                        }
+                    ],
+                    "next_id": 2000216
+                },
+                {
+                    "sheet_num": 1,
+                    "day_num": 16,
+                    "id": 2000216,
+                    "prize_list": [
+                        {
+                            "prize_id": 3001,
+                            "num": 150,
+                            "type": 3
+                        }
+                    ],
+                    "next_id": 2000217
+                },
+                {
+                    "sheet_num": 1,
+                    "day_num": 17,
+                    "id": 2000217,
+                    "prize_list": [
+                        {
+                            "prize_id": 12199,
+                            "num": 5,
+                            "type": 3
+                        }
+                    ],
+                    "next_id": 2000218
+                },
+                {
+                    "sheet_num": 1,
+                    "day_num": 18,
+                    "id": 2000218,
+                    "prize_list": [
+                        {
+                            "prize_id": 0,
+                            "num": 50,
+                            "type": 4
+                        }
+                    ],
+                    "next_id": 2000219
+                },
+                {
+                    "sheet_num": 1,
+                    "day_num": 19,
+                    "id": 2000219,
+                    "prize_list": [
+                        {
+                            "prize_id": 11101,
+                            "num": 5,
+                            "type": 3
+                        }
+                    ],
+                    "next_id": 2000220
+                },
+                {
+                    "sheet_num": 1,
+                    "day_num": 20,
+                    "id": 2000220,
+                    "prize_list": [
+                        {
+                            "prize_id": 3002,
+                            "num": 150,
+                            "type": 3
+                        }
+                    ],
+                    "next_id": 2000221
+                },
+                {
+                    "sheet_num": 1,
+                    "day_num": 21,
+                    "id": 2000221,
+                    "prize_list": [
+                        {
+                            "prize_id": 0,
+                            "num": 100,
+                            "type": 4
+                        }
+                    ],
+                    "next_id": 2000222
+                },
+                {
+                    "sheet_num": 1,
+                    "day_num": 22,
+                    "id": 2000222,
+                    "prize_list": [
+                        {
+                            "prize_id": 0,
+                            "num": 10000,
+                            "type": 6
+                        }
+                    ],
+                    "next_id": 2000223
+                },
+                {
+                    "sheet_num": 1,
+                    "day_num": 23,
+                    "id": 2000223,
+                    "prize_list": [
+                        {
+                            "prize_id": 3003,
+                            "num": 300,
+                            "type": 3
+                        }
+                    ],
+                    "next_id": 2000224
+                },
+                {
+                    "sheet_num": 1,
+                    "day_num": 24,
+                    "id": 2000224,
+                    "prize_list": [
+                        {
+                            "prize_id": 12199,
+                            "num": 10,
+                            "type": 3
+                        }
+                    ],
+                    "next_id": 2000225
+                },
+                {
+                    "sheet_num": 1,
+                    "day_num": 25,
+                    "id": 2000225,
+                    "prize_list": [
+                        {
+                            "prize_id": 0,
+                            "num": 50,
+                            "type": 4
+                        }
+                    ],
+                    "next_id": 2000226
+                },
+                {
+                    "sheet_num": 1,
+                    "day_num": 26,
+                    "id": 2000226,
+                    "prize_list": [
+                        {
+                            "prize_id": 11101,
+                            "num": 10,
+                            "type": 3
+                        }
+                    ],
+                    "next_id": 2000227
+                },
+                {
+                    "sheet_num": 1,
+                    "day_num": 27,
+                    "id": 2000227,
+                    "prize_list": [
+                        {
+                            "prize_id": 3004,
+                            "num": 300,
+                            "type": 3
+                        }
+                    ],
+                    "next_id": 2000228
+                },
+                {
+                    "sheet_num": 1,
+                    "day_num": 28,
+                    "id": 2000228,
+                    "prize_list": [
+                        {
+                            "prize_id": 0,
+                            "num": 200,
+                            "type": 4
+                        }
+                    ],
+                    "next_id": 2000201
+                }
+            ],
+            "img_name": "",
+            "receive_type": 1,
+            "term_start": 1579482000000,
+            "name": "ログインボーナス",
+            "is_badge": false,
+            "term_end": 1911653999000,
+            "id": 20002,
+            "category": 2
+        },
+        {
+            "img_name": "portal_bnr_0011",
+            "receive_type": 0,
+            "term_start": 1599577200000,
+            "name": "リリース記念１０大キャンペーン",
+            "link": "https://re-zero-rezelos.jp/info/webview/info/detail/000104FIZNNUK0.html#btnoff",
+            "description": "『Re:ゼロから始める異世界生活 Lost in Memories』の\nリリースを記念しまして１０大キャンペーン開催中！\n\n詳しくは↓のボタンをタップ！",
+            "is_badge": false,
+            "term_end": 1602428399000,
+            "id": 50001,
+            "category": 4,
+            "priority": 41
+        },{
+            "img_name": "gch_bnr_release_0007_01",
+            "receive_type": 0,
+            "term_start": 1599577200000,
+            "name": "リリース記念ガチャ",
+            "link": "",
+            "description": "正式サービス開始記念といたしまして、\n【信念の剣舞】ユリウス★3、[記憶結晶] 追憶郷へようこそ★3の出現率がアップする\n『リリース記念ガチャ』を開催します！",
+            "is_badge": false,
+            "term_end": 1600225199000,
+            "id": 50002,
+            "category": 6,
+            "priority": 5,
+            "target": {
+                "view": "ガチャへ",
+                "val3": 0,
+                "val2": 0,
+                "val1": 0,
+                "id": 207
+            }
+        },
+        {
+            "img_name": "portal_bnr_0003",
+            "receive_type": 0,
+            "term_start": 1600614000000,
+            "name": "期間限定ミッション",
+            "link": "https://re-zero-rezelos.jp/info/webview/info/detail/000080ta36swdM.html#btnoff",
+            "description": "月曜日限定ミッションをクリアして\nアイテムをゲットしよう！\n詳しくは↓のボタンをタップ！",
+            "is_badge": false,
+            "term_end": 1600700399000,
+            "id": 50011,
+            "category": 4,
+            "priority": 14
+        },
+        {
+            "now_portal_prize_id": "user_data",
+            "link": "https://re-zero-rezelos.jp/info/webview/info/detail/000105jBzToUDj.html#btnoff",
+            "description": "エミリア誕生日カウントダウンログインボーナス",
+            "priority": 13,
+            "is_receipt": false,
+            "event_portal_prize": [
+                {
+                    "sheet_num": 1,
+                    "day_num": 1,
+                    "id": 3000501,
+                    "prize_list": [
+                        {
+                            "prize_id": 0,
+                            "num": 50,
+                            "type": 4
+                        }
+                    ],
+                    "next_id": 3000502
+                },
+                {
+                    "sheet_num": 1,
+                    "day_num": 2,
+                    "id": 3000502,
+                    "prize_list": [
+                        {
+                            "prize_id": 0,
+                            "num": 50,
+                            "type": 4
+                        }
+                    ],
+                    "next_id": 3000503
+                },
+                {
+                    "sheet_num": 1,
+                    "day_num": 3,
+                    "id": 3000503,
+                    "prize_list": [
+                        {
+                            "prize_id": 0,
+                            "num": 50,
+                            "type": 4
+                        }
+                    ],
+                    "next_id": 0
+                }
+            ],
+            "img_name": "lgb_bnr_0002",
+            "receive_type": 1,
+            "term_start": 1600527600000,
+            "name": "エミリア誕生日カウントダウンログインボーナス",
+            "is_badge": false,
+            "term_end": 1600959599000,
+            "id": 30005,
+            "category": 3
+        },
+        {
+            "img_name": "portal_bnr_0012",
+            "receive_type": 0,
+            "term_start": 1600441200000,
+            "name": "期間限定コインダンジョンSPオープン",
+            "link": "",
+            "description": "期間限定のコインダンジョンSPが登場！！\nクリアしてコインをゲットしよう！",
+            "is_badge": false,
+            "term_end": 1600786799000,
+            "id": 50017,
+            "category": 4,
+            "priority": 13,
+            "target": {
+                "view": "クエストへ",
+                "val3": 0,
+                "val2": 0,
+                "val1": 0,
+                "id": 2007
+            }
+        },
+        {
+            "img_name": "gch_bnr_birthday_0010_01",
+            "receive_type": 0,
+            "term_start": 1600182000000,
+            "name": "ロズワール誕生日記念ガチャ",
+            "link": "",
+            "description": "ロズワール誕生日記念ガチャ開催中！！\n【辺境伯の実力】ロズワール★3、[記憶結晶] 浴場での主従関係!?★3の出現確率がアップ！！",
+            "is_badge": false,
+            "term_end": 1600786799000,
+            "id": 50010,
+            "category": 6,
+            "priority": 11,
+            "target": {
+                "view": "ガチャへ",
+                "val3": 0,
+                "val2": 0,
+                "val1": 0,
+                "id": 207
+            }
+        },
+        {
+            "now_portal_prize_id": "user_data",
+            "link": "https://re-zero-rezelos.jp/info/webview/info/detail/000077snkbvAxi.html#btnoff",
+            "description": "ウルガルム討伐イベントログインボーナス",
+            "priority": 10,
+            "is_receipt": false,
+            "event_portal_prize": [
+                {
+                    "sheet_num": 1,
+                    "day_num": 1,
+                    "id": 3000401,
+                    "prize_list": [
+                        {
+                            "prize_id": 40101,
+                            "num": 30,
+                            "type": 3
+                        }
+                    ],
+                    "next_id": 3000402
+                },
+                {
+                    "sheet_num": 1,
+                    "day_num": 2,
+                    "id": 3000402,
+                    "prize_list": [
+                        {
+                            "prize_id": 40101,
+                            "num": 30,
+                            "type": 3
+                        }
+                    ],
+                    "next_id": 3000403
+                },
+                {
+                    "sheet_num": 1,
+                    "day_num": 3,
+                    "id": 3000403,
+                    "prize_list": [
+                        {
+                            "prize_id": 40101,
+                            "num": 30,
+                            "type": 3
+                        }
+                    ],
+                    "next_id": 3000404
+                },
+                {
+                    "sheet_num": 1,
+                    "day_num": 4,
+                    "id": 3000404,
+                    "prize_list": [
+                        {
+                            "prize_id": 40101,
+                            "num": 30,
+                            "type": 3
+                        }
+                    ],
+                    "next_id": 3000405
+                },
+                {
+                    "sheet_num": 1,
+                    "day_num": 5,
+                    "id": 3000405,
+                    "prize_list": [
+                        {
+                            "prize_id": 40101,
+                            "num": 30,
+                            "type": 3
+                        }
+                    ],
+                    "next_id": 3000406
+                },
+                {
+                    "sheet_num": 1,
+                    "day_num": 6,
+                    "id": 3000406,
+                    "prize_list": [
+                        {
+                            "prize_id": 40101,
+                            "num": 30,
+                            "type": 3
+                        }
+                    ],
+                    "next_id": 3000407
+                },
+                {
+                    "sheet_num": 1,
+                    "day_num": 7,
+                    "id": 3000407,
+                    "prize_list": [
+                        {
+                            "prize_id": 40101,
+                            "num": 30,
+                            "type": 3
+                        }
+                    ],
+                    "next_id": 0
+                }
+            ],
+            "img_name": "lgb_bnr_0004",
+            "receive_type": 1,
+            "term_start": 1600225200000,
+            "name": "ウルガルム討伐イベントログインボーナス",
+            "is_badge": false,
+            "term_end": 1600829999000,
+            "id": 30004,
+            "category": 3
+        },
+        {
+            "img_name": "evt_bnr_0001_01",
+            "receive_type": 0,
+            "term_start": 1600225200000,
+            "name": "ウルガルム討伐イベント",
+            "link": "https://re-zero-rezelos.jp/info/webview/info/detail/000080ta36swdM.html#btnoff",
+            "description": "ウルガルム討伐イベント開催中！\nイベントで入手できる勲章を集めて【月夜の舞風】ラム★３、\n[記憶結晶]正気に戻す策★３、魔法石をゲットしよう！",
+            "is_badge": false,
+            "term_end": 1600829999000,
+            "id": 50008,
+            "category": 4,
+            "priority": 9,
+            "target": {
+                "view": "イベントへ",
+                "val3": 0,
+                "val2": 0,
+                "val1": 0,
+                "id": 2005
+            }
+        },
+        {
+            "img_name": "gch_bnr_event_0008_01",
+            "receive_type": 0,
+            "term_start": 1600225200000,
+            "name": "イベント特効ガチャ",
+            "link": "",
+            "description": "イベント特効ガチャでは\n「ウルガルム討伐イベント」での勲章取得量の倍率がアップする【殺戮の鬼少女】レム★3や\n[記憶結晶]もう、絶対に逃がさない★３が登場！！",
+            "is_badge": false,
+            "term_end": 1600829999000,
+            "id": 50009,
+            "category": 6,
+            "priority": 8,
+            "target": {
+                "view": "ガチャへ",
+                "val3": 0,
+                "val2": 0,
+                "val1": 0,
+                "id": 207
+            }
+        },
+        {
+            "img_name": "gch_bnr_rezelos_0001_01",
+            "receive_type": 0,
+            "term_start": 1599577200000,
+            "name": "リゼロスガチャ",
+            "link": "",
+            "description": "リゼロスガチャでは１日１回無料でガチャが引けます！\n★３キャラ獲得のチャンスですので\n是非お試しください！",
+            "is_badge": false,
+            "term_end": 1602428399000,
+            "id": 50003,
+            "category": 6,
+            "priority": 4,
+            "target": {
+                "view": "ガチャへ",
+                "val3": 0,
+                "val2": 0,
+                "val1": 0,
+                "id": 207
+            }
+        },
+        {
+            "img_name": "portal_bnr_0010",
+            "receive_type": 0,
+            "term_start": 1599577200000,
+            "name": "お得なパック販売のお知らせ",
+            "link": "https://re-zero-rezelos.jp/info/webview/info/detail/000096LWlk0Dpo.html#btnoff",
+            "description": "ショップにて大変お得なパックを販売しています！\n詳しくは↓のボタンをタップ！",
+            "is_badge": false,
+            "term_end": 1602428399000,
+            "id": 50004,
+            "category": 7,
+            "priority": 3
+        },
+        {
+            "use_browser": 1,
+            "img_name": "portal_bnr_0009",
+            "receive_type": 0,
+            "term_start": 1599577200000,
+            "name": "ユーザーアンケート",
+            "link": "https://enq.sega.jp/orca/XA04490678/P/sgna?session_id=",
+            "description": "ユーザーアンケート実施中！\nユーザーアンケートに答えて魔法石をゲットしよう！\nより良いサービスの提供のため、ご協力をお願いします。\n詳しくは↓のボタンをタップ！",
+            "is_badge": false,
+            "term_end": 1602255599000,
+            "id": 50005,
+            "category": 4,
+            "priority": 2
+        },
+        {
+            "img_name": "portal_bnr_0005",
+            "receive_type": 0,
+            "term_start": 1599577200000,
+            "name": "正式サービス開始!!",
+            "link": "https://re-zero-rezelos.jp/info/webview/info/detail/000068CgGhRiKl.html#btnoff",
+            "description": "『Re:ゼロから始める異世界生活 Lost in Memories』の正式サービスを開始いたしました！！\n本作を、是非ともよろしくお願いいたします。\n詳しくは↓のボタンをタップ！",
+            "is_badge": false,
+            "id": 50006,
+            "category": 4,
+            "priority": 1
+        },
+        {
+            "now_portal_prize_id": "user_data",
+            "link": "https://re-zero-rezelos.jp/info/webview/info/detail/0000996CGerqJO.html#btnoff",
+            "description": "TVアニメ放送記念ログインボーナス",
+            "priority": 12,
+            "is_receipt": false,
+            "event_portal_prize": [
+                {
+                    "sheet_num": 1,
+                    "day_num": 1,
+                    "id": 3000201,
+                    "prize_list": [
+                        {
+                            "prize_id": 1501,
+                            "num": 150,
+                            "type": 3
+                        }
+                    ],
+                    "next_id": 3000202
+                },
+                {
+                    "sheet_num": 1,
+                    "day_num": 2,
+                    "id": 3000202,
+                    "prize_list": [
+                        {
+                            "prize_id": 1501,
+                            "num": 150,
+                            "type": 3
+                        }
+                    ],
+                    "next_id": 3000203
+                },
+                {
+                    "sheet_num": 1,
+                    "day_num": 3,
+                    "id": 3000203,
+                    "prize_list": [
+                        {
+                            "prize_id": 1000,
+                            "num": 1,
+                            "type": 3
+                        }
+                    ],
+                    "next_id": 0
+                }
+            ],
+            "img_name": "lgb_bnr_0005",
+            "receive_type": 1,
+            "term_start": 1600311600000,
+            "name": "TVアニメ放送記念ログインボーナス",
+            "is_badge": false,
+            "term_end": 1600916399000,
+            "id": 30002,
+            "category": 3
+        }
+    ],
+    "user_data": "user_data",
+    "is_name_change_second": 0,
+    "res_code": 0,
+    "client_wait": 0,
+    "badge": "user_data",
+    "event_term_end": 1600829999000,
+    "event_id": 1001,
+    "gacha_push_tm": 1600736400388,
+    "event_name": "ウルガルム討伐イベント",
+    "stamina_push_1_tm": "user_data",
+    "chara_action_list": [
+        {
+            "voice": "vo_sim_shion001/home_nrm01",
+            "msg": "追憶郷へようこそ。さあ、記憶を巡る旅を始めましょう！",
+            "motion": "act_unazuku",
+            "id": 100101
+        },
+        {
+            "voice": "vo_sim_shion001/home_nrm02",
+            "msg": "準備はいいですか？　ババーンといきますよ！",
+            "motion": "act_egao",
+            "id": 100102
+        },
+        {
+            "voice": "vo_sim_shion001/home_nrm03",
+            "msg": "サポートはドーンとお任せください！\n……あ、サポートって言葉、この使い方で合ってますよね？",
+            "motion": "act_egao",
+            "id": 100103
+        },
+        {
+            "voice": "vo_sim_shion001/home_ignore_nrm",
+            "msg": "あれ！？　もしかして放置！　放置されてますか！？",
+            "motion": "act_nayamu",
+            "id": 100115
+        }
+    ],
+    "stamina_push_2_tm": "user_data",
+    "chara_name": "shion"
+}

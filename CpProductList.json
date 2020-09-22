@@ -1,0 +1,158 @@
+{
+    "transaction_id": "user_data",
+    "server_time": 1600654787088,
+    "product_list": [
+        {
+            "catalog_id": 10000101,
+            "add_cp_free": 0,
+            "price": 120,
+            "product_id": "rezelos.ios.pack0101",
+            "add_cp_buy": 34,
+            "item_name": "魔法石 34個",
+            "product_type_id": 0,
+            "google_promo_flg": 0
+        },
+        {
+            "catalog_id": 10000401,
+            "add_cp_free": 0,
+            "price": 490,
+            "product_id": "rezelos.ios.pack0401",
+            "add_cp_buy": 140,
+            "item_name": "魔法石 140個",
+            "product_type_id": 0,
+            "google_promo_flg": 0
+        },
+        {
+            "catalog_id": 10000801,
+            "add_cp_free": 12,
+            "price": 980,
+            "product_id": "rezelos.ios.pack0801",
+            "add_cp_buy": 280,
+            "item_name": "魔法石 280個＋オマケ12個",
+            "product_type_id": 0,
+            "google_promo_flg": 0
+        },
+        {
+            "catalog_id": 10001201,
+            "add_cp_free": 32,
+            "price": 1480,
+            "product_id": "rezelos.ios.pack1201",
+            "add_cp_buy": 422,
+            "item_name": "魔法石 422個＋オマケ32個",
+            "product_type_id": 0,
+            "google_promo_flg": 0
+        },
+        {
+            "catalog_id": 10002401,
+            "add_cp_free": 100,
+            "price": 2940,
+            "product_id": "rezelos.ios.pack2401",
+            "add_cp_buy": 840,
+            "item_name": "魔法石 840個＋オマケ100個",
+            "product_type_id": 0,
+            "google_promo_flg": 0
+        },
+        {
+            "catalog_id": 10004001,
+            "add_cp_free": 230,
+            "price": 4900,
+            "product_id": "rezelos.ios.pack4001",
+            "add_cp_buy": 1400,
+            "item_name": "魔法石 1,400個＋オマケ230個",
+            "product_type_id": 0,
+            "google_promo_flg": 0
+        },
+        {
+            "catalog_id": 10005601,
+            "add_cp_free": 620,
+            "price": 10000,
+            "product_id": "rezelos.ios.pack5601",
+            "add_cp_buy": 2857,
+            "item_name": "魔法石 2,857個＋オマケ620個",
+            "product_type_id": 0,
+            "google_promo_flg": 0
+        },
+        {
+            "catalog_id": 10001601,
+            "add_cp_free": 350,
+            "price": 1960,
+            "product_id": "rezelos.ios.pack1601",
+            "add_cp_buy": 560,
+            "item_name": "【月4回限定】魔法石 560個＋オマケ350個",
+            "product_type_id": 0,
+            "google_promo_flg": 0
+        },
+        {
+            "catalog_id": 10005602,
+            "add_cp_free": 2000,
+            "price": 10000,
+            "product_id": "rezelos.ios.pack5602",
+            "add_cp_buy": 2857,
+            "item_name": "【月3回限定】魔法石 2,857個＋オマケ2,000個",
+            "product_type_id": 0,
+            "google_promo_flg": 0
+        },
+        {
+            "catalog_id": 10010102,
+            "add_cp_free": 0,
+            "price": 120,
+            "product_id": "rezelos.ios.pack0102",
+            "add_cp_buy": 34,
+            "item_name": "【1回限定】★2以上確定チケットパック",
+            "product_type_id": 0,
+            "google_promo_flg": 0
+        },
+        {
+            "catalog_id": 10010402,
+            "add_cp_free": 0,
+            "price": 490,
+            "product_id": "rezelos.ios.pack0402",
+            "add_cp_buy": 140,
+            "item_name": "【1回限定】★2以上キャラ確定チケットパック",
+            "product_type_id": 0,
+            "google_promo_flg": 0
+        },
+        {
+            "catalog_id": 10011202,
+            "add_cp_free": 0,
+            "price": 1480,
+            "product_id": "rezelos.ios.pack1202",
+            "add_cp_buy": 422,
+            "item_name": "【1回限定】★3記憶結晶確定チケットパック",
+            "product_type_id": 0,
+            "google_promo_flg": 0
+        },
+        {
+            "catalog_id": 10012402,
+            "add_cp_free": 0,
+            "price": 2940,
+            "product_id": "rezelos.ios.pack2402",
+            "add_cp_buy": 840,
+            "item_name": "【1回限定】★3キャラ確定チケットパック",
+            "product_type_id": 0,
+            "google_promo_flg": 0
+        },
+        {
+            "catalog_id": 10010802,
+            "add_cp_free": 0,
+            "price": 980,
+            "product_id": "rezelos.ios.pack0802",
+            "add_cp_buy": 280,
+            "item_name": "デイリー魔法石パック",
+            "product_type_id": 0,
+            "google_promo_flg": 0
+        },
+        {
+            "catalog_id": 10010803,
+            "add_cp_free": 0,
+            "price": 980,
+            "product_id": "rezelos.ios.pack0803",
+            "add_cp_buy": 280,
+            "item_name": "EXP特訓所SPドロップ報酬100%UPパック",
+            "product_type_id": 0,
+            "google_promo_flg": 0
+        }
+    ],
+    "res_code": 0,
+    "client_wait": 0
+}
