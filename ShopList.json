@@ -2894,6 +2894,269 @@
             "id": 40001
         },
         {
+            "item_id": 0,
+            "description": "誕生日プレゼント（エミリア）交換所",
+            "term_view": 1,
+            "priority": 1,
+            "item_view": 1,
+            "view": {
+                "prize_id": 1600,
+                "num": "user_data",
+                "type": 3
+            },
+            "img_name": "exc_bnr_bd_emilia_2020_01.png",
+            "term_start": 1600786800000,
+            "catalog_list": [
+                {
+                    "limit_type": 1,
+                    "cost": [
+                        {
+                            "prize_id": 1600,
+                            "num": 50,
+                            "type": 3
+                        }
+                    ],
+                    "limit_term_num": -1,
+                    "description": "[1日1回限定]輝く経験値の紙面",
+                    "priority": 1,
+                    "prize": [
+                        {
+                            "prize_id": 12299,
+                            "num": 5,
+                            "type": 3
+                        }
+                    ],
+                    "img_name": "",
+                    "term_start": 1600786800000,
+                    "group_id": 0,
+                    "name": "[1日1回限定]輝く経験値の紙面",
+                    "term_end": 1601391599000,
+                    "id": 40002001,
+                    "limit_num": 1
+                },
+                {
+                    "limit_type": 1,
+                    "cost": [
+                        {
+                            "prize_id": 1600,
+                            "num": 50,
+                            "type": 3
+                        }
+                    ],
+                    "limit_term_num": -1,
+                    "description": "[1日1回限定]コイン",
+                    "priority": 2,
+                    "prize": [
+                        {
+                            "prize_id": 0,
+                            "num": 20000,
+                            "type": 6
+                        }
+                    ],
+                    "img_name": "",
+                    "term_start": 1600786800000,
+                    "group_id": 0,
+                    "name": "[1日1回限定]コイン",
+                    "term_end": 1601391599000,
+                    "id": 40002002,
+                    "limit_num": 1
+                },
+                {
+                    "limit_type": 1,
+                    "cost": [
+                        {
+                            "prize_id": 1600,
+                            "num": 50,
+                            "type": 3
+                        }
+                    ],
+                    "limit_term_num": -1,
+                    "description": "[1日1回限定]ノリⅡ",
+                    "priority": 3,
+                    "prize": [
+                        {
+                            "prize_id": 3007,
+                            "num": 150,
+                            "type": 3
+                        }
+                    ],
+                    "img_name": "",
+                    "term_start": 1600786800000,
+                    "group_id": 0,
+                    "name": "[1日1回限定]ノリⅡ",
+                    "term_end": 1601391599000,
+                    "id": 40002003,
+                    "limit_num": 1
+                },
+                {
+                    "limit_type": 1,
+                    "cost": [
+                        {
+                            "prize_id": 1600,
+                            "num": 50,
+                            "type": 3
+                        }
+                    ],
+                    "limit_term_num": -1,
+                    "description": "[1日1回限定]魅力Ⅱ",
+                    "priority": 4,
+                    "prize": [
+                        {
+                            "prize_id": 3008,
+                            "num": 150,
+                            "type": 3
+                        }
+                    ],
+                    "img_name": "",
+                    "term_start": 1600786800000,
+                    "group_id": 0,
+                    "name": "[1日1回限定]魅力Ⅱ",
+                    "term_end": 1601391599000,
+                    "id": 40002004,
+                    "limit_num": 1
+                },
+                {
+                    "limit_type": 1,
+                    "cost": [
+                        {
+                            "prize_id": 1600,
+                            "num": 50,
+                            "type": 3
+                        }
+                    ],
+                    "limit_term_num": -1,
+                    "description": "[1日1回限定]知識Ⅱ",
+                    "priority": 5,
+                    "prize": [
+                        {
+                            "prize_id": 3005,
+                            "num": 150,
+                            "type": 3
+                        }
+                    ],
+                    "img_name": "",
+                    "term_start": 1600786800000,
+                    "group_id": 0,
+                    "name": "[1日1回限定]知識Ⅱ",
+                    "term_end": 1601391599000,
+                    "id": 40002005,
+                    "limit_num": 1
+                },
+                {
+                    "limit_type": 1,
+                    "cost": [
+                        {
+                            "prize_id": 1600,
+                            "num": 50,
+                            "type": 3
+                        }
+                    ],
+                    "limit_term_num": -1,
+                    "description": "[1日1回限定]勇気Ⅱ",
+                    "priority": 6,
+                    "prize": [
+                        {
+                            "prize_id": 3006,
+                            "num": 150,
+                            "type": 3
+                        }
+                    ],
+                    "img_name": "",
+                    "term_start": 1600786800000,
+                    "group_id": 0,
+                    "name": "[1日1回限定]勇気Ⅱ",
+                    "term_end": 1601391599000,
+                    "id": 40002006,
+                    "limit_num": 1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 1600,
+                            "num": 200,
+                            "type": 3
+                        }
+                    ],
+                    "limit_term_num": 3,
+                    "description": "[3回限定]幸運",
+                    "priority": 7,
+                    "prize": [
+                        {
+                            "prize_id": 3400,
+                            "num": 50,
+                            "type": 3
+                        }
+                    ],
+                    "img_name": "",
+                    "term_start": 1600786800000,
+                    "group_id": 0,
+                    "name": "[3回限定]幸運",
+                    "term_end": 1601650799000,
+                    "id": 40002007,
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 1600,
+                            "num": 400,
+                            "type": 3
+                        }
+                    ],
+                    "limit_term_num": 3,
+                    "description": "[3回限定]カリスマ",
+                    "priority": 8,
+                    "prize": [
+                        {
+                            "prize_id": 3100,
+                            "num": 50,
+                            "type": 3
+                        }
+                    ],
+                    "img_name": "",
+                    "term_start": 1600786800000,
+                    "group_id": 0,
+                    "name": "[3回限定]カリスマ",
+                    "term_end": 1601650799000,
+                    "id": 40002008,
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 1600,
+                            "num": 800,
+                            "type": 3
+                        }
+                    ],
+                    "limit_term_num": 3,
+                    "description": "[3回限定]覇気",
+                    "priority": 9,
+                    "prize": [
+                        {
+                            "prize_id": 3300,
+                            "num": 50,
+                            "type": 3
+                        }
+                    ],
+                    "img_name": "",
+                    "term_start": 1600786800000,
+                    "group_id": 0,
+                    "name": "[3回限定]覇気",
+                    "term_end": 1601650799000,
+                    "id": 40002009,
+                    "limit_num": -1
+                }
+            ],
+            "name": "誕生日プレゼント（エミリア）交換所",
+            "shop_type": 4,
+            "term_end": 1601650799000,
+            "id": 40002
+        },
+        {
             "item_view": 0,
             "img_name": "exc_bnr_sell_memorycard_01.png",
             "item_id": 0,

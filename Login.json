@@ -1,12 +1,12 @@
 {
     "transaction_id": "user_data",
-    "server_time": 1600566394988,
+    "server_time": 1600787982682,
     "safety_net_interval": 24,
     "user_id": "user_data",
     "basedata_version": [
         {
             "type": "Message",
-            "version": "b3033fb01f3c0e34935c8455b6329958"
+            "version": "29e8b566bee8b667bfe8e02225c79eee"
         },
         {
             "type": "Other",
@@ -18,7 +18,7 @@
         },
         {
             "type": "Card",
-            "version": "45a5646df9b75886073cc9cb5cd48ef9"
+            "version": "d35f0ce8b2c7d4d45638c0de176ab436"
         },
         {
             "type": "Adv",

@@ -1,4 +1,4 @@
-1.0.0.20200916.sVVmjjXg
+1.0.0.20200923.nnhdepGr
 ab.txt	1	Asset		OnBootText	25879	66C8D673		ja
 abshadervariants.shadervariants	1	Asset		Preload	277572	73E0686D	736,9295,9297,9298,9300,9301,9302,9303,9304,9305,9306,9307,9308,9309,9310,9311,9312,9313,9314,9315,9316,9317,9319,9320,9321,9322,9323,9324,9325,9326,9327,9328,9329,9330,9331,9332,9333,9334	ja
 btl_bnr_evo_blue_01.png	1	Asset			113385	D002CDDB		ja
@@ -9428,11 +9428,11 @@ skill_emilia_nemaki02_cutin_01.asset	1	Asset			49789	588F9178	620,621,737,755,75
 skill_emilia_nemaki02_spt_01.asset	1	Asset			3414	7F41800F	499,500,763,768	ja
 skill_emilia_nemaki03_atk_01.asset	1	Asset			3511	41CFA23	202,203,755	ja
 skill_emilia_nemaki03_atk_02.asset	1	Asset			3377	9C1EFEEC	303,756	ja
-skill_emilia_nemaki03_cutin_01.asset	1	Asset			50037	BD9BDCAD	622,623,624,737,755,756,757,768	ja
+skill_emilia_nemaki03_cutin_01.asset	1	Asset			50035	8ADB18C0	622,623,624,737,755,756,757,768	ja
 skill_emilia_nemaki03_spt_01.asset	1	Asset			3401	80A37E43	499,500,763,768	ja
 skill_emilia_pack_atk_01.asset	1	Asset			3513	4A51900C	195,196,656,755,760,764,768,9303	ja
 skill_emilia_pack_atk_02.asset	1	Asset			3657	A9FD026B	195,196,304,656,755,760,764,768,785,9303	ja
-skill_emilia_pack_cutin_01.asset	1	Asset			49828	D276E417	530,531,661,662,737,755,756,763	ja
+skill_emilia_pack_cutin_01.asset	1	Asset			49823	D536BEA3	530,531,661,662,737,755,756,763	ja
 skill_emilia_pack_spt_01.asset	1	Asset			3395	3792A7E4	499,500,763,768	ja
 skill_emilia_spt_01.asset	1	Asset			3406	420BA1CC	499,500,763,768	ja
 skill_emilia_spt_02.asset	1	Asset			3437	EA58EFFC	667,668,763,801	ja
@@ -10497,4 +10497,18 @@ cardlarge_10402001b.png	1	Asset			1064859	1ED69316		ja
 cardstrip_10402001a.png	1	Asset			72879	597CA6D4		ja
 cardstrip_10402001b.png	1	Asset			75560	FCB90D3E		ja
 card_home_chara_10402.png	1	Asset			32292	37AB8A54		ja
+lgb_bnr_0003.png	1	Asset			209529	E17E7E37		ja
+portal_bnr_0004.png	1	Asset			216026	F118C40D		ja
+gch_bnr_birthday_0009_01.png	1	Asset			600056	A779FA17		ja
+gch_content_birthday_0009_01.prefab	1	Asset			3261373	DD8DECDE	2852,2886,9304	ja
+cardface_10104001a.png	1	Asset			147646	F336E0CB		ja
+cardface_10104001b.png	1	Asset			150686	463BF3D8		ja
+card_fragment_10104001.png	1	Asset			10277	34F6FC9B		ja
+cardlarge_10104001a.png	1	Asset			886965	F38EA9B0		ja
+cardlarge_10104001b.png	1	Asset			1004236	2B08E4C9		ja
+cardstrip_10104001a.png	1	Asset			69638	9BE4B292		ja
+cardstrip_10104001b.png	1	Asset			71149	C2397DAE		ja
+card_home_chara_10104.png	1	Asset			32026	1FCA8642		ja
+memorycardface_59901020.png	1	Asset			64697	715AC30D		ja
+memorycardlarge_59901020.png	1	Asset			453026	1B4F26EB		ja
 [EOF]

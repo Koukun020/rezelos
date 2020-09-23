@@ -1,0 +1,112 @@
+{
+    "skit_list": [
+        {
+            "skit_id": 10012,
+            "scene_option": "",
+            "scenario_list": [
+                {
+                    "voice": "vo_adv_emilia,advg_emilia_kantan",
+                    "image": "",
+                    "character": "live2d/AC_emilia01",
+                    "uniq_id": 100120001,
+                    "motion": "act_egao02",
+                    "video": "",
+                    "msg_text": "すごい……こんなにたくさんのお花、\nまるでお花畑を独り占めにしてるみたい！",
+                    "msg_header": "エミリア",
+                    "scenario_type": 0,
+                    "scenario_id": 1,
+                    "command": [
+                        "",
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "voice": "",
+                    "image": "",
+                    "character": "live2d/AC_emilia01",
+                    "uniq_id": 100120002,
+                    "motion": "act_hohoemu03",
+                    "video": "",
+                    "msg_text": "どの子も、みんなが集めてくれたのね……。\nすごーく綺麗で、なんだかあったかくて……",
+                    "msg_header": "エミリア",
+                    "scenario_type": 0,
+                    "scenario_id": 2,
+                    "command": [
+                        "",
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "voice": "vo_adv_emilia,advk_emilia_yorokobi02",
+                    "image": "",
+                    "character": "live2d/AC_emilia01",
+                    "uniq_id": 100120003,
+                    "motion": "act_hohoemu02",
+                    "video": "",
+                    "msg_text": "気持ちのこもった『ぷれぜんと』？\nうん、ホントに嬉しい……でも、あんまり\n無茶しちゃダメだからね？",
+                    "msg_header": "エミリア",
+                    "scenario_type": 0,
+                    "scenario_id": 3,
+                    "command": [
+                        "",
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "voice": "",
+                    "image": "",
+                    "character": "live2d/AC_emilia01",
+                    "uniq_id": 100120004,
+                    "motion": "act_egao02",
+                    "video": "",
+                    "msg_text": "来年も、その次も……こうして一緒に、\nまたお祝いしてくれるのが一番嬉しいから。\nなんて、わがままかも。",
+                    "msg_header": "エミリア",
+                    "scenario_type": 0,
+                    "scenario_id": 4,
+                    "command": [
+                        "",
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "voice": "",
+                    "image": "",
+                    "character": "",
+                    "uniq_id": 100120005,
+                    "motion": "",
+                    "video": "",
+                    "msg_text": "エミリアへの「誕生日プレゼント」集め、\nお疲れ様でした！",
+                    "msg_header": "",
+                    "scenario_type": 0,
+                    "scenario_id": 5,
+                    "command": [
+                        "",
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "voice": "",
+                    "image": "",
+                    "character": "",
+                    "uniq_id": 100120006,
+                    "motion": "",
+                    "video": "",
+                    "msg_text": "※集めた「誕生日プレゼント」は交換所で、育成素材と交換することができます",
+                    "msg_header": "",
+                    "scenario_type": 0,
+                    "scenario_id": 6,
+                    "command": [
+                        "",
+                        "",
+                        ""
+                    ]
+                }
+            ]
+        }
+    ]
+}

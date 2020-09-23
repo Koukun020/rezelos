@@ -1,0 +1,114 @@
+{
+    "transaction_id": "user_data",
+    "server_time": 1600872708782,
+    "stamina": [
+        {
+            "val": "user_data",
+            "recover_sec": 300,
+            "is_full": 1,
+            "max": "user_data",
+            "is_update": 0,
+            "recover_one_sec": 0,
+            "recover_full_ts": "user_data",
+            "type": 2,
+            "recover_total_sec": 0
+        },
+        {
+            "val": "user_data",
+            "recover_sec": 10800,
+            "is_full": 0,
+            "max": 5,
+            "is_update": 0,
+            "recover_one_sec": "user_data",
+            "recover_full_ts": "user_data",
+            "type": 3,
+            "recover_total_sec": "user_data"
+        }
+    ],
+    "user_data": "user_data",
+    "area_list": [
+        {
+            "is_drop_up": 0,
+            "clear_count": 0,
+            "reset_tm": 0,
+            "is_lock": 0,
+            "is_campaign_open": 0,
+            "progress_status": 3,
+            "area_id": 6005
+        },
+        {
+            "is_drop_up": 0,
+            "clear_count": 0,
+            "reset_tm": 0,
+            "is_lock": 0,
+            "is_campaign_open": 0,
+            "progress_status": 3,
+            "area_id": 6006
+        },
+        {
+            "is_drop_up": 0,
+            "clear_count": 0,
+            "reset_tm": 0,
+            "is_lock": 0,
+            "is_campaign_open": 0,
+            "progress_status": 3,
+            "area_id": 6007
+        },
+        {
+            "is_drop_up": 0,
+            "clear_count": 0,
+            "reset_tm": 0,
+            "is_lock": 0,
+            "is_campaign_open": 0,
+            "progress_status": 3,
+            "area_id": 6001
+        },
+        {
+            "is_drop_up": 0,
+            "clear_count": 0,
+            "reset_tm": 0,
+            "is_lock": 0,
+            "is_campaign_open": 0,
+            "progress_status": 3,
+            "area_id": 6002
+        },
+        {
+            "is_drop_up": 0,
+            "clear_count": 0,
+            "reset_tm": 0,
+            "is_lock": 0,
+            "is_campaign_open": 0,
+            "progress_status": 3,
+            "area_id": 6003
+        },
+        {
+            "is_drop_up": 0,
+            "clear_count": 0,
+            "reset_tm": 0,
+            "is_lock": 0,
+            "is_campaign_open": 0,
+            "progress_status": 1,
+            "area_id": 6008
+        },
+        {
+            "is_drop_up": 0,
+            "clear_count": 0,
+            "reset_tm": 0,
+            "is_lock": 0,
+            "is_campaign_open": 0,
+            "progress_status": 1,
+            "area_id": 6004
+        },
+        {
+            "is_drop_up": 0,
+            "clear_count": 0,
+            "reset_tm": 1601391599999,
+            "is_lock": 0,
+            "is_campaign_open": 0,
+            "progress_status": 1,
+            "area_id": 6601
+        }
+    ],
+    "res_code": 0,
+    "client_wait": 0
+}

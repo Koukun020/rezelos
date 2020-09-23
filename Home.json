@@ -422,7 +422,122 @@
             "id": 50001,
             "category": 4,
             "priority": 41
-        },{
+        },
+        {
+        "img_name": "portal_bnr_0006",
+        "receive_type": 0,
+        "term_start": 1600830000000,
+        "name": "期間限定かけらダンジョンオープン",
+        "link": "",
+        "description": "期間限定のかけらダンジョンが登場！！\n【月夜の舞風】ラム★３、【命懸けのシャマク】スバル★３、【大精霊の遊び心】パック★３のかけらをゲットしよう！",
+        "is_badge": false,
+        "term_end": 1601431199000,
+        "id": 50014,
+        "category": 4,
+        "priority": 18,
+        "target": {
+            "view": "クエストへ",
+            "val3": 0,
+            "val2": 0,
+            "val1": 0,
+            "id": 2007
+        },
+        {
+            "now_portal_prize_id": "user_data",
+            "link": "https://re-zero-rezelos.jp/info/webview/info/detail/000082Y62R7CjF.html#btnoff",
+            "description": "エミリア誕生日記念ログインボーナス",
+            "priority": 17,
+            "is_receipt": false,
+            "event_portal_prize": [
+                {
+                    "sheet_num": 1,
+                    "day_num": 1,
+                    "id": 3000601,
+                    "prize_list": [
+                        {
+                            "prize_id": 0,
+                            "num": 300,
+                            "type": 4
+                        }
+                    ],
+                    "next_id": 3000602
+                },
+                {
+                    "sheet_num": 1,
+                    "day_num": 2,
+                    "id": 3000602,
+                    "prize_list": [
+                        {
+                            "prize_id": 0,
+                            "num": 150,
+                            "type": 4
+                        }
+                    ],
+                    "next_id": 3000603
+                },
+                {
+                    "sheet_num": 1,
+                    "day_num": 3,
+                    "id": 3000603,
+                    "prize_list": [
+                        {
+                            "prize_id": 0,
+                            "num": 150,
+                            "type": 4
+                        }
+                    ],
+                    "next_id": 3000604
+                },
+                {
+                    "sheet_num": 1,
+                    "day_num": 4,
+                    "id": 3000604,
+                    "prize_list": [
+                        {
+                            "prize_id": 0,
+                            "num": 150,
+                            "type": 4
+                        }
+                    ],
+                    "next_id": 3000605
+                },
+                {
+                    "sheet_num": 1,
+                    "day_num": 5,
+                    "id": 3000605,
+                    "prize_list": [
+                        {
+                            "prize_id": 0,
+                            "num": 150,
+                            "type": 4
+                        }
+                    ],
+                    "next_id": 0
+                }
+            ],
+            "img_name": "lgb_bnr_0003",
+            "receive_type": 1,
+            "term_start": 1600786800000,
+            "name": "エミリア誕生日記念ログインボーナス",
+            "is_badge": false,
+            "term_end": 1601391599000,
+            "id": 30006,
+            "category": 3
+        },
+        {
+            "img_name": "portal_bnr_0004",
+            "receive_type": 0,
+            "term_start": 1600786800000,
+            "name": "エミリア誕生日記念イベント",
+            "link": "https://re-zero-rezelos.jp/info/webview/info/detail/000082Y62R7CjF.html#btnoff",
+            "description": "「誕生日プレゼント」を集めて【寝間着の天使】エミリア★３のかけら、【夕闇の幻想】エミリア★３のかけら、【他愛もない日々】エミリア★２のかけら、魔法石をゲットしよう！！\n詳しくは↓のボタンをタップ！",
+            "is_badge": false,
+            "term_end": 1601391599000,
+            "id": 50012,
+            "category": 4,
+            "priority": 16
+        },
+        {
             "img_name": "gch_bnr_release_0007_01",
             "receive_type": 0,
             "term_start": 1599577200000,
