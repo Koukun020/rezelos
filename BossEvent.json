@@ -1,37 +1,6 @@
 {
     "transaction_id": "user_data",
     "server_time": "user_data",
-    "mission": {
-        "norma": 1,
-        "name": "[ウルガルム討伐デイリーミッション]\nウルガルム討伐クエストを1回クリアする",
-        "destination": {
-            "view": "イベントへ",
-            "val3": 0,
-            "val2": 0,
-            "val1": 0,
-            "id": 2006
-        },
-        "description": "[ウルガルム討伐デイリーミッション]\nウルガルム討伐クエストを1回クリアする",
-        "progress": 0,
-        "term_end": 1600613999000,
-        "id": 110529,
-        "type": 1,
-        "prize_list": [
-            {
-                "ticket_num": 0,
-                "prize_id_sub": 0,
-                "prize_id": 40201,
-                "num": 100,
-                "val_b": 0,
-                "piece_num": 0,
-                "val_type": 0,
-                "type": 3,
-                "is_duplicate": 0,
-                "val_a": 0
-            }
-        ],
-        "status": 1
-    },
     "how_to_play": {
         "skit_id": 2001,
         "scene_option": "",
@@ -121,7 +90,7 @@
             "val1": 0,
             "id": 209
         },
-        "is_exchang": false,
+        "is_exchang": true,
         "prize_item_up_max": 100,
         "view_end": 1601089199000,
         "term_start": 1600225200000,

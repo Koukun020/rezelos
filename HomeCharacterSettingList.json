@@ -438,6 +438,21 @@
         },
         {
             "favor_level": "user_data",
+            "character_name": "エミリア",
+            "character_id": 1,
+            "priority": 43,
+            "favor_point": "user_data",
+            "need_favor": "user_data",
+            "filename": "live2d/AC_emilia_nemaki03",
+            "setting_chara": 0,
+            "is_lock": false,
+            "costume_id": 10104,
+            "is_badge": false,
+            "id": 1043,
+            "costume_name": "エミリア（寝間着）"
+        },
+        {
+            "favor_level": "user_data",
             "character_name": "スバル",
             "character_id": 3,
             "priority": 44,
