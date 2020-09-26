@@ -1,0 +1,369 @@
+{
+    "transaction_id": "user_data",
+    "server_time": "user_data",
+    "list": [
+        {
+            "present_id": 90005823654,
+            "get_time": 1599833702000,
+            "prize_list": [
+                {
+                    "ticket_num": 0,
+                    "prize_id_sub": 0,
+                    "prize_id": 2,
+                    "num": 1,
+                    "val_b": 0,
+                    "piece_num": 0,
+                    "val_type": 0,
+                    "type": 8,
+                    "is_duplicate": 0,
+                    "val_a": 0
+                }
+            ],
+            "present_text": "トップ無料ゲームランキング1位記念キャンペーン"
+        },
+        {
+            "present_id": 90005823656,
+            "get_time": 1599833702000,
+            "prize_list": [
+                {
+                    "ticket_num": 0,
+                    "prize_id_sub": 0,
+                    "prize_id": 1,
+                    "num": 100,
+                    "val_b": 0,
+                    "piece_num": 0,
+                    "val_type": 0,
+                    "type": 8,
+                    "is_duplicate": 0,
+                    "val_a": 0
+                }
+            ],
+            "present_text": "ウルガルム討伐イベント<br>開催決定キャンペーン"
+        },
+        {
+            "present_id": 90005823663,
+            "get_time": 1599833702000,
+            "prize_list": [
+                {
+                    "ticket_num": 0,
+                    "prize_id_sub": 0,
+                    "prize_id": 1,
+                    "num": 100,
+                    "val_b": 0,
+                    "piece_num": 0,
+                    "val_type": 0,
+                    "type": 8,
+                    "is_duplicate": 0,
+                    "val_a": 0
+                }
+            ],
+            "present_text": "スタミナ回復速度修正<br>でのお詫び"
+        },
+        {
+            "present_id": 90005823664,
+            "get_time": 1599833702000,
+            "prize_list": [
+                {
+                    "ticket_num": 0,
+                    "prize_id_sub": 0,
+                    "prize_id": 1,
+                    "num": 100,
+                    "val_b": 0,
+                    "piece_num": 0,
+                    "val_type": 0,
+                    "type": 8,
+                    "is_duplicate": 0,
+                    "val_a": 0
+                }
+            ],
+            "present_text": "スタミナ回復速度修正<br>でのお詫び"
+        },
+        {
+            "present_id": 90005823665,
+            "get_time": 1599833702000,
+            "prize_list": [
+                {
+                    "ticket_num": 0,
+                    "prize_id_sub": 0,
+                    "prize_id": 1,
+                    "num": 100,
+                    "val_b": 0,
+                    "piece_num": 0,
+                    "val_type": 0,
+                    "type": 8,
+                    "is_duplicate": 0,
+                    "val_a": 0
+                }
+            ],
+            "present_text": "スタミナ回復速度修正<br>でのお詫び"
+        },
+        {
+            "present_id": 90005823667,
+            "get_time": 1599833702000,
+            "prize_list": [
+                {
+                    "ticket_num": 0,
+                    "prize_id_sub": 0,
+                    "prize_id": 1,
+                    "num": 100,
+                    "val_b": 0,
+                    "piece_num": 0,
+                    "val_type": 0,
+                    "type": 8,
+                    "is_duplicate": 0,
+                    "val_a": 0
+                }
+            ],
+            "present_text": "スタミナ回復速度修正<br>でのお詫び"
+        },
+        {
+            "present_id": 90005823669,
+            "get_time": 1599833702000,
+            "prize_list": [
+                {
+                    "ticket_num": 0,
+                    "prize_id_sub": 0,
+                    "prize_id": 1,
+                    "num": 100,
+                    "val_b": 0,
+                    "piece_num": 0,
+                    "val_type": 0,
+                    "type": 8,
+                    "is_duplicate": 0,
+                    "val_a": 0
+                }
+            ],
+            "present_text": "スタミナ回復速度修正<br>でのお詫び"
+        },
+        {
+            "present_id": 90005823671,
+            "get_time": 1599833702000,
+            "prize_list": [
+                {
+                    "ticket_num": 0,
+                    "prize_id_sub": 0,
+                    "prize_id": 1,
+                    "num": 100,
+                    "val_b": 0,
+                    "piece_num": 0,
+                    "val_type": 0,
+                    "type": 8,
+                    "is_duplicate": 0,
+                    "val_a": 0
+                }
+            ],
+            "present_text": "スタミナ回復速度修正<br>でのお詫び"
+        },
+        {
+            "present_id": 90008673693,
+            "get_time": 1599918412000,
+            "prize_list": [
+                {
+                    "ticket_num": 0,
+                    "prize_id_sub": 0,
+                    "prize_id": 2,
+                    "num": 1,
+                    "val_b": 0,
+                    "piece_num": 0,
+                    "val_type": 0,
+                    "type": 8,
+                    "is_duplicate": 0,
+                    "val_a": 0
+                }
+            ],
+            "present_text": "トップ無料ゲームランキング1位記念キャンペーン"
+        },
+        {
+            "present_id": 90008673694,
+            "get_time": 1599918412000,
+            "prize_list": [
+                {
+                    "ticket_num": 0,
+                    "prize_id_sub": 0,
+                    "prize_id": 1,
+                    "num": 100,
+                    "val_b": 0,
+                    "piece_num": 0,
+                    "val_type": 0,
+                    "type": 8,
+                    "is_duplicate": 0,
+                    "val_a": 0
+                }
+            ],
+            "present_text": "ウルガルム討伐イベント<br>開催決定キャンペーン"
+        },
+        {
+            "present_id": 90008673695,
+            "get_time": 1599918412000,
+            "prize_list": [
+                {
+                    "ticket_num": 0,
+                    "prize_id_sub": 0,
+                    "prize_id": 1,
+                    "num": 100,
+                    "val_b": 0,
+                    "piece_num": 0,
+                    "val_type": 0,
+                    "type": 8,
+                    "is_duplicate": 0,
+                    "val_a": 0
+                }
+            ],
+            "present_text": "ウルガルム討伐イベント<br>開催決定キャンペーン"
+        },
+        {
+            "present_id": 90009440752,
+            "get_time": 1599958167000,
+            "prize_list": [
+                {
+                    "ticket_num": 0,
+                    "prize_id_sub": 0,
+                    "prize_id": 2,
+                    "num": 1,
+                    "val_b": 0,
+                    "piece_num": 0,
+                    "val_type": 0,
+                    "type": 8,
+                    "is_duplicate": 0,
+                    "val_a": 0
+                }
+            ],
+            "present_text": "トップ無料ゲームランキング1位記念キャンペーン"
+        },
+        {
+            "present_id": 90009440753,
+            "get_time": 1599958167000,
+            "prize_list": [
+                {
+                    "ticket_num": 0,
+                    "prize_id_sub": 0,
+                    "prize_id": 1,
+                    "num": 100,
+                    "val_b": 0,
+                    "piece_num": 0,
+                    "val_type": 0,
+                    "type": 8,
+                    "is_duplicate": 0,
+                    "val_a": 0
+                }
+            ],
+            "present_text": "ウルガルム討伐イベント<br>開催決定キャンペーン"
+        },
+        {
+            "present_id": 90009440754,
+            "get_time": 1599958167000,
+            "prize_list": [
+                {
+                    "ticket_num": 0,
+                    "prize_id_sub": 0,
+                    "prize_id": 1,
+                    "num": 100,
+                    "val_b": 0,
+                    "piece_num": 0,
+                    "val_type": 0,
+                    "type": 8,
+                    "is_duplicate": 0,
+                    "val_a": 0
+                }
+            ],
+            "present_text": "ウルガルム討伐イベント<br>開催決定キャンペーン"
+        },
+        {
+            "present_id": 90012032053,
+            "get_time": 1600087114000,
+            "prize_list": [
+                {
+                    "ticket_num": 0,
+                    "prize_id_sub": 0,
+                    "prize_id": 2,
+                    "num": 1,
+                    "val_b": 0,
+                    "piece_num": 0,
+                    "val_type": 0,
+                    "type": 8,
+                    "is_duplicate": 0,
+                    "val_a": 0
+                }
+            ],
+            "present_text": "トップ無料ゲームランキング1位記念キャンペーン"
+        },
+        {
+            "present_id": 90012032054,
+            "get_time": 1600087114000,
+            "prize_list": [
+                {
+                    "ticket_num": 0,
+                    "prize_id_sub": 0,
+                    "prize_id": 1,
+                    "num": 100,
+                    "val_b": 0,
+                    "piece_num": 0,
+                    "val_type": 0,
+                    "type": 8,
+                    "is_duplicate": 0,
+                    "val_a": 0
+                }
+            ],
+            "present_text": "ウルガルム討伐イベント<br>開催決定キャンペーン"
+        },
+        {
+            "present_id": 90012032055,
+            "get_time": 1600087114000,
+            "prize_list": [
+                {
+                    "ticket_num": 0,
+                    "prize_id_sub": 0,
+                    "prize_id": 1,
+                    "num": 100,
+                    "val_b": 0,
+                    "piece_num": 0,
+                    "val_type": 0,
+                    "type": 8,
+                    "is_duplicate": 0,
+                    "val_a": 0
+                }
+            ],
+            "present_text": "ウルガルム討伐イベント<br>開催決定キャンペーン"
+        },
+        {
+            "present_id": 90012244604,
+            "get_time": 1600097712000,
+            "prize_list": [
+                {
+                    "ticket_num": 0,
+                    "prize_id_sub": 0,
+                    "prize_id": 2,
+                    "num": 1,
+                    "val_b": 0,
+                    "piece_num": 0,
+                    "val_type": 0,
+                    "type": 8,
+                    "is_duplicate": 0,
+                    "val_a": 0
+                }
+            ],
+            "present_text": "トップ無料ゲームランキング1位記念キャンペーン"
+        },
+        {
+            "present_id": 90012244605,
+            "get_time": 1600097712000,
+            "prize_list": [
+                {
+                    "ticket_num": 0,
+                    "prize_id_sub": 0,
+                    "prize_id": 1,
+                    "num": 100,
+                    "val_b": 0,
+                    "piece_num": 0,
+                    "val_type": 0,
+                    "type": 8,
+                    "is_duplicate": 0,
+                    "val_a": 0
+                }
+            ],
+            "present_text": "ウルガルム討伐イベント<br>開催決定キャンペーン"
+        }
+    ],
+    "res_code": 0,
+    "client_wait": 0
+}
