@@ -362,6 +362,25 @@
                 }
             ],
             "present_text": "ウルガルム討伐イベント<br>開催決定キャンペーン"
+        },
+        {
+            "present_id": 90022466848,
+            "get_time": 1601093305000,
+            "prize_list": [
+                {
+                    "ticket_num": 0,
+                    "prize_id_sub": 0,
+                    "prize_id": 1000,
+                    "num": 20,
+                    "val_b": 0,
+                    "piece_num": 0,
+                    "val_type": 0,
+                    "type": 3,
+                    "is_duplicate": 0,
+                    "val_a": 0
+                }
+            ],
+            "present_text": "TGS2020生放送記念<br>3000 RT 達成"
         }
     ],
     "res_code": 0,

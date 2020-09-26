@@ -8,6 +8,116 @@
                     "point_count_list": [
                         {
                             "point_type": 3,
+                            "point_base": 0,
+                            "remain_count": 0,
+                            "max_discount": 0,
+                            "discount_type": 0,
+                            "point_base_id": 0,
+                            "point": 0
+                        }
+                    ],
+                    "gacha_id": 11000101,
+                    "pickup_list": [
+                        {
+                            "pick_up": 1,
+                            "prize_id": 10101002,
+                            "prize_num": 1,
+                            "battle_card": {
+                                "awake_level": 4,
+                                "level": 70,
+                                "base_id": 10101002,
+                                "card_character_id": 1,
+                                "hp": 15576,
+                                "dbg_name": "【他愛もない日々】エミリア",
+                                "accuracy": 20,
+                                "speed": 148,
+                                "resistance": 45,
+                                "card_skill": [
+                                    {
+                                        "skill_description": "敵単体を350%の威力で魔法攻撃し、100%の確率で防御減少を1ターンの間付与する",
+                                        "base_id": 1010100201,
+                                        "level": 10,
+                                        "is_lock": 0,
+                                        "skill_type": 0
+                                    },
+                                    {
+                                        "skill_description": "味方全体を最大HPの40％を回復する",
+                                        "base_id": 1010100202,
+                                        "level": 10,
+                                        "is_lock": 0,
+                                        "skill_type": 0
+                                    },
+                                    {
+                                        "skill_description": "敵全体を125%の威力で3回魔法攻撃し、それぞれに50%の確率で行動ゲージを50%減少させる",
+                                        "base_id": 1010100203,
+                                        "level": 10,
+                                        "is_lock": 0,
+                                        "skill_type": 0
+                                    },
+                                    {
+                                        "base_id": 1010100204,
+                                        "level": 0,
+                                        "is_lock": 0,
+                                        "skill_type": 2
+                                    },
+                                    {
+                                        "base_id": 1010100205,
+                                        "level": 0,
+                                        "is_lock": 0,
+                                        "skill_type": 2
+                                    },
+                                    {
+                                        "base_id": 1010100206,
+                                        "level": 0,
+                                        "is_lock": 0,
+                                        "skill_type": 2
+                                    },
+                                    {
+                                        "base_id": 10101002,
+                                        "level": 0,
+                                        "is_lock": 0,
+                                        "skill_type": 1
+                                    }
+                                ],
+                                "uniq_id": 0,
+                                "defense": 1053,
+                                "critical_damage": 120,
+                                "max_level": 70,
+                                "attack": 828,
+                                "is_retreat": 0,
+                                "limit_break": 0,
+                                "critical_rate": 50,
+                                "exp": 0,
+                                "npc_meteor_id": 0,
+                                "rarity": 5,
+                                "ai_coefficient": 0
+                            },
+                            "prize_type": 1
+                        }
+                    ],
+                    "num": 4,
+                    "name": "4回引く",
+                    "description": "4回引く",
+                    "stepup_seq": 0,
+                    "priority": 1
+                }
+            ],
+            "img": "gch_bnr_tutorial_01.png",
+            "point_item_id": 0,
+            "group_id": 110001,
+            "point_url": "",
+            "name": "チュートリアルガチャ",
+            "description": "チュートリアルガチャ",
+            "banner": "gch_content_tutorial_01",
+            "point_shop_id": 0,
+            "priority": 1
+        },
+        {
+            "gacha_list": [
+                {
+                    "point_count_list": [
+                        {
+                            "point_type": 3,
                             "point_base": 100,
                             "remain_count": 0,
                             "max_discount": 0,

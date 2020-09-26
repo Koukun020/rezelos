@@ -1,4 +1,112 @@
 {
+    "skit_portal": {
+        "skit_id": 10011,
+        "scene_option": "",
+        "scenario_list": [
+            {
+                "voice": "",
+                "image": "",
+                "character": "live2d/AC_emilia01",
+                "uniq_id": 100110001,
+                "motion": "act_hohoemu",
+                "video": "",
+                "msg_text": "今日は、私の誕生日をお祝いしてくれて、\nすごーくありがとう！",
+                "msg_header": "エミリア",
+                "scenario_type": 0,
+                "scenario_id": 1,
+                "command": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "voice": "vo_adv_emilia,advg_emilia_warai",
+                "image": "",
+                "character": "live2d/AC_emilia01",
+                "uniq_id": 100110002,
+                "motion": "act_egao02",
+                "video": "",
+                "msg_text": "こんな風にみんなに「おめでとう」って\n言ってもらえるなんて思わなくて……\n私、ホントにビックリしちゃった",
+                "msg_header": "エミリア",
+                "scenario_type": 0,
+                "scenario_id": 2,
+                "command": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "voice": "vo_adv_emilia,advg_emilia_gimon",
+                "image": "",
+                "character": "live2d/AC_emilia01",
+                "uniq_id": 100110003,
+                "motion": "act_hohoemu02",
+                "video": "",
+                "msg_text": "え？　お祝いだけじゃなく、贈り物？\nそんな……気持ちだけでも\nすごーく嬉しかったのに、いいの？",
+                "msg_header": "エミリア",
+                "scenario_type": 0,
+                "scenario_id": 3,
+                "command": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "voice": "vo_adv_emilia,advg_emilia_odoroki",
+                "image": "",
+                "character": "live2d/AC_emilia01",
+                "uniq_id": 100110004,
+                "motion": "act_bikkuri02",
+                "video": "",
+                "msg_text": "ええ！？　今から準備するの？\nそんなに無茶しなくても、お祝いしてくれる\n気持ちだけで十分なのに……もう！",
+                "msg_header": "エミリア",
+                "scenario_type": 0,
+                "scenario_id": 4,
+                "command": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "voice": "",
+                "image": "",
+                "character": "",
+                "uniq_id": 100110005,
+                "motion": "",
+                "video": "",
+                "msg_text": "追憶郷クエスト、育成ダンジョン、\n記憶の深淵をプレイすると「誕生日プレゼント」\nが獲得できます。",
+                "msg_header": "",
+                "scenario_type": 0,
+                "scenario_id": 5,
+                "command": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "voice": "",
+                "image": "",
+                "character": "",
+                "uniq_id": 100110006,
+                "motion": "",
+                "video": "",
+                "msg_text": "「誕生日プレゼント」を集めてイベントミッション\nや交換所で「エミリアのかけら」など豪華報酬を\nゲットしよう！",
+                "msg_header": "",
+                "scenario_type": 0,
+                "scenario_id": 6,
+                "command": [
+                    "",
+                    "",
+                    ""
+                ]
+            }
+        ]
+    },
     "transaction_id": "user_data",
     "event_term_start": 1600225200000,
     "server_time": 1600651632388,
@@ -939,6 +1047,921 @@
     "event_id": 1001,
     "gacha_push_tm": 1600736400388,
     "event_name": "ウルガルム討伐イベント",
+    "skit": [
+        {
+        "skit_id": 102,
+        "scene_option": "",
+        "scenario_list": [
+            {
+                "voice": "vo_adv_subaru,advg_subaru_nattoku",
+                "image": "",
+                "character": "live2d/AC_subaru01",
+                "uniq_id": 1020001,
+                "motion": "act_odoroku",
+                "video": "",
+                "msg_text": "――そうだった！\n俺、異世界に召喚されてたんだ！",
+                "msg_header": "スバル",
+                "scenario_type": 0,
+                "scenario_id": 1,
+                "command": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "voice": "",
+                "image": "",
+                "character": "live2d/AC_subaru01",
+                "uniq_id": 1020002,
+                "motion": "act_nayamu",
+                "video": "",
+                "msg_text": "それで、記憶がなくて……。\n俺の人生、ちょっと忙しくない！？",
+                "msg_header": "スバル",
+                "scenario_type": 0,
+                "scenario_id": 2,
+                "command": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "voice": "vo_adv_shion,advg_shion_kansin",
+                "image": "",
+                "character": "live2d/AC_shion01",
+                "uniq_id": 1020003,
+                "motion": "act_tutorial",
+                "video": "",
+                "msg_text": "貧乏暇なし、ですね！",
+                "msg_header": "シオン",
+                "scenario_type": 0,
+                "scenario_id": 3,
+                "command": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "voice": "vo_adv_subaru,advk_subaru_kougi02_normal",
+                "image": "",
+                "character": "live2d/AC_subaru01",
+                "uniq_id": 1020004,
+                "motion": "act_punpun",
+                "video": "",
+                "msg_text": "決め顔だけど、それは使い方間違ってる",
+                "msg_header": "スバル",
+                "scenario_type": 0,
+                "scenario_id": 4,
+                "command": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "voice": "vo_adv_shion,advk_shion_gimon",
+                "image": "",
+                "character": "live2d/AC_shion01",
+                "uniq_id": 1020005,
+                "motion": "act_nayamu",
+                "video": "",
+                "msg_text": "あれ？　そうでしたか？\n……でもでも、そうやって思い出せてきてる\nのはとてもいい調子ですよ",
+                "msg_header": "シオン",
+                "scenario_type": 0,
+                "scenario_id": 5,
+                "command": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "voice": "vo_adv_subaru,advg_subaru_gimon",
+                "image": "",
+                "character": "live2d/AC_subaru01",
+                "uniq_id": 1020006,
+                "motion": "act_odoroku",
+                "video": "",
+                "msg_text": "そうなの、か？",
+                "msg_header": "スバル",
+                "scenario_type": 0,
+                "scenario_id": 6,
+                "command": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "voice": "vo_adv_shion,advg_shion_doui",
+                "image": "",
+                "character": "live2d/AC_shion01",
+                "uniq_id": 1020007,
+                "motion": "act_unazuku",
+                "video": "",
+                "msg_text": "ええ、千里の道も一歩から。\nナツキ・スバルは一日にして成らずです！",
+                "msg_header": "シオン",
+                "scenario_type": 0,
+                "scenario_id": 7,
+                "command": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "voice": "vo_adv_subaru,advk_subaru_akireru",
+                "image": "",
+                "character": "live2d/AC_subaru01",
+                "uniq_id": 1020008,
+                "motion": "act_punpun",
+                "video": "",
+                "msg_text": "面倒くせぇ奴だな、ナツキ・スバル！",
+                "msg_header": "スバル",
+                "scenario_type": 0,
+                "scenario_id": 8,
+                "command": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "voice": "vo_adv_shion,advg_shion_warai",
+                "image": "",
+                "character": "live2d/AC_shion01",
+                "uniq_id": 1020009,
+                "motion": "act_tameiki",
+                "video": "",
+                "msg_text": "ま、まあまあ、そう言わずに……。\nちゃんと今ので、スバルさんの追憶郷も、\nちょっぴり元に戻ってますから",
+                "msg_header": "シオン",
+                "scenario_type": 0,
+                "scenario_id": 9,
+                "command": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "voice": "",
+                "image": "",
+                "character": "live2d/AC_shion01",
+                "uniq_id": 1020010,
+                "motion": "act_egao",
+                "video": "",
+                "msg_text": "このままブワーッと押し寄せる\n記憶のさざ波に乗っていきましょう！",
+                "msg_header": "シオン",
+                "scenario_type": 0,
+                "scenario_id": 10,
+                "command": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "voice": "vo_adv_shion,advk_shion_kiduki02",
+                "image": "",
+                "character": "live2d/AC_shion01",
+                "uniq_id": 1020011,
+                "motion": "act_unazuku",
+                "video": "",
+                "msg_text": "ああ、実際に波乗りはしませんよ？\n暗喩表現、メタファーってヤツです！",
+                "msg_header": "シオン",
+                "scenario_type": 0,
+                "scenario_id": 11,
+                "command": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "voice": "",
+                "image": "",
+                "character": "live2d/AC_shion01",
+                "uniq_id": 1020012,
+                "motion": "act_nayamu",
+                "video": "",
+                "msg_text": "……あ、メタファーって言葉、\nこういう使い方で合ってますよね？",
+                "msg_header": "シオン",
+                "scenario_type": 0,
+                "scenario_id": 12,
+                "command": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "voice": "vo_adv_subaru,advk_subaru_aratamete",
+                "image": "",
+                "character": "live2d/AC_subaru01",
+                "uniq_id": 1020013,
+                "motion": "act_nayamu",
+                "video": "",
+                "msg_text": "合ってるけど、なんかおぼつかねぇな。\nお前だけが頼りなんだから、\nしっかりしてくれよ？",
+                "msg_header": "スバル",
+                "scenario_type": 0,
+                "scenario_id": 13,
+                "command": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "voice": "vo_adv_shion,advk_shion_ukeou",
+                "image": "",
+                "character": "live2d/AC_shion01",
+                "uniq_id": 1020014,
+                "motion": "act_tutorial",
+                "video": "",
+                "msg_text": "大丈夫です、お任せください！　\nそれでは、ババーンと、始めましょう！\nあ、でもちょっと待ってください",
+                "msg_header": "シオン",
+                "scenario_type": 0,
+                "scenario_id": 14,
+                "command": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "voice": "",
+                "image": "",
+                "character": "live2d/AC_shion01",
+                "uniq_id": 1020015,
+                "motion": "act_tameiki",
+                "video": "",
+                "msg_text": "丸腰のままだとさっきみたいに、\n忘霊に襲われたときに大変危険です",
+                "msg_header": "シオン",
+                "scenario_type": 0,
+                "scenario_id": 15,
+                "command": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "voice": "vo_adv_subaru,advg_subaru_gimon",
+                "image": "",
+                "character": "live2d/AC_subaru01",
+                "uniq_id": 1020016,
+                "motion": "act_odoroku",
+                "video": "",
+                "msg_text": "忘霊って……さっきの危ない奴らか。\n俺の記憶の世界だってのに、\nなんであんな奴らに襲われるんだ？ ",
+                "msg_header": "スバル",
+                "scenario_type": 0,
+                "scenario_id": 16,
+                "command": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "voice": "",
+                "image": "",
+                "character": "live2d/AC_shion01",
+                "uniq_id": 1020017,
+                "motion": "act_unazuku",
+                "video": "",
+                "msg_text": "そこらへんについてはおいおい……\nここからは長い旅になります。まずは\nスバルさんのお供を呼び出しましょう！",
+                "msg_header": "シオン",
+                "scenario_type": 0,
+                "scenario_id": 17,
+                "command": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "voice": "",
+                "image": "",
+                "character": "live2d/AC_subaru01",
+                "uniq_id": 1020018,
+                "motion": "act_odoroku",
+                "video": "",
+                "msg_text": "呼び出す……って、どこから？",
+                "msg_header": "スバル",
+                "scenario_type": 0,
+                "scenario_id": 18,
+                "command": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "voice": "vo_adv_shion,advk_shion_susumeru",
+                "image": "",
+                "character": "live2d/AC_shion01",
+                "uniq_id": 1020019,
+                "motion": "act_tutorial",
+                "video": "",
+                "msg_text": "スバルさんの記憶の中から、ですよ。\nさあ、目をつむって心を集中してください！",
+                "msg_header": "シオン",
+                "scenario_type": 0,
+                "scenario_id": 19,
+                "command": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "voice": "vo_adv_subaru,advg_subaru_odoroki",
+                "image": "",
+                "character": "live2d/AC_subaru01",
+                "uniq_id": 1020020,
+                "motion": "act_punpun",
+                "video": "",
+                "msg_text": "心を集中って、ぼやっとしてない！？\nなんかもっとあるだろ！？",
+                "msg_header": "スバル",
+                "scenario_type": 0,
+                "scenario_id": 20,
+                "command": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "voice": "vo_adv_shion,advk_shion_kangaeru",
+                "image": "",
+                "character": "live2d/AC_shion01",
+                "uniq_id": 1020021,
+                "motion": "act_nayamu",
+                "video": "",
+                "msg_text": "でも、夢とか心の問題ってフィーリングで\n話すことがすごく多いんですよね……",
+                "msg_header": "シオン",
+                "scenario_type": 0,
+                "scenario_id": 21,
+                "command": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "voice": "",
+                "image": "",
+                "character": "live2d/AC_shion01",
+                "uniq_id": 1020022,
+                "motion": "act_unazuku",
+                "video": "",
+                "msg_text": "だから、センスのない人だと、\nもう全然ダメダメだったりします！",
+                "msg_header": "シオン",
+                "scenario_type": 0,
+                "scenario_id": 22,
+                "command": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "voice": "",
+                "image": "",
+                "character": "live2d/AC_subaru01",
+                "uniq_id": 1020023,
+                "motion": "act_nayamu",
+                "video": "",
+                "msg_text": "俺、大丈夫かな！？",
+                "msg_header": "スバル",
+                "scenario_type": 0,
+                "scenario_id": 23,
+                "command": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "voice": "vo_adv_shion,advk_shion_doui02",
+                "image": "",
+                "character": "live2d/AC_shion01",
+                "uniq_id": 1020024,
+                "motion": "act_unazuku",
+                "video": "",
+                "msg_text": "はい！　やってみましょう！　集中！",
+                "msg_header": "シオン",
+                "scenario_type": 0,
+                "scenario_id": 24,
+                "command": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "voice": "vo_adv_subaru,advg_subaru_kangaeru",
+                "image": "",
+                "character": "live2d/AC_subaru01",
+                "uniq_id": 1020025,
+                "motion": "act_kangaeru",
+                "video": "",
+                "msg_text": "し、集中！\n……みょんみょんみょんみょん",
+                "msg_header": "スバル",
+                "scenario_type": 0,
+                "scenario_id": 25,
+                "command": [
+                    "",
+                    "",
+                    ""
+                ]
+            }
+        ]
+        },
+        {
+        "skit_id": 103,
+        "scene_option": "",
+        "scenario_list": [
+            {
+                "voice": "vo_adv_shion,advk_shion_kansin02",
+                "image": "",
+                "character": "live2d/AC_shion01",
+                "uniq_id": 1030001,
+                "motion": "act_unazuku",
+                "video": "",
+                "msg_text": "今、呼び出したのは『再現者』……",
+                "msg_header": "シオン",
+                "scenario_type": 0,
+                "scenario_id": 1,
+                "command": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "voice": "",
+                "image": "",
+                "character": "live2d/AC_shion01",
+                "uniq_id": 1030002,
+                "motion": "act_unazuku",
+                "video": "",
+                "msg_text": "スバルさんに残された記憶の欠片を、\n繋ぎ合わせて作られた存在です",
+                "msg_header": "シオン",
+                "scenario_type": 0,
+                "scenario_id": 2,
+                "command": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "voice": "",
+                "image": "",
+                "character": "live2d/AC_subaru01",
+                "uniq_id": 1030003,
+                "motion": "act_odoroku",
+                "video": "",
+                "msg_text": "――――。",
+                "msg_header": "スバル",
+                "scenario_type": 0,
+                "scenario_id": 3,
+                "command": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "voice": "vo_adv_shion,advk_shion_subaru",
+                "image": "",
+                "character": "live2d/AC_shion01",
+                "uniq_id": 1030004,
+                "motion": "act_nayamu",
+                "video": "",
+                "msg_text": "スバルさん？　どうしました？",
+                "msg_header": "シオン",
+                "scenario_type": 0,
+                "scenario_id": 4,
+                "command": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "voice": "vo_adv_subaru,advk_subaru_syousan",
+                "image": "",
+                "character": "live2d/AC_subaru01",
+                "uniq_id": 1030005,
+                "motion": "act_egao",
+                "video": "",
+                "msg_text": "できたことに感動してる……。\nあんなフワフワした説明で、よくぞ……！",
+                "msg_header": "スバル",
+                "scenario_type": 0,
+                "scenario_id": 5,
+                "command": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "voice": "vo_adv_shion,advg_shion_warai",
+                "image": "",
+                "character": "live2d/AC_shion01",
+                "uniq_id": 1030006,
+                "motion": "act_egao",
+                "video": "",
+                "msg_text": "確かに、そうですね！\nあんなフワフワした説明ですごいです！",
+                "msg_header": "シオン",
+                "scenario_type": 0,
+                "scenario_id": 6,
+                "command": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "voice": "vo_adv_subaru,advk_subaru_akireru",
+                "image": "",
+                "character": "live2d/AC_subaru01",
+                "uniq_id": 1030007,
+                "motion": "act_punpun",
+                "video": "",
+                "msg_text": "自分でフワフワとか、言うな！！",
+                "msg_header": "スバル",
+                "scenario_type": 0,
+                "scenario_id": 7,
+                "command": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "voice": "",
+                "image": "",
+                "character": "live2d/AC_subaru01",
+                "uniq_id": 1030008,
+                "motion": "act_odoroku",
+                "video": "",
+                "msg_text": "それにしても再現者、か……",
+                "msg_header": "スバル",
+                "scenario_type": 0,
+                "scenario_id": 8,
+                "command": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "voice": "vo_adv_subaru,advg_subaru_kangaeru",
+                "image": "",
+                "character": "live2d/AC_subaru01",
+                "uniq_id": 1030009,
+                "motion": "act_odoroku",
+                "video": "",
+                "msg_text": "さっき出てきた知らない女の子の\nことだよな。あれは誰なんだ？",
+                "msg_header": "スバル",
+                "scenario_type": 0,
+                "scenario_id": 9,
+                "command": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "voice": "vo_adv_shion,advg_shion_kangaeru",
+                "image": "",
+                "character": "live2d/AC_shion01",
+                "uniq_id": 1030010,
+                "motion": "act_nayamu",
+                "video": "",
+                "msg_text": "さー？　スバルさんの記憶に残ってる\n人だとは思いますよ",
+                "msg_header": "シオン",
+                "scenario_type": 0,
+                "scenario_id": 10,
+                "command": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "voice": "",
+                "image": "",
+                "character": "live2d/AC_shion01",
+                "uniq_id": 1030011,
+                "motion": "act_unazuku",
+                "video": "",
+                "msg_text": "ただ、どういう関係だったかまでは\n私にはわかりません",
+                "msg_header": "シオン",
+                "scenario_type": 0,
+                "scenario_id": 11,
+                "command": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "voice": "",
+                "image": "",
+                "character": "live2d/AC_shion01",
+                "uniq_id": 1030012,
+                "motion": "act_unazuku",
+                "video": "",
+                "msg_text": "ま、『追体験』を繰り返せば\nそのうちわかるはずですよ",
+                "msg_header": "シオン",
+                "scenario_type": 0,
+                "scenario_id": 12,
+                "command": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "voice": "",
+                "image": "",
+                "character": "live2d/AC_shion01",
+                "uniq_id": 1030013,
+                "motion": "act_unazuku",
+                "video": "",
+                "msg_text": "なにしろ、この場所には、スバルさんの\n記憶が色濃く反映されてますからね",
+                "msg_header": "シオン",
+                "scenario_type": 0,
+                "scenario_id": 13,
+                "command": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "voice": "vo_adv_subaru,advg_subaru_kangaeru",
+                "image": "",
+                "character": "live2d/AC_subaru01",
+                "uniq_id": 1030014,
+                "motion": "act_nayamu",
+                "video": "",
+                "msg_text": "とにかく\n何度もやってみるしかねぇってことか",
+                "msg_header": "スバル",
+                "scenario_type": 0,
+                "scenario_id": 14,
+                "command": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "voice": "vo_adv_shion,advk_shion_doui02",
+                "image": "",
+                "character": "live2d/AC_shion01",
+                "uniq_id": 1030015,
+                "motion": "act_tutorial",
+                "video": "",
+                "msg_text": "そういうことです！",
+                "msg_header": "シオン",
+                "scenario_type": 0,
+                "scenario_id": 15,
+                "command": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "voice": "",
+                "image": "",
+                "character": "live2d/AC_subaru01",
+                "uniq_id": 1030016,
+                "motion": "act_unazuku",
+                "video": "",
+                "msg_text": "再現者を呼び出したり、『追体験』を\nさせたりするのが、シオンの、\n夢幻術師としての力ってことなのか？",
+                "msg_header": "スバル",
+                "scenario_type": 0,
+                "scenario_id": 16,
+                "command": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "voice": "vo_adv_shion,advk_shion_jiman",
+                "image": "",
+                "character": "live2d/AC_shion01",
+                "uniq_id": 1030017,
+                "motion": "act_unazuku",
+                "video": "",
+                "msg_text": "そうです！　これが夢幻術師の力！",
+                "msg_header": "シオン",
+                "scenario_type": 0,
+                "scenario_id": 17,
+                "command": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "voice": "",
+                "image": "",
+                "character": "live2d/AC_shion01",
+                "uniq_id": 1030018,
+                "motion": "act_tutorial",
+                "video": "",
+                "msg_text": "私にはスバルさんを助ける力があるんです！\nドーンと大船でも小船でも戦艦でも、\n何でも乗ったつもりでいてください！",
+                "msg_header": "シオン",
+                "scenario_type": 0,
+                "scenario_id": 18,
+                "command": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "voice": "",
+                "image": "",
+                "character": "live2d/AC_subaru01",
+                "uniq_id": 1030019,
+                "motion": "act_punpun",
+                "video": "",
+                "msg_text": "どれに乗るか迷う！！",
+                "msg_header": "スバル",
+                "scenario_type": 0,
+                "scenario_id": 19,
+                "command": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "voice": "vo_adv_shion,advg_shion_warai",
+                "image": "",
+                "character": "live2d/AC_shion01",
+                "uniq_id": 1030020,
+                "motion": "act_tutorial",
+                "video": "",
+                "msg_text": "ふふっ、ナビゲーション役はお任せを。\nしっかりサポートさせてもらいますね！",
+                "msg_header": "シオン",
+                "scenario_type": 0,
+                "scenario_id": 20,
+                "command": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "voice": "vo_adv_subaru,advk_subaru_makaseru",
+                "image": "",
+                "character": "live2d/AC_subaru01",
+                "uniq_id": 1030021,
+                "motion": "act_unazuku",
+                "video": "",
+                "msg_text": "……はは。\nああ、わかったよ。\nシオン、よろしく頼む",
+                "msg_header": "スバル",
+                "scenario_type": 0,
+                "scenario_id": 21,
+                "command": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "voice": "",
+                "image": "",
+                "character": "live2d/AC_shion01",
+                "uniq_id": 1030022,
+                "motion": "act_unazuku",
+                "video": "",
+                "msg_text": "――――。",
+                "msg_header": "シオン",
+                "scenario_type": 0,
+                "scenario_id": 22,
+                "command": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "voice": "vo_adv_shion,advg_shion_doui",
+                "image": "",
+                "character": "live2d/AC_shion01",
+                "uniq_id": 1030023,
+                "motion": "act_egao",
+                "video": "",
+                "msg_text": "――はい。\nこちらこそ、よろしくお願いします",
+                "msg_header": "シオン",
+                "scenario_type": 0,
+                "scenario_id": 23,
+                "command": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "voice": "vo_adv_shion,advk_shion_kiduki",
+                "image": "",
+                "character": "live2d/AC_shion01",
+                "uniq_id": 1030024,
+                "motion": "act_nayamu",
+                "video": "",
+                "msg_text": "……あ、ところでなんですけど、\nナビゲーションって言葉、\nこういう使い方で合ってますよね？",
+                "msg_header": "シオン",
+                "scenario_type": 0,
+                "scenario_id": 24,
+                "command": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "voice": "vo_adv_subaru,advk_subaru_aratamete",
+                "image": "",
+                "character": "live2d/AC_subaru01",
+                "uniq_id": 1030025,
+                "motion": "act_tameiki",
+                "video": "",
+                "msg_text": "……あー、とにかく、\nよろしく頼むな、シオン",
+                "msg_header": "スバル",
+                "scenario_type": 0,
+                "scenario_id": 25,
+                "command": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "voice": "",
+                "image": "",
+                "character": "live2d/AC_subaru01",
+                "uniq_id": 1030026,
+                "motion": "act_unazuku",
+                "video": "",
+                "msg_text": "お前だけが頼りだ",
+                "msg_header": "スバル",
+                "scenario_type": 0,
+                "scenario_id": 26,
+                "command": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "voice": "vo_adv_shion,advk_shion_ukeou",
+                "image": "",
+                "character": "live2d/AC_shion01",
+                "uniq_id": 1030027,
+                "motion": "act_egao",
+                "video": "",
+                "msg_text": "はい！　ババーンと、始めましょう！",
+                "msg_header": "シオン",
+                "scenario_type": 0,
+                "scenario_id": 27,
+                "command": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "voice": "",
+                "image": "",
+                "character": "live2d/AC_subaru01",
+                "uniq_id": 1030028,
+                "motion": "act_punpun",
+                "video": "",
+                "msg_text": "そこはかとなく不安な冒険が始まる――！",
+                "msg_header": "スバル",
+                "scenario_type": 0,
+                "scenario_id": 28,
+                "command": [
+                    "",
+                    "",
+                    ""
+                ]
+            }
+        ]
+    }
+    ],
     "stamina_push_1_tm": "user_data",
     "chara_action_list": [
         {
