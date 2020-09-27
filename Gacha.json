@@ -24001,6 +24001,41 @@
             "point_shop_id": 30004,
             "priority": 99
         },
+	{
+            "gacha_list": [
+                {
+                    "point_count_list": [
+                        {
+                            "point_type": 2,
+                            "point_base": 1,
+                            "remain_count": 0,
+                            "max_discount": 0,
+                            "discount_type": 0,
+                            "point_base_id": 1040,
+                            "point": 1
+                        }
+                    ],
+                    "gacha_id": 22000501,
+                    "pickup_list": [
+                        
+                    ],
+                    "num": 1,
+                    "name": "1回引く",
+                    "description": "1回引く",
+                    "stepup_seq": 0,
+                    "priority": 1
+                }
+            ],
+            "img": "gch_bnr_ticket_0006_01.png",
+            "point_item_id": 0,
+            "group_id": 220005,
+            "point_url": "",
+            "name": "★3記憶結晶確定ガチャ",
+            "description": "★3の記憶結晶が確定！",
+            "banner": "gch_content_ticket_0006_01",
+            "point_shop_id": 0,
+            "priority": 198
+        },
         {
             "gacha_list": [
                 {
@@ -25402,6 +25437,41 @@
             "banner": "gch_content_ticket_0005_01",
             "point_shop_id": 0,
             "priority": 195
+        },
+        {
+            "gacha_list": [
+                {
+                    "point_count_list": [
+                        {
+                            "point_type": 2,
+                            "point_base": 1,
+                            "remain_count": 0,
+                            "max_discount": 0,
+                            "discount_type": 0,
+                            "point_base_id": 1010,
+                            "point": 1
+                        }
+                    ],
+                    "gacha_id": 22000301,
+                    "pickup_list": [
+                        
+                    ],
+                    "num": 1,
+                    "name": "1回引く",
+                    "description": "1回引く",
+                    "stepup_seq": 0,
+                    "priority": 1
+                }
+            ],
+            "img": "gch_bnr_ticket_0004_01.png",
+            "point_item_id": 0,
+            "group_id": 220003,
+            "point_url": "",
+            "name": "★2以上確定ガチャ",
+            "description": "★2以上のキャラか記憶結晶が確定！",
+            "banner": "gch_content_ticket_0004_01",
+            "point_shop_id": 0,
+            "priority": 196
         },
         {
             "gacha_list": [
