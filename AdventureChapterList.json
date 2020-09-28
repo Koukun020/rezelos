@@ -1,0 +1,29 @@
+{
+    "transaction_id": "user_data",
+    "server_time": "user_data",
+    "chapter_list": [
+        {
+            "is_lock": 0,
+            "chapter_id": 1,
+            "progress_status": 1,
+            "route_max": 8,
+            "route_count": "user_data"
+        },
+        {
+            "is_lock": 0,
+            "chapter_id": 2,
+            "progress_status": 0,
+            "route_max": 6,
+            "route_count": "user_data"
+        },
+        {
+            "is_lock": 0,
+            "chapter_id": 3,
+            "progress_status": 0,
+            "route_max": 4,
+            "route_count": "user_data"
+        }
+    ],
+    "res_code": 0,
+    "client_wait": 0
+}

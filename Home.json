@@ -532,6 +532,19 @@
             "priority": 41
         },
         {
+            "img_name": "portal_bnr_0007",
+            "receive_type": 0,
+            "term_start": 1601258400000,
+            "name": "メンテナンスのお知らせ",
+            "link": "https://re-zero-rezelos.jp/info/webview/info/detail/000065UmkFExVI.html#btnoff",
+            "description": "下記の日程でメンテナンスを実施いたします。\nメンテナンス期間：2020年9月30日(水)11:00～15:00\n※メンテナンス期間中はゲームをプレイすることはできません。\n※時間は前後することがございます。",
+            "is_badge": false,
+            "term_end": 1601434799000,
+            "id": 50016,
+            "category": 1,
+            "priority": 21
+        },
+        {
         "img_name": "portal_bnr_0006",
         "receive_type": 0,
         "term_start": 1600830000000,
