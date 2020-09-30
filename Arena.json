@@ -34,11 +34,11 @@
     "condition_pattern_id": 1,
     "rank": "user_data",
     "season_data": {
-        "reward_start_tm": 1601431199000,
-        "is_badge": 0,
-        "start_tm": 1598886000000,
-        "id": 1,
-        "end_tm": 1601431199000
+        "reward_start_tm":1602640799000,
+        "is_badge":0,
+        "start_tm":1601438400000,
+        "id":2,
+        "end_tm":1602640799000
     },
     "defense_deck": "user_data",
     "shop_destination": {

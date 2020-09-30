@@ -381,6 +381,159 @@
                 }
             ],
             "present_text": "TGS2020生放送記念<br>3000 RT 達成"
+        },
+        {
+            "present_id": 90024590717,
+            "get_time": 1601443860000,
+            "prize_list": [
+                {
+                    "ticket_num": 0,
+                    "prize_id_sub": 0,
+                    "prize_id": 3008,
+                    "num": 200,
+                    "val_b": 0,
+                    "piece_num": 0,
+                    "val_type": 0,
+                    "type": 3,
+                    "is_duplicate": 0,
+                    "val_a": 0
+                }
+            ],
+            "present_text": "メモリーボード開放アイテム不具合のお詫びです"
+        },
+        {
+            "present_id": 90024747804,
+            "get_time": 1601450496000,
+            "prize_list": [
+                {
+                    "ticket_num": 0,
+                    "prize_id_sub": 0,
+                    "prize_id": 100001,
+                    "num": 300,
+                    "val_b": 0,
+                    "piece_num": 0,
+                    "val_type": 0,
+                    "type": 3,
+                    "is_duplicate": 0,
+                    "val_a": 0
+                }
+            ],
+            "present_text": "「【命懸けのシャマク】スバル」不具合のお詫び"
+        },
+        {
+            "present_id": 90024747805,
+            "get_time": 1601450496000,
+            "prize_list": [
+                {
+                    "ticket_num": 0,
+                    "prize_id_sub": 0,
+                    "prize_id": 1000,
+                    "num": 3,
+                    "val_b": 0,
+                    "piece_num": 0,
+                    "val_type": 0,
+                    "type": 3,
+                    "is_duplicate": 0,
+                    "val_a": 0
+                }
+            ],
+            "present_text": "「【命懸けのシャマク】スバル」不具合のお詫び"
+        },
+        {
+            "present_id": 90024747806,
+            "get_time": 1601450496000,
+            "prize_list": [
+                {
+                    "ticket_num": 0,
+                    "prize_id_sub": 0,
+                    "prize_id": 1,
+                    "num": 100,
+                    "val_b": 0,
+                    "piece_num": 0,
+                    "val_type": 0,
+                    "type": 8,
+                    "is_duplicate": 0,
+                    "val_a": 0
+                }
+            ],
+            "present_text": "第1章IFルート：クルシュ<br>公開記念キャンペーン"
+        },
+        {
+            "present_id": 90024747807,
+            "get_time": 1601450496000,
+            "prize_list": [
+                {
+                    "ticket_num": 0,
+                    "prize_id_sub": 0,
+                    "prize_id": 2,
+                    "num": 1,
+                    "val_b": 0,
+                    "piece_num": 0,
+                    "val_type": 0,
+                    "type": 8,
+                    "is_duplicate": 0,
+                    "val_a": 0
+                }
+            ],
+            "present_text": "第1章IFルート：クルシュ<br>公開記念キャンペーン"
+        },
+        {
+            "present_id": 90024747808,
+            "get_time": 1601450496000,
+            "prize_list": [
+                {
+                    "ticket_num": 0,
+                    "prize_id_sub": 0,
+                    "prize_id": 32605,
+                    "num": 1,
+                    "val_b": 0,
+                    "piece_num": 0,
+                    "val_type": 0,
+                    "type": 3,
+                    "is_duplicate": 0,
+                    "val_a": 0
+                }
+            ],
+            "present_text": "「上限突破の秘薬」アイテム詳細修正のお詫び"
+        },
+        {
+            "present_id": 90024747809,
+            "get_time": 1601450496000,
+            "prize_list": [
+                {
+                    "ticket_num": 0,
+                    "prize_id_sub": 0,
+                    "prize_id": 2,
+                    "num": 1,
+                    "val_b": 0,
+                    "piece_num": 0,
+                    "val_type": 0,
+                    "type": 8,
+                    "is_duplicate": 0,
+                    "val_a": 0
+                }
+            ],
+            "present_text": "「新章1 IFルート：監獄王」開放条件変更のお詫び"
+        },
+        {
+            "present_id": 90024747825,
+            "get_time": 1601450497000,
+            "present_limit": 1602039599000,
+            "prize_list": [
+                {
+                    "ticket_num": 0,
+                    "prize_id_sub": 0,
+                    "prize_id": 40102,
+                    "num": 100,
+                    "val_b": 0,
+                    "piece_num": 0,
+                    "val_type": 0,
+                    "type": 3,
+                    "is_duplicate": 0,
+                    "val_a": 0
+                }
+            ],
+            "present_text": "エルザ討伐イベントログインボーナス"
         }
     ],
     "res_code": 0,

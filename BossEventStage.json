@@ -4,10 +4,10 @@
     "server_time": "user_data",
     "stage_list": [
         {
-            "enemy_card_id": 95501001,
-            "stage_id": 500101,
+            "enemy_card_id": 90801012,
+            "stage_id": 500301,
             "enemy_deck_power": 9000,
-            "description": "ウルガルムを倒して勲章を獲得しよう！",
+            "description": "エルザを倒して勲章を獲得しよう！",
             "prize": {
                 "clear_count_prize_list": [
                     {
@@ -15,7 +15,7 @@
                         "prize_id": 0,
                         "clear_count": 1,
                         "num": 10,
-                        "id": 350010101,
+                        "id": 350030101,
                         "type": 4
                     }
                 ],
@@ -23,9 +23,9 @@
                 "fixed_prize_list": [
                     {
                         "prize_id_sub": 0,
-                        "prize_id": 40201,
+                        "prize_id": 40202,
                         "num": 200,
-                        "id": 150010101,
+                        "id": 150030101,
                         "type": 3
                     }
                 ]
@@ -36,17 +36,17 @@
                 "before_id": 0
             },
             "is_today_limit": 0,
-            "clear_count": 1,
-            "name": "ウルガルム初級1",
+            "clear_count": 0,
+            "name": "エルザ初級1",
             "is_lock": 0,
-            "progress_status": 3,
+            "progress_status": 1,
             "campaign_msg": ""
         },
         {
-            "enemy_card_id": 95501001,
-            "stage_id": 500102,
+            "enemy_card_id": 90801012,
+            "stage_id": 500302,
             "enemy_deck_power": 11000,
-            "description": "ウルガルムを倒して勲章を獲得しよう！",
+            "description": "エルザを倒して勲章を獲得しよう！",
             "prize": {
                 "clear_count_prize_list": [
                     {
@@ -54,7 +54,7 @@
                         "prize_id": 0,
                         "clear_count": 1,
                         "num": 10,
-                        "id": 350010201,
+                        "id": 350030201,
                         "type": 4
                     }
                 ],
@@ -62,9 +62,9 @@
                 "fixed_prize_list": [
                     {
                         "prize_id_sub": 0,
-                        "prize_id": 40201,
+                        "prize_id": 40202,
                         "num": 226,
-                        "id": 150010201,
+                        "id": 150030201,
                         "type": 3
                     }
                 ]
@@ -75,17 +75,17 @@
                 "before_id": 0
             },
             "is_today_limit": 0,
-            "clear_count": 1,
-            "name": "ウルガルム初級2",
+            "clear_count": 0,
+            "name": "エルザ初級2",
             "is_lock": 0,
-            "progress_status": 3,
+            "progress_status": 1,
             "campaign_msg": ""
         },
         {
-            "enemy_card_id": 95501001,
-            "stage_id": 500103,
+            "enemy_card_id": 90801012,
+            "stage_id": 500303,
             "enemy_deck_power": 12500,
-            "description": "ウルガルムを倒して勲章を獲得しよう！",
+            "description": "エルザを倒して勲章を獲得しよう！",
             "prize": {
                 "clear_count_prize_list": [
                     {
@@ -93,7 +93,7 @@
                         "prize_id": 0,
                         "clear_count": 1,
                         "num": 10,
-                        "id": 350010301,
+                        "id": 350030301,
                         "type": 4
                     }
                 ],
@@ -101,9 +101,9 @@
                 "fixed_prize_list": [
                     {
                         "prize_id_sub": 0,
-                        "prize_id": 40201,
+                        "prize_id": 40202,
                         "num": 248,
-                        "id": 150010301,
+                        "id": 150030301,
                         "type": 3
                     }
                 ]
@@ -114,17 +114,17 @@
                 "before_id": 0
             },
             "is_today_limit": 0,
-            "clear_count": 1,
-            "name": "ウルガルム初級3",
+            "clear_count": 0,
+            "name": "エルザ初級3",
             "is_lock": 0,
-            "progress_status": 3,
+            "progress_status": 1,
             "campaign_msg": ""
         },
         {
-            "enemy_card_id": 95501002,
-            "stage_id": 500104,
+            "enemy_card_id": 90801013,
+            "stage_id": 500304,
             "enemy_deck_power": 16000,
-            "description": "ウルガルムを倒して勲章を獲得しよう！",
+            "description": "エルザを倒して勲章を獲得しよう！",
             "prize": {
                 "clear_count_prize_list": [
                     {
@@ -132,7 +132,7 @@
                         "prize_id": 0,
                         "clear_count": 1,
                         "num": 10,
-                        "id": 350010401,
+                        "id": 350030401,
                         "type": 4
                     }
                 ],
@@ -140,9 +140,9 @@
                 "fixed_prize_list": [
                     {
                         "prize_id_sub": 0,
-                        "prize_id": 40201,
+                        "prize_id": 40202,
                         "num": 270,
-                        "id": 150010401,
+                        "id": 150030401,
                         "type": 3
                     }
                 ]
@@ -153,17 +153,17 @@
                 "before_id": 0
             },
             "is_today_limit": 0,
-            "clear_count": 1,
-            "name": "ウルガルム中級1",
+            "clear_count": 0,
+            "name": "エルザ中級1",
             "is_lock": 0,
-            "progress_status": 3,
+            "progress_status": 1,
             "campaign_msg": ""
         },
         {
-            "enemy_card_id": 95501002,
-            "stage_id": 500105,
+            "enemy_card_id": 90801013,
+            "stage_id": 500305,
             "enemy_deck_power": 18000,
-            "description": "ウルガルムを倒して勲章を獲得しよう！",
+            "description": "エルザを倒して勲章を獲得しよう！",
             "prize": {
                 "clear_count_prize_list": [
                     {
@@ -171,7 +171,7 @@
                         "prize_id": 0,
                         "clear_count": 1,
                         "num": 10,
-                        "id": 350010501,
+                        "id": 350030501,
                         "type": 4
                     }
                 ],
@@ -179,9 +179,9 @@
                 "fixed_prize_list": [
                     {
                         "prize_id_sub": 0,
-                        "prize_id": 40201,
+                        "prize_id": 40202,
                         "num": 300,
-                        "id": 150010501,
+                        "id": 150030501,
                         "type": 3
                     }
                 ]
@@ -192,17 +192,17 @@
                 "before_id": 0
             },
             "is_today_limit": 0,
-            "clear_count": 1,
-            "name": "ウルガルム中級2",
+            "clear_count": 0,
+            "name": "エルザ中級2",
             "is_lock": 0,
-            "progress_status": 3,
+            "progress_status": 1,
             "campaign_msg": ""
         },
         {
-            "enemy_card_id": 95501002,
-            "stage_id": 500106,
+            "enemy_card_id": 90801013,
+            "stage_id": 500306,
             "enemy_deck_power": 21500,
-            "description": "ウルガルムを倒して勲章を獲得しよう！",
+            "description": "エルザを倒して勲章を獲得しよう！",
             "prize": {
                 "clear_count_prize_list": [
                     {
@@ -210,7 +210,7 @@
                         "prize_id": 0,
                         "clear_count": 1,
                         "num": 10,
-                        "id": 350010601,
+                        "id": 350030601,
                         "type": 4
                     }
                 ],
@@ -218,9 +218,9 @@
                 "fixed_prize_list": [
                     {
                         "prize_id_sub": 0,
-                        "prize_id": 40201,
+                        "prize_id": 40202,
                         "num": 315,
-                        "id": 150010601,
+                        "id": 150030601,
                         "type": 3
                     }
                 ]
@@ -231,17 +231,17 @@
                 "before_id": 0
             },
             "is_today_limit": 0,
-            "clear_count": 1,
-            "name": "ウルガルム中級3",
+            "clear_count": 0,
+            "name": "エルザ中級3",
             "is_lock": 0,
-            "progress_status": 3,
+            "progress_status": 1,
             "campaign_msg": ""
         },
         {
-            "enemy_card_id": 95501003,
-            "stage_id": 500107,
+            "enemy_card_id": 90801014,
+            "stage_id": 500307,
             "enemy_deck_power": 30000,
-            "description": "ウルガルムを倒して勲章を獲得しよう！",
+            "description": "エルザを倒して勲章を獲得しよう！",
             "prize": {
                 "clear_count_prize_list": [
                     {
@@ -249,7 +249,7 @@
                         "prize_id": 0,
                         "clear_count": 1,
                         "num": 10,
-                        "id": 350010701,
+                        "id": 350030701,
                         "type": 4
                     }
                 ],
@@ -257,9 +257,9 @@
                 "fixed_prize_list": [
                     {
                         "prize_id_sub": 0,
-                        "prize_id": 40201,
+                        "prize_id": 40202,
                         "num": 337,
-                        "id": 150010701,
+                        "id": 150030701,
                         "type": 3
                     }
                 ]
@@ -270,17 +270,17 @@
                 "before_id": 0
             },
             "is_today_limit": 0,
-            "clear_count": 1,
-            "name": "ウルガルム上級1",
+            "clear_count": 0,
+            "name": "エルザ上級1",
             "is_lock": 0,
             "progress_status": 3,
             "campaign_msg": ""
         },
         {
-            "enemy_card_id": 95501003,
-            "stage_id": 500108,
+            "enemy_card_id": 90801014,
+            "stage_id": 500308,
             "enemy_deck_power": 35000,
-            "description": "ウルガルムを倒して勲章を獲得しよう！",
+            "description": "エルザを倒して勲章を獲得しよう！",
             "prize": {
                 "clear_count_prize_list": [
                     {
@@ -288,7 +288,7 @@
                         "prize_id": 0,
                         "clear_count": 1,
                         "num": 10,
-                        "id": 350010801,
+                        "id": 350030801,
                         "type": 4
                     }
                 ],
@@ -296,9 +296,9 @@
                 "fixed_prize_list": [
                     {
                         "prize_id_sub": 0,
-                        "prize_id": 40201,
+                        "prize_id": 40202,
                         "num": 359,
-                        "id": 150010801,
+                        "id": 150030801,
                         "type": 3
                     }
                 ]
@@ -309,17 +309,17 @@
                 "before_id": 0
             },
             "is_today_limit": 0,
-            "clear_count": 1,
-            "name": "ウルガルム上級2",
+            "clear_count": 0,
+            "name": "エルザ上級2",
             "is_lock": 0,
-            "progress_status": 3,
+            "progress_status": 1,
             "campaign_msg": ""
         },
         {
-            "enemy_card_id": 95501003,
-            "stage_id": 500109,
+            "enemy_card_id": 90801014,
+            "stage_id": 500309,
             "enemy_deck_power": 40000,
-            "description": "ウルガルムを倒して勲章を獲得しよう！",
+            "description": "エルザを倒して勲章を獲得しよう！",
             "prize": {
                 "clear_count_prize_list": [
                     {
@@ -327,7 +327,7 @@
                         "prize_id": 0,
                         "clear_count": 1,
                         "num": 10,
-                        "id": 350010901,
+                        "id": 350030901,
                         "type": 4
                     }
                 ],
@@ -335,9 +335,9 @@
                 "fixed_prize_list": [
                     {
                         "prize_id_sub": 0,
-                        "prize_id": 40201,
+                        "prize_id": 40202,
                         "num": 381,
-                        "id": 150010901,
+                        "id": 150030901,
                         "type": 3
                     }
                 ]
@@ -348,17 +348,17 @@
                 "before_id": 0
             },
             "is_today_limit": 0,
-            "clear_count": 1,
-            "name": "ウルガルム上級3",
+            "clear_count": 0,
+            "name": "エルザ上級3",
             "is_lock": 0,
-            "progress_status": 3,
+            "progress_status": 1,
             "campaign_msg": ""
         },
         {
-            "enemy_card_id": 95501004,
-            "stage_id": 500110,
+            "enemy_card_id": 90801015,
+            "stage_id": 500310,
             "enemy_deck_power": 45000,
-            "description": "ウルガルムを倒して勲章を獲得しよう！",
+            "description": "エルザを倒して勲章を獲得しよう！",
             "prize": {
                 "clear_count_prize_list": [
                     {
@@ -366,7 +366,7 @@
                         "prize_id": 0,
                         "clear_count": 1,
                         "num": 10,
-                        "id": 350011001,
+                        "id": 350031001,
                         "type": 4
                     }
                 ],
@@ -374,9 +374,9 @@
                 "fixed_prize_list": [
                     {
                         "prize_id_sub": 0,
-                        "prize_id": 40201,
+                        "prize_id": 40202,
                         "num": 400,
-                        "id": 150011001,
+                        "id": 150031001,
                         "type": 3
                     }
                 ]
@@ -387,133 +387,171 @@
                 "before_id": 0
             },
             "is_today_limit": 0,
-            "clear_count": 1,
-            "name": "ウルガルム超級",
+            "clear_count": 0,
+            "name": "エルザ超級",
             "is_lock": 0,
-            "progress_status": 3,
+            "progress_status": 1,
+            "campaign_msg": ""
+        },
+        {
+            "enemy_card_id": 90801012,
+            "stage_id": 500311,
+            "enemy_deck_power": 12500,
+            "description": "エルザを倒して勲章を獲得しよう！",
+            "prize": {
+                "clear_count_prize_list": [
+                    {
+                        "prize_id_sub": 0,
+                        "prize_id": 0,
+                        "clear_count": 1,
+                        "num": 10,
+                        "id": 350031101,
+                        "type": 4
+                    }
+                ],
+                "lottery_prize_list": [],
+                "fixed_prize_list": [
+                    {
+                        "prize_id_sub": 0,
+                        "prize_id": 40202,
+                        "num": 497,
+                        "id": 150031101,
+                        "type": 3
+                    }
+                ]
+            },
+            "period_msg": "",
+            "scene": {
+                "after_id": 0,
+                "before_id": 0
+            },
+            "is_today_limit": 0,
+            "clear_count": 0,
+            "name": "エルザ初級3 SP",
+            "is_lock": 0,
+            "progress_status": 1,
+            "campaign_msg": ""
+        },
+        {
+            "enemy_card_id": 90801013,
+            "stage_id": 500312,
+            "enemy_deck_power": 21500,
+            "description": "エルザを倒して勲章を獲得しよう！",
+            "prize": {
+                "clear_count_prize_list": [
+                    {
+                        "prize_id_sub": 0,
+                        "prize_id": 0,
+                        "clear_count": 1,
+                        "num": 10,
+                        "id": 350031201,
+                        "type": 4
+                    }
+                ],
+                "lottery_prize_list": [],
+                "fixed_prize_list": [
+                    {
+                        "prize_id_sub": 0,
+                        "prize_id": 40202,
+                        "num": 630,
+                        "id": 150031201,
+                        "type": 3
+                    }
+                ]
+            },
+            "period_msg": "",
+            "scene": {
+                "after_id": 0,
+                "before_id": 0
+            },
+            "is_today_limit": 0,
+            "clear_count": 0,
+            "name": "エルザ中級3 SP",
+            "is_lock": 0,
+            "progress_status": 1,
+            "campaign_msg": ""
+        },
+        {
+            "enemy_card_id": 90801014,
+            "stage_id": 500313,
+            "enemy_deck_power": 40000,
+            "description": "エルザを倒して勲章を獲得しよう！",
+            "prize": {
+                "clear_count_prize_list": [
+                    {
+                        "prize_id_sub": 0,
+                        "prize_id": 0,
+                        "clear_count": 1,
+                        "num": 10,
+                        "id": 350031301,
+                        "type": 4
+                    }
+                ],
+                "lottery_prize_list": [],
+                "fixed_prize_list": [
+                    {
+                        "prize_id_sub": 0,
+                        "prize_id": 40202,
+                        "num": 762,
+                        "id": 150031301,
+                        "type": 3
+                    }
+                ]
+            },
+            "period_msg": "",
+            "scene": {
+                "after_id": 0,
+                "before_id": 0
+            },
+            "is_today_limit": 0,
+            "clear_count": 0,
+            "name": "エルザ上級3 SP",
+            "is_lock": 0,
+            "progress_status": 1,
+            "campaign_msg": ""
+        },
+        {
+            "enemy_card_id": 90801015,
+            "stage_id": 500314,
+            "enemy_deck_power": 45000,
+            "description": "エルザを倒して勲章を獲得しよう！",
+            "prize": {
+                "clear_count_prize_list": [
+                    {
+                        "prize_id_sub": 0,
+                        "prize_id": 0,
+                        "clear_count": 1,
+                        "num": 10,
+                        "id": 350031401,
+                        "type": 4
+                    }
+                ],
+                "lottery_prize_list": [],
+                "fixed_prize_list": [
+                    {
+                        "prize_id_sub": 0,
+                        "prize_id": 40202,
+                        "num": 800,
+                        "id": 150031401,
+                        "type": 3
+                    }
+                ]
+            },
+            "period_msg": "",
+            "scene": {
+                "after_id": 0,
+                "before_id": 0
+            },
+            "is_today_limit": 0,
+            "clear_count": 0,
+            "name": "エルザ超級 SP",
+            "is_lock": 0,
+            "progress_status": 1,
             "campaign_msg": ""
         }
     ],
     "user_data": "user_data",
-    "sp_stage_list": [
-        {
-            "enemy_card_id": 97601101,
-            "stage_id": 500201,
-            "enemy_deck_power": 12500,
-            "description": "レアクリスタルを倒して大量の勲章を獲得しよう！！！",
-            "prize": {
-                "clear_count_prize_list": [
-                    {
-                        "prize_id_sub": 0,
-                        "prize_id": 0,
-                        "clear_count": 1,
-                        "num": 10,
-                        "id": 350020101,
-                        "type": 4
-                    }
-                ],
-                "lottery_prize_list": [],
-                "fixed_prize_list": [
-                    {
-                        "prize_id_sub": 0,
-                        "prize_id": 40201,
-                        "num": 1000,
-                        "id": 150020101,
-                        "type": 3
-                    }
-                ]
-            },
-            "period_msg": "",
-            "scene": {
-                "after_id": 0,
-                "before_id": 0
-            },
-            "is_today_limit": 0,
-            "clear_count": 1,
-            "name": "レアクリスタル初級",
-            "is_lock": 0,
-            "progress_status": 3,
-            "campaign_msg": ""
-        },
-        {
-            "enemy_card_id": 97601102,
-            "stage_id": 500202,
-            "enemy_deck_power": 21500,
-            "description": "レアクリスタルを倒して大量の勲章を獲得しよう！！！",
-            "prize": {
-                "clear_count_prize_list": [
-                    {
-                        "prize_id_sub": 0,
-                        "prize_id": 0,
-                        "clear_count": 1,
-                        "num": 10,
-                        "id": 350020201,
-                        "type": 4
-                    }
-                ],
-                "lottery_prize_list": [],
-                "fixed_prize_list": [
-                    {
-                        "prize_id_sub": 0,
-                        "prize_id": 40201,
-                        "num": 1500,
-                        "id": 150020201,
-                        "type": 3
-                    }
-                ]
-            },
-            "period_msg": "",
-            "scene": {
-                "after_id": 0,
-                "before_id": 0
-            },
-            "is_today_limit": 0,
-            "clear_count": 1,
-            "name": "レアクリスタル中級",
-            "is_lock": 0,
-            "progress_status": 3,
-            "campaign_msg": ""
-        },
-        {
-            "enemy_card_id": 97601103,
-            "stage_id": 500203,
-            "enemy_deck_power": 35000,
-            "description": "レアクリスタルを倒して大量の勲章を獲得しよう！！！",
-            "prize": {
-                "clear_count_prize_list": [
-                    {
-                        "prize_id_sub": 0,
-                        "prize_id": 0,
-                        "clear_count": 1,
-                        "num": 10,
-                        "id": 350020201,
-                        "type": 4
-                    }
-                ],
-                "lottery_prize_list": [],
-                "fixed_prize_list": [
-                    {
-                        "prize_id_sub": 0,
-                        "prize_id": 40201,
-                        "num": 2000,
-                        "id": 150020201,
-                        "type": 3
-                    }
-                ]
-            },
-            "period_msg": "",
-            "scene": {
-                "after_id": 0,
-                "before_id": 0
-            },
-            "is_today_limit": 0,
-            "clear_count": 1,
-            "name": "レアクリスタル上級",
-            "is_lock": 0,
-            "progress_status": 3,
-            "campaign_msg": ""
-        }
-    ],
+    "sp_stage_list": [],
     "res_code": 0,
     "client_wait": 0
 }

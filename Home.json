@@ -138,6 +138,114 @@
     ],
     "event_portal_list": [
         {
+            "now_portal_prize_id": 3000701,
+            "link": "https://re-zero-rezelos.jp/info/webview/info/detail/000114NstC9zcP.html#btnoff",
+            "description": "エルザ討伐イベントログインボーナス",
+            "priority": 1001,
+            "is_receipt": false,
+            "event_portal_prize": [
+                {
+                    "sheet_num": 1,
+                    "day_num": 1,
+                    "id": 3000701,
+                    "prize_list": [
+                        {
+                            "prize_id": 40102,
+                            "num": 100,
+                            "type": 3
+                        }
+                    ],
+                    "next_id": 3000702
+                },
+                {
+                    "sheet_num": 1,
+                    "day_num": 2,
+                    "id": 3000702,
+                    "prize_list": [
+                        {
+                            "prize_id": 40102,
+                            "num": 30,
+                            "type": 3
+                        }
+                    ],
+                    "next_id": 3000703
+                },
+                {
+                    "sheet_num": 1,
+                    "day_num": 3,
+                    "id": 3000703,
+                    "prize_list": [
+                        {
+                            "prize_id": 40102,
+                            "num": 30,
+                            "type": 3
+                        }
+                    ],
+                    "next_id": 3000704
+                },
+                {
+                    "sheet_num": 1,
+                    "day_num": 4,
+                    "id": 3000704,
+                    "prize_list": [
+                        {
+                            "prize_id": 40102,
+                            "num": 30,
+                            "type": 3
+                        }
+                    ],
+                    "next_id": 3000705
+                },
+                {
+                    "sheet_num": 1,
+                    "day_num": 5,
+                    "id": 3000705,
+                    "prize_list": [
+                        {
+                            "prize_id": 40102,
+                            "num": 30,
+                            "type": 3
+                        }
+                    ],
+                    "next_id": 3000706
+                },
+                {
+                    "sheet_num": 1,
+                    "day_num": 6,
+                    "id": 3000706,
+                    "prize_list": [
+                        {
+                            "prize_id": 40102,
+                            "num": 30,
+                            "type": 3
+                        }
+                    ],
+                    "next_id": 3000707
+                },
+                {
+                    "sheet_num": 1,
+                    "day_num": 7,
+                    "id": 3000707,
+                    "prize_list": [
+                        {
+                            "prize_id": 40102,
+                            "num": 30,
+                            "type": 3
+                        }
+                    ],
+                    "next_id": 0
+                }
+            ],
+            "img_name": "lgb_bnr_0007",
+            "receive_type": 1,
+            "term_start": 1601434800000,
+            "name": "エルザ討伐イベントログインボーナス",
+            "is_badge": false,
+            "term_end": 1602039599000,
+            "id": 30007,
+            "category": 3
+        },
+        {
             "now_portal_prize_id": "user_data",
             "link": "",
             "description": "毎日アイテムが貰えるぞ！\n忘れずログインしよう！",
@@ -543,6 +651,26 @@
             "id": 50016,
             "category": 1,
             "priority": 21
+        },
+        {
+            "img_name": "gch_bnr_event_0011_01",
+            "receive_type": 0,
+            "term_start": 1601434800000,
+            "name": "イベント特効ガチャ",
+            "link": "",
+            "description": "イベント特効ガチャでは\n「エルザ討伐イベント」での勲章取得量の倍率がアップする【小悪魔の本気】フェリス★３や\n[記憶結晶]一杯付き合わないか★３が登場！！",
+            "is_badge": false,
+            "term_end": 1602039599000,
+            "id": 50018,
+            "category": 6,
+            "priority": 22,
+            "target": {
+                "view": "ガチャへ",
+                "val3": 0,
+                "val2": 0,
+                "val1": 0,
+                "id": 207
+            }
         },
         {
         "img_name": "portal_bnr_0006",
@@ -1056,10 +1184,19 @@
     "res_code": 0,
     "client_wait": 0,
     "badge": "user_data",
-    "event_term_end": 1600829999000,
-    "event_id": 1001,
-    "gacha_push_tm": 1600736400388,
-    "event_name": "ウルガルム討伐イベント",
+    "event_term_end":1602039599000,
+    "event_id":1003,
+    "gacha_push_tm":1601514000185,
+    "campaign_info":[
+        {
+            "icon":"ic_boost_03",
+            "term_end":1602039599000,
+            "is_quest":1,
+            "target":"討伐イベント",
+            "info":"討伐イベント開催中"
+        }
+    ],
+    "event_name":"エルザ討伐イベント","
     "skit": [
         {
         "skit_id": 102,

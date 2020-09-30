@@ -2418,26 +2418,24 @@
             "priority": 2,
             "item_view": 1,
             "view": {
-                "prize_id": 40201,
+                "prize_id": 40202,
                 "num": 0,
                 "type": 3
             },
             "img_name": "exc_bnr_medal_event_01.png",
-            "term_start": 1600225200000,
+            "term_start": 1601434800000,
             "catalog_list": [
                 {
                     "limit_type": 1,
                     "cost": [
                         {
-                            "prize_id": 40201,
+                            "prize_id": 40202,
                             "num": 100,
                             "type": 3
                         }
                     ],
-                    "buy_count": 0,
-                    "total_buy_count": "user_data",
                     "limit_term_num": -1,
-                    "description": "イベントアイテム交換",
+                    "description": "エルザ討伐イベント",
                     "priority": 2,
                     "prize": [
                         {
@@ -2447,26 +2445,24 @@
                         }
                     ],
                     "img_name": "",
-                    "term_start": 1600225200000,
+                    "term_start": 1601434800000,
                     "group_id": 0,
                     "name": "[1日1回限定]輝く経験値の紙面",
-                    "term_end": 1600873199000,
-                    "id": 40001001,
+                    "term_end": 1602082799000,
+                    "id": 40001017,
                     "limit_num": 1
                 },
                 {
                     "limit_type": 1,
                     "cost": [
                         {
-                            "prize_id": 40201,
+                            "prize_id": 40202,
                             "num": 100,
                             "type": 3
                         }
                     ],
-                    "buy_count": 0,
-                    "total_buy_count": "user_data",
                     "limit_term_num": -1,
-                    "description": "イベントアイテム交換",
+                    "description": "エルザ討伐イベント",
                     "priority": 3,
                     "prize": [
                         {
@@ -2476,85 +2472,25 @@
                         }
                     ],
                     "img_name": "",
-                    "term_start": 1600225200000,
+                    "term_start": 1601434800000,
                     "group_id": 0,
                     "name": "[1日1回限定]コイン",
-                    "term_end": 1600873199000,
-                    "id": 40001002,
+                    "term_end": 1602082799000,
+                    "id": 40001018,
                     "limit_num": 1
                 },
                 {
                     "limit_type": 1,
                     "cost": [
                         {
-                            "prize_id": 40201,
+                            "prize_id": 40202,
                             "num": 100,
                             "type": 3
                         }
                     ],
-                    "buy_count": 0,
-                    "total_buy_count": "user_data",
                     "limit_term_num": -1,
-                    "description": "イベントアイテム交換",
+                    "description": "エルザ討伐イベント",
                     "priority": 4,
-                    "prize": [
-                        {
-                            "prize_id": 3007,
-                            "num": 300,
-                            "type": 3
-                        }
-                    ],
-                    "img_name": "",
-                    "term_start": 1600225200000,
-                    "group_id": 0,
-                    "name": "[1日1回限定]ノリⅡ",
-                    "term_end": 1600873199000,
-                    "id": 40001003,
-                    "limit_num": 1
-                },
-                {
-                    "limit_type": 1,
-                    "cost": [
-                        {
-                            "prize_id": 40201,
-                            "num": 100,
-                            "type": 3
-                        }
-                    ],
-                    "buy_count": 0,
-                    "total_buy_count": "user_data",
-                    "limit_term_num": -1,
-                    "description": "イベントアイテム交換",
-                    "priority": 5,
-                    "prize": [
-                        {
-                            "prize_id": 3008,
-                            "num": 300,
-                            "type": 3
-                        }
-                    ],
-                    "img_name": "",
-                    "term_start": 1600225200000,
-                    "group_id": 0,
-                    "name": "[1日1回限定]魅力Ⅱ",
-                    "term_end": 1600873199000,
-                    "id": 40001004,
-                    "limit_num": 1
-                },
-                {
-                    "limit_type": 1,
-                    "cost": [
-                        {
-                            "prize_id": 40201,
-                            "num": 100,
-                            "type": 3
-                        }
-                    ],
-                    "buy_count": 0,
-                    "total_buy_count": "user_data",
-                    "limit_term_num": -1,
-                    "description": "イベントアイテム交換",
-                    "priority": 6,
                     "prize": [
                         {
                             "prize_id": 3005,
@@ -2563,27 +2499,25 @@
                         }
                     ],
                     "img_name": "",
-                    "term_start": 1600225200000,
+                    "term_start": 1601434800000,
                     "group_id": 0,
                     "name": "[1日1回限定]知識Ⅱ",
-                    "term_end": 1600873199000,
-                    "id": 40001005,
+                    "term_end": 1602082799000,
+                    "id": 40001019,
                     "limit_num": 1
                 },
                 {
                     "limit_type": 1,
                     "cost": [
                         {
-                            "prize_id": 40201,
+                            "prize_id": 40202,
                             "num": 100,
                             "type": 3
                         }
                     ],
-                    "buy_count": 0,
-                    "total_buy_count": "user_data",
                     "limit_term_num": -1,
-                    "description": "イベントアイテム交換",
-                    "priority": 7,
+                    "description": "エルザ討伐イベント",
+                    "priority": 5,
                     "prize": [
                         {
                             "prize_id": 3006,
@@ -2592,26 +2526,78 @@
                         }
                     ],
                     "img_name": "",
-                    "term_start": 1600225200000,
+                    "term_start": 1601434800000,
                     "group_id": 0,
                     "name": "[1日1回限定]勇気Ⅱ",
-                    "term_end": 1600873199000,
-                    "id": 40001006,
+                    "term_end": 1602082799000,
+                    "id": 40001020,
+                    "limit_num": 1
+                },
+                {
+                    "limit_type": 1,
+                    "cost": [
+                        {
+                            "prize_id": 40202,
+                            "num": 100,
+                            "type": 3
+                        }
+                    ],
+                    "limit_term_num": -1,
+                    "description": "エルザ討伐イベント",
+                    "priority": 6,
+                    "prize": [
+                        {
+                            "prize_id": 3007,
+                            "num": 300,
+                            "type": 3
+                        }
+                    ],
+                    "img_name": "",
+                    "term_start": 1601434800000,
+                    "group_id": 0,
+                    "name": "[1日1回限定]ノリⅡ",
+                    "term_end": 1602082799000,
+                    "id": 40001021,
+                    "limit_num": 1
+                },
+                {
+                    "limit_type": 1,
+                    "cost": [
+                        {
+                            "prize_id": 40202,
+                            "num": 100,
+                            "type": 3
+                        }
+                    ],
+                    "limit_term_num": -1,
+                    "description": "エルザ討伐イベント",
+                    "priority": 7,
+                    "prize": [
+                        {
+                            "prize_id": 3008,
+                            "num": 300,
+                            "type": 3
+                        }
+                    ],
+                    "img_name": "",
+                    "term_start": 1601434800000,
+                    "group_id": 0,
+                    "name": "[1日1回限定]魅力Ⅱ",
+                    "term_end": 1602082799000,
+                    "id": 40001022,
                     "limit_num": 1
                 },
                 {
                     "limit_type": 0,
                     "cost": [
                         {
-                            "prize_id": 40201,
+                            "prize_id": 40202,
                             "num": 400,
                             "type": 3
                         }
                     ],
-                    "buy_count": 0,
-                    "total_buy_count": "user_data",
                     "limit_term_num": 6,
-                    "description": "イベントアイテム交換",
+                    "description": "エルザ討伐イベント",
                     "priority": 8,
                     "prize": [
                         {
@@ -2621,26 +2607,24 @@
                         }
                     ],
                     "img_name": "",
-                    "term_start": 1600225200000,
+                    "term_start": 1601434800000,
                     "group_id": 0,
                     "name": "[6回限定]幸運",
-                    "term_end": 1601089199000,
-                    "id": 40001007,
+                    "term_end": 1602298799000,
+                    "id": 40001023,
                     "limit_num": -1
                 },
                 {
                     "limit_type": 0,
                     "cost": [
                         {
-                            "prize_id": 40201,
+                            "prize_id": 40202,
                             "num": 800,
                             "type": 3
                         }
                     ],
-                    "buy_count": 0,
-                    "total_buy_count": "user_data",
                     "limit_term_num": 6,
-                    "description": "イベントアイテム交換",
+                    "description": "エルザ討伐イベント",
                     "priority": 9,
                     "prize": [
                         {
@@ -2650,26 +2634,24 @@
                         }
                     ],
                     "img_name": "",
-                    "term_start": 1600225200000,
+                    "term_start": 1601434800000,
                     "group_id": 0,
                     "name": "[6回限定]カリスマ",
-                    "term_end": 1601089199000,
-                    "id": 40001008,
+                    "term_end": 1602298799000,
+                    "id": 40001024,
                     "limit_num": -1
                 },
                 {
                     "limit_type": 0,
                     "cost": [
                         {
-                            "prize_id": 40201,
+                            "prize_id": 40202,
                             "num": 1600,
                             "type": 3
                         }
                     ],
-                    "buy_count": 0,
-                    "total_buy_count": "user_data",
                     "limit_term_num": 6,
-                    "description": "イベントアイテム交換",
+                    "description": "エルザ討伐イベント",
                     "priority": 10,
                     "prize": [
                         {
@@ -2679,26 +2661,24 @@
                         }
                     ],
                     "img_name": "",
-                    "term_start": 1600225200000,
+                    "term_start": 1601434800000,
                     "group_id": 0,
                     "name": "[6回限定]覇気",
-                    "term_end": 1601089199000,
-                    "id": 40001009,
+                    "term_end": 1602298799000,
+                    "id": 40001025,
                     "limit_num": -1
                 },
                 {
                     "limit_type": 0,
                     "cost": [
                         {
-                            "prize_id": 40201,
+                            "prize_id": 40202,
                             "num": 3000,
                             "type": 3
                         }
                     ],
-                    "buy_count": 0,
-                    "total_buy_count": "user_data",
                     "limit_term_num": 1,
-                    "description": "イベントアイテム交換",
+                    "description": "エルザ討伐イベント",
                     "priority": 11,
                     "prize": [
                         {
@@ -2708,26 +2688,24 @@
                         }
                     ],
                     "img_name": "",
-                    "term_start": 1600225200000,
+                    "term_start": 1601434800000,
                     "group_id": 0,
                     "name": "[1回限定]上限突破の秘薬",
-                    "term_end": 1601089199000,
-                    "id": 40001010,
+                    "term_end": 1602298799000,
+                    "id": 40001026,
                     "limit_num": -1
                 },
                 {
                     "limit_type": 0,
                     "cost": [
                         {
-                            "prize_id": 40201,
+                            "prize_id": 40202,
                             "num": 5000,
                             "type": 3
                         }
                     ],
-                    "buy_count": 0,
-                    "total_buy_count": "user_data",
                     "limit_term_num": 1,
-                    "description": "イベントアイテム交換",
+                    "description": "エルザ討伐イベント",
                     "priority": 12,
                     "prize": [
                         {
@@ -2737,160 +2715,152 @@
                         }
                     ],
                     "img_name": "",
-                    "term_start": 1600225200000,
+                    "term_start": 1601434800000,
                     "group_id": 0,
                     "name": "[1回限定]上限突破の秘薬",
-                    "term_end": 1601089199000,
-                    "id": 40001011,
+                    "term_end": 1602298799000,
+                    "id": 40001027,
                     "limit_num": -1
                 },
                 {
                     "limit_type": 0,
                     "cost": [
                         {
-                            "prize_id": 40201,
-                            "num": 200,
+                            "prize_id": 40202,
+                            "num": 1,
                             "type": 3
                         }
                     ],
-                    "buy_count": 0,
-                    "total_buy_count": "user_data",
                     "limit_term_num": -1,
-                    "description": "イベントアイテム交換",
+                    "description": "エルザ討伐イベント",
                     "priority": 13,
                     "prize": [
                         {
-                            "prize_id": 3001,
-                            "num": 300,
-                            "type": 3
-                        }
-                    ],
-                    "img_name": "",
-                    "term_start": 1600225200000,
-                    "group_id": 0,
-                    "name": "知識",
-                    "term_end": 1601089199000,
-                    "id": 40001012,
-                    "limit_num": -1
-                },
-                {
-                    "limit_type": 0,
-                    "cost": [
-                        {
-                            "prize_id": 40201,
-                            "num": 200,
-                            "type": 3
-                        }
-                    ],
-                    "buy_count": 0,
-                    "total_buy_count": "user_data",
-                    "limit_term_num": -1,
-                    "description": "イベントアイテム交換",
-                    "priority": 14,
-                    "prize": [
-                        {
-                            "prize_id": 3002,
-                            "num": 300,
-                            "type": 3
-                        }
-                    ],
-                    "img_name": "",
-                    "term_start": 1600225200000,
-                    "group_id": 0,
-                    "name": "勇気",
-                    "term_end": 1601089199000,
-                    "id": 40001013,
-                    "limit_num": -1
-                },
-                {
-                    "limit_type": 0,
-                    "cost": [
-                        {
-                            "prize_id": 40201,
-                            "num": 200,
-                            "type": 3
-                        }
-                    ],
-                    "buy_count": 0,
-                    "total_buy_count": "user_data",
-                    "limit_term_num": -1,
-                    "description": "イベントアイテム交換",
-                    "priority": 15,
-                    "prize": [
-                        {
-                            "prize_id": 3003,
-                            "num": 300,
-                            "type": 3
-                        }
-                    ],
-                    "img_name": "",
-                    "term_start": 1600225200000,
-                    "group_id": 0,
-                    "name": "ノリ",
-                    "term_end": 1601089199000,
-                    "id": 40001014,
-                    "limit_num": -1
-                },
-                {
-                    "limit_type": 0,
-                    "cost": [
-                        {
-                            "prize_id": 40201,
-                            "num": 200,
-                            "type": 3
-                        }
-                    ],
-                    "buy_count": 0,
-                    "total_buy_count": "user_data",
-                    "limit_term_num": -1,
-                    "description": "イベントアイテム交換",
-                    "priority": 16,
-                    "prize": [
-                        {
-                            "prize_id": 3004,
-                            "num": 300,
-                            "type": 3
-                        }
-                    ],
-                    "img_name": "",
-                    "term_start": 1600225200000,
-                    "group_id": 0,
-                    "name": "魅力",
-                    "term_end": 1601089199000,
-                    "id": 40001015,
-                    "limit_num": -1
-                },
-                {
-                    "limit_type": 0,
-                    "cost": [
-                        {
-                            "prize_id": 40201,
-                            "num": 5000,
-                            "type": 3
-                        }
-                    ],
-                    "limit_term_num": -1,
-                    "description": "イベントアイテム交換",
-                    "priority": 17,
-                    "prize": [
-                        {
                             "prize_id": 0,
-                            "num": 10000,
+                            "num": 2,
                             "type": 6
                         }
                     ],
                     "img_name": "",
-                    "term_start": 1600225200000,
+                    "term_start": 1601434800000,
                     "group_id": 0,
                     "name": "コイン",
-                    "term_end": 1601089199000,
-                    "id": 40001016,
+                    "term_end": 1602298799000,
+                    "id": 40001028,
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 40202,
+                            "num": 2,
+                            "type": 3
+                        }
+                    ],
+                    "limit_term_num": -1,
+                    "description": "エルザ討伐イベント",
+                    "priority": 14,
+                    "prize": [
+                        {
+                            "prize_id": 3001,
+                            "num": 3,
+                            "type": 3
+                        }
+                    ],
+                    "img_name": "",
+                    "term_start": 1601434800000,
+                    "group_id": 0,
+                    "name": "知識",
+                    "term_end": 1602298799000,
+                    "id": 40001029,
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 40202,
+                            "num": 2,
+                            "type": 3
+                        }
+                    ],
+                    "limit_term_num": -1,
+                    "description": "エルザ討伐イベント",
+                    "priority": 15,
+                    "prize": [
+                        {
+                            "prize_id": 3002,
+                            "num": 3,
+                            "type": 3
+                        }
+                    ],
+                    "img_name": "",
+                    "term_start": 1601434800000,
+                    "group_id": 0,
+                    "name": "勇気",
+                    "term_end": 1602298799000,
+                    "id": 40001030,
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 40202,
+                            "num": 2,
+                            "type": 3
+                        }
+                    ],
+                    "limit_term_num": -1,
+                    "description": "エルザ討伐イベント",
+                    "priority": 16,
+                    "prize": [
+                        {
+                            "prize_id": 3003,
+                            "num": 3,
+                            "type": 3
+                        }
+                    ],
+                    "img_name": "",
+                    "term_start": 1601434800000,
+                    "group_id": 0,
+                    "name": "ノリ",
+                    "term_end": 1602298799000,
+                    "id": 40001031,
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 40202,
+                            "num": 2,
+                            "type": 3
+                        }
+                    ],
+                    "limit_term_num": -1,
+                    "description": "エルザ討伐イベント",
+                    "priority": 17,
+                    "prize": [
+                        {
+                            "prize_id": 3004,
+                            "num": 3,
+                            "type": 3
+                        }
+                    ],
+                    "img_name": "",
+                    "term_start": 1601434800000,
+                    "group_id": 0,
+                    "name": "魅力",
+                    "term_end": 1602298799000,
+                    "id": 40001032,
                     "limit_num": -1
                 }
             ],
             "name": "勲章交換所",
             "shop_type": 4,
-            "term_end": 1601089199000,
+            "term_end": 1602298799000,
             "id": 40001
         },
         {

@@ -242,6 +242,21 @@
             "costume_name": "フェリス"
         },
         {
+            "favor_level": 1,
+            "character_name": "フェリス",
+            "character_id": 16,
+            "priority": 26,
+            "favor_point": "user_data",
+            "need_favor": "user_data",
+            "filename": "live2d/AC_ferris_dress01",
+            "setting_chara": 0,
+            "is_lock": false,
+            "costume_id": 11602,
+            "is_badge": false,
+            "id": 1026,
+            "costume_name": "フェリス（ドレス）"
+        },
+        {
             "favor_level": "user_data",
             "character_name": "ミミ",
             "character_id": 17,
@@ -465,6 +480,21 @@
             "is_badge": false,
             "id": 1044,
             "costume_name": "スバル（執事）"
+        },
+        {
+            "favor_level": 1,
+            "character_name": "クルシュ",
+            "character_id": 22,
+            "priority": 45,
+            "favor_point": "user_data",
+            "need_favor": "user_data",
+            "filename": "live2d/AC_crusch_armor01",
+            "setting_chara": 0,
+            "is_lock": false,
+            "costume_id": 12202,
+            "is_badge": false,
+            "id": 1055,
+            "costume_name": "クルシュ（鎧）"
         }
     ],
     "server_time": "user_data",

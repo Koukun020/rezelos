@@ -1,13 +1,44 @@
 {
     "transaction_id": "user_data",
-    "server_time": "user_data",
+    "server_time": 1601450582485,
+    "mission": {
+        "norma": 320,
+        "name": "[エルザ討伐ミッション]\n勲章を累積320個獲得する",
+        "destination": {
+            "view": "イベントへ",
+            "val3": 0,
+            "val2": 0,
+            "val1": 0,
+            "id": 2006
+        },
+        "description": "[エルザ討伐ミッション]\n勲章を累積320個獲得する",
+        "progress": 0,
+        "term_end": 1602298799000,
+        "id": 150000,
+        "type": 1,
+        "prize_list": [
+            {
+                "ticket_num": 0,
+                "prize_id_sub": 0,
+                "prize_id": 0,
+                "num": 150,
+                "val_b": 0,
+                "piece_num": 0,
+                "val_type": 0,
+                "type": 4,
+                "is_duplicate": 0,
+                "val_a": 0
+            }
+        ],
+        "status": 1
+    },
     "how_to_play": {
         "skit_id": 2001,
         "scene_option": "",
         "scenario_list": [
             {
                 "voice": "",
-                "image": "evt_bnr_0001_06",
+                "image": "evt_bnr_0002_06",
                 "character": "",
                 "uniq_id": 20010001,
                 "motion": "",
@@ -78,8 +109,8 @@
     "boss_event": {
         "img_deck_name": "ADV_bg103a_forest",
         "cost_item": {
-            "prize_id": 40101,
-            "num": "user_data",
+            "prize_id": 40102,
+            "num": 0,
             "type": 3
         },
         "cost_item_up_max": 0,
@@ -90,32 +121,32 @@
             "val1": 0,
             "id": 209
         },
-        "is_exchang": true,
+        "is_exchang": false,
         "prize_item_up_max": 100,
-        "view_end": 1601089199000,
-        "term_start": 1600225200000,
+        "view_end": 1602298799000,
+        "term_start": 1601434800000,
         "prize_item": {
-            "prize_id": 40201,
+            "prize_id": 40202,
             "num": "user_data",
             "type": 3
         },
-        "img_name": "evt_bnr_0001_01",
+        "img_name": "evt_bnr_0002_01",
         "battle_card_skill": [
             {
-                "base_id": 10402001
+                "base_id": 11602001
             }
         ],
         "img_bg_name": "ADV_bg103a_forest",
-        "name": "ウルガルム討伐イベント",
-        "term_end": 1600829999000,
+        "name": "エルザ討伐イベント",
+        "term_end": 1602039599000,
         "ranking": "user_data",
         "support_card_skill": [
             {
-                "base_id": 50111030,
+                "base_id": 50122020,
                 "parameter": 15
             }
         ],
-        "id": 1001,
+        "id": 1003,
         "is_sp_boss": true,
         "shop_destination": {
             "view": "交換所へ",
