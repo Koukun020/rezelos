@@ -551,7 +551,125 @@
         }
     ],
     "user_data": "user_data",
-    "sp_stage_list": [],
+    "sp_stage_list": [
+        {
+            "enemy_card_id": 0,
+            "stage_id": 500401,
+            "enemy_deck_power": 0,
+            "description": "レアクリスタルを倒して大量の勲章を獲得しよう！！！",
+            "prize": {
+                "clear_count_prize_list": [
+                    {
+                        "prize_id_sub": 0,
+                        "prize_id": 0,
+                        "clear_count": 1,
+                        "num": 10,
+                        "id": 350040101,
+                        "type": 4
+                    }
+                ],
+                "lottery_prize_list": [],
+                "fixed_prize_list": [
+                    {
+                        "prize_id_sub": 0,
+                        "prize_id": 40202,
+                        "num": 2000,
+                        "id": 150040101,
+                        "type": 3
+                    }
+                ]
+            },
+            "period_msg": "",
+            "scene": {
+                "after_id": 0,
+                "before_id": 0
+            },
+            "is_today_limit": 0,
+            "clear_count": 0,
+            "name": "レアクリスタル初級",
+            "is_lock": 0,
+            "progress_status": 3,
+            "campaign_msg": ""
+        },
+        {
+            "enemy_card_id": 0,
+            "stage_id": 500402,
+            "enemy_deck_power": 0,
+            "description": "レアクリスタルを倒して大量の勲章を獲得しよう！！！",
+            "prize": {
+                "clear_count_prize_list": [
+                    {
+                        "prize_id_sub": 0,
+                        "prize_id": 0,
+                        "clear_count": 1,
+                        "num": 10,
+                        "id": 350040201,
+                        "type": 4
+                    }
+                ],
+                "lottery_prize_list": [],
+                "fixed_prize_list": [
+                    {
+                        "prize_id_sub": 0,
+                        "prize_id": 40202,
+                        "num": 2000,
+                        "id": 150040201,
+                        "type": 3
+                    }
+                ]
+            },
+            "period_msg": "",
+            "scene": {
+                "after_id": 0,
+                "before_id": 0
+            },
+            "is_today_limit": 0,
+            "clear_count": 0,
+            "name": "レアクリスタル中級",
+            "is_lock": 0,
+            "progress_status": 3,
+            "campaign_msg": ""
+        },
+        {
+            "enemy_card_id": 97601106,
+            "stage_id": 500403,
+            "enemy_deck_power": 35000,
+            "description": "レアクリスタルを倒して大量の勲章を獲得しよう！！！",
+            "prize": {
+                "clear_count_prize_list": [
+                    {
+                        "prize_id_sub": 0,
+                        "prize_id": 0,
+                        "clear_count": 1,
+                        "num": 10,
+                        "id": 350040301,
+                        "type": 4
+                    }
+                ],
+                "lottery_prize_list": [],
+                "fixed_prize_list": [
+                    {
+                        "prize_id_sub": 0,
+                        "prize_id": 40202,
+                        "num": 2000,
+                        "id": 150040301,
+                        "type": 3
+                    }
+                ]
+            },
+            "period_msg": "",
+            "scene": {
+                "after_id": 0,
+                "before_id": 0
+            },
+            "is_today_limit": 0,
+            "clear_count": 0,
+            "name": "レアクリスタル上級",
+            "is_lock": 0,
+            "progress_status": 3,
+            "campaign_msg": ""
+        }
+    ],
     "res_code": 0,
     "client_wait": 0
 }

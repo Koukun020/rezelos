@@ -534,6 +534,45 @@
                 }
             ],
             "present_text": "エルザ討伐イベントログインボーナス"
+        },
+        {
+            "present_id": 90025333656,
+            "get_time": 1601481091000,
+            "prize_list": [
+                {
+                    "ticket_num": 0,
+                    "prize_id_sub": 0,
+                    "prize_id": 1,
+                    "num": 100,
+                    "val_b": 0,
+                    "piece_num": 0,
+                    "val_type": 0,
+                    "type": 8,
+                    "is_duplicate": 0,
+                    "val_a": 0
+                }
+            ],
+            "present_text": "第1章IFルート：クルシュ<br>公開記念キャンペーン"
+        },
+        {
+            "present_id": 90025863946,
+            "get_time": 1601537402000,
+            "present_limit": 1616225402000,
+            "prize_list": [
+                {
+                    "ticket_num": 0,
+                    "prize_id_sub": 0,
+                    "prize_id": 1040,
+                    "num": 1,
+                    "val_b": 0,
+                    "piece_num": 0,
+                    "val_type": 0,
+                    "type": 3,
+                    "is_duplicate": 0,
+                    "val_a": 0
+                }
+            ],
+            "present_text": "TVアニメ放送記念ログインボーナス"
         }
     ],
     "res_code": 0,
