@@ -28,7 +28,7 @@
     "user_data": "user_data",
     "area_list": [
         {
-            "is_drop_up": 0,
+            "is_drop_up": 1,
             "clear_count": 0,
             "reset_tm": 0,
             "is_lock": 0,

@@ -553,9 +553,9 @@
     "user_data": "user_data",
     "sp_stage_list": [
         {
-            "enemy_card_id": 0,
+            "enemy_card_id": 97601104,
             "stage_id": 500401,
-            "enemy_deck_power": 0,
+            "enemy_deck_power": 12500,
             "description": "レアクリスタルを倒して大量の勲章を獲得しよう！！！",
             "prize": {
                 "clear_count_prize_list": [
@@ -573,7 +573,7 @@
                     {
                         "prize_id_sub": 0,
                         "prize_id": 40202,
-                        "num": 2000,
+                        "num": 1000,
                         "id": 150040101,
                         "type": 3
                     }
@@ -592,9 +592,9 @@
             "campaign_msg": ""
         },
         {
-            "enemy_card_id": 0,
+            "enemy_card_id": 97601105,
             "stage_id": 500402,
-            "enemy_deck_power": 0,
+            "enemy_deck_power": 21500,
             "description": "レアクリスタルを倒して大量の勲章を獲得しよう！！！",
             "prize": {
                 "clear_count_prize_list": [
@@ -612,7 +612,7 @@
                     {
                         "prize_id_sub": 0,
                         "prize_id": 40202,
-                        "num": 2000,
+                        "num": 1500,
                         "id": 150040201,
                         "type": 3
                     }

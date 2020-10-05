@@ -640,6 +640,38 @@
             "priority": 41
         },
         {
+            "event_portal_prize": [
+                {
+                    "rank_point": "user_data",
+                    "rank": "user_data",
+                    "term_id": 1,
+                    "prize_list": [
+                        {
+                            "prize_id": 100001,
+                            "num": "user_data",
+                            "type": 3
+                        },
+                        {
+                            "prize_id": 0,
+                            "num": "user_data",
+                            "type": 4
+                        }
+                    ]
+                }
+            ],
+            "img_name": "img_notice_01",
+            "receive_type": 2,
+            "now_portal_prize_id": 0,
+            "name": "アリーナシーズン結果",
+            "link": "",
+            "description": "シーズン1",
+            "is_badge": false,
+            "id": 10001,
+            "category": 8,
+            "priority": 990,
+            "is_receipt": false
+        },
+        {
             "img_name": "portal_bnr_0007",
             "receive_type": 0,
             "term_start": 1601258400000,
@@ -673,23 +705,24 @@
             }
         },
         {
-        "img_name": "portal_bnr_0006",
-        "receive_type": 0,
-        "term_start": 1600830000000,
-        "name": "期間限定かけらダンジョンオープン",
-        "link": "",
-        "description": "期間限定のかけらダンジョンが登場！！\n【月夜の舞風】ラム★３、【命懸けのシャマク】スバル★３、【大精霊の遊び心】パック★３のかけらをゲットしよう！",
-        "is_badge": false,
-        "term_end": 1601431199000,
-        "id": 50014,
-        "category": 4,
-        "priority": 18,
-        "target": {
-            "view": "クエストへ",
-            "val3": 0,
-            "val2": 0,
-            "val1": 0,
-            "id": 2007
+            "img_name": "portal_bnr_0006",
+            "receive_type": 0,
+            "term_start": 1600830000000,
+            "name": "期間限定かけらダンジョンオープン",
+            "link": "",
+            "description": "期間限定のかけらダンジョンが登場！！\n【月夜の舞風】ラム★３、【命懸けのシャマク】スバル★３、【大精霊の遊び心】パック★３のかけらをゲットしよう！",
+            "is_badge": false,
+            "term_end": 1601431199000,
+            "id": 50014,
+            "category": 4,
+            "priority": 18,
+            "target": {
+                "view": "クエストへ",
+                "val3": 0,
+                "val2": 0,
+                "val1": 0,
+                "id": 2007
+            }
         },
         {
             "now_portal_prize_id": "user_data",
@@ -807,17 +840,37 @@
             }
         },
         {
+            "img_name": "portal_bnr_0002",
+            "receive_type": 0,
+            "term_start": 1601823600000,
+            "name": "EXP特訓所SPドロップ報酬100%UPキャンペーン",
+            "link": "",
+            "description": "EXP特訓所SPのドロップ報酬が100%UP！\n大量の経験値素材をゲットしよう！\n*「EXP特訓所」はキャンペーンの対象外となります。",
+            "is_badge": false,
+            "term_end": 1602082799000,
+            "id": 50019,
+            "category": 4,
+            "priority": 26,
+            "target": {
+                "view": "クエストへ",
+                "val3": 0,
+                "val2": 0,
+                "val1": 0,
+                "id": 2003
+            }
+        },
+        {
             "img_name": "portal_bnr_0003",
             "receive_type": 0,
-            "term_start": 1600614000000,
+            "term_start": 1601823600000,
             "name": "期間限定ミッション",
-            "link": "https://re-zero-rezelos.jp/info/webview/info/detail/000080ta36swdM.html#btnoff",
+            "link": "https://re-zero-rezelos.jp/info/webview/info/detail/00011689tp93Yh.html#btnoff",
             "description": "月曜日限定ミッションをクリアして\nアイテムをゲットしよう！\n詳しくは↓のボタンをタップ！",
             "is_badge": false,
-            "term_end": 1600700399000,
-            "id": 50011,
+            "term_end": 1601909999000,
+            "id": 50020,
             "category": 4,
-            "priority": 14
+            "priority": 25
         },
         {
             "now_portal_prize_id": "user_data",
@@ -1188,6 +1241,14 @@
     "event_id":1003,
     "gacha_push_tm":1601514000185,
     "campaign_info":[
+	{
+            "icon": "ic_boost_02",
+            "term_end": 1602082799000,
+            "bonus_val": "+100%",
+            "is_quest": 0,
+            "target": "育成ダンジョンEXP特訓所SP",
+            "info": "すべてのアイテムドロップが増加"
+        },
         {
             "icon":"ic_boost_03",
             "term_end":1602039599000,
