@@ -33,6 +33,15 @@
             "reset_tm": 0,
             "is_lock": 0,
             "is_campaign_open": 0,
+            "progress_status": 1,
+            "area_id": 6011
+        },
+        {
+            "is_drop_up": 0,
+            "clear_count": 0,
+            "reset_tm": 0,
+            "is_lock": 0,
+            "is_campaign_open": 0,
             "progress_status": 3,
             "area_id": 6005
         },

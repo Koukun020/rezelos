@@ -183,6 +183,21 @@
         },
         {
             "favor_level": "user_data",
+            "character_name": "ラインハルト",
+            "character_id": 12,
+            "priority": 21,
+            "favor_point": "user_data",
+            "need_favor": "user_data",
+            "filename": "live2d/AC_reinhard01",
+            "setting_chara": 0,
+            "is_lock": false,
+            "costume_id": 11201,
+            "is_badge": false,
+            "id": 1021,
+            "costume_name": "ラインハルト"
+        },
+        {
+            "favor_level": "user_data",
             "character_name": "ベアトリス",
             "character_id": 13,
             "priority": 22,

@@ -121,7 +121,7 @@
             "val1": 0,
             "id": 209
         },
-        "is_exchang": false,
+        "is_exchang": true,
         "prize_item_up_max": 100,
         "view_end": 1602298799000,
         "term_start": 1601434800000,

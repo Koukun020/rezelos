@@ -705,24 +705,112 @@
             }
         },
         {
-            "img_name": "portal_bnr_0006",
-            "receive_type": 0,
-            "term_start": 1600830000000,
-            "name": "期間限定かけらダンジョンオープン",
-            "link": "",
-            "description": "期間限定のかけらダンジョンが登場！！\n【月夜の舞風】ラム★３、【命懸けのシャマク】スバル★３、【大精霊の遊び心】パック★３のかけらをゲットしよう！",
-            "is_badge": false,
-            "term_end": 1601431199000,
-            "id": 50014,
-            "category": 4,
-            "priority": 18,
-            "target": {
-                "view": "クエストへ",
-                "val3": 0,
-                "val2": 0,
-                "val1": 0,
-                "id": 2007
-            }
+            "now_portal_prize_id": 3000901,
+            "link": "https://re-zero-rezelos.jp/info/webview/info/detail/000119oZgcPWoy.html#btnoff",
+            "description": "期間限定かけらダンジョンログインボーナス",
+            "priority": 1003,
+            "is_receipt": false,
+            "event_portal_prize": [
+                {
+                    "sheet_num": 1,
+                    "day_num": 1,
+                    "id": 3000901,
+                    "prize_list": [
+                        {
+                            "prize_id": 10302001,
+                            "num": 10,
+                            "type": 9
+                        }
+                    ],
+                    "next_id": 3000902
+                },
+                {
+                    "sheet_num": 1,
+                    "day_num": 2,
+                    "id": 3000902,
+                    "prize_list": [
+                        {
+                            "prize_id": 11001001,
+                            "num": 10,
+                            "type": 9
+                        }
+                    ],
+                    "next_id": 3000903
+                },
+                {
+                    "sheet_num": 1,
+                    "day_num": 3,
+                    "id": 3000903,
+                    "prize_list": [
+                        {
+                            "prize_id": 11101002,
+                            "num": 10,
+                            "type": 9
+                        }
+                    ],
+                    "next_id": 3000904
+                },
+                {
+                    "sheet_num": 1,
+                    "day_num": 4,
+                    "id": 3000904,
+                    "prize_list": [
+                        {
+                            "prize_id": 12202001,
+                            "num": 10,
+                            "type": 9
+                        }
+                    ],
+                    "next_id": 3000905
+                },
+                {
+                    "sheet_num": 1,
+                    "day_num": 5,
+                    "id": 3000905,
+                    "prize_list": [
+                        {
+                            "prize_id": 1501,
+                            "num": 15,
+                            "type": 3
+                        }
+                    ],
+                    "next_id": 3000906
+                },
+                {
+                    "sheet_num": 1,
+                    "day_num": 6,
+                    "id": 3000906,
+                    "prize_list": [
+                        {
+                            "prize_id": 1501,
+                            "num": 15,
+                            "type": 3
+                        }
+                    ],
+                    "next_id": 3000907
+                },
+                {
+                    "sheet_num": 1,
+                    "day_num": 7,
+                    "id": 3000907,
+                    "prize_list": [
+                        {
+                            "prize_id": 1501,
+                            "num": 15,
+                            "type": 3
+                        }
+                    ],
+                    "next_id": 0
+                }
+            ],
+            "img_name": "lgb_bnr_0008",
+            "receive_type": 1,
+            "term_start": 1602039600000,
+            "name": "期間限定かけらダンジョンログインボーナス",
+            "is_badge": true,
+            "term_end": 1602640799000,
+            "id": 30009,
+            "category": 3
         },
         {
             "now_portal_prize_id": "user_data",
@@ -831,6 +919,26 @@
             "id": 50002,
             "category": 6,
             "priority": 5,
+            "target": {
+                "view": "ガチャへ",
+                "val3": 0,
+                "val2": 0,
+                "val1": 0,
+                "id": 207
+            }
+        },
+        {
+            "img_name": "gch_bnr_event_0012_01",
+            "receive_type": 0,
+            "term_start": 1602039600000,
+            "name": "ラインハルトピックアップガチャ",
+            "link": "",
+            "description": "ラインハルトピックアップガチャ開催中！！\n【剣聖の助力】ラインハルト★3、[記憶結晶]赤髪の救世主★３の出現確率がアップ！！",
+            "is_badge": true,
+            "term_end": 1602640799000,
+            "id": 50021,
+            "category": 6,
+            "priority": 27,
             "target": {
                 "view": "ガチャへ",
                 "val3": 0,
