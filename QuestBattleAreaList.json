@@ -29,13 +29,6 @@
         }
     ],
     "boss_event": [
-        {
-            "event_id": 1003,
-            "img_name":" evt_bnr_0002_04",
-            "is_create_ranking" :0,
-            "is_badge": 0,
-            "term_end": 1602039599000
-        }
     ],
     "user_data": "user_data",
     "area_list": [

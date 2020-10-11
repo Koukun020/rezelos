@@ -970,15 +970,15 @@
         {
             "img_name": "portal_bnr_0003",
             "receive_type": 0,
-            "term_start": 1601823600000,
+            "term_start": 1602428400000,
             "name": "期間限定ミッション",
-            "link": "https://re-zero-rezelos.jp/info/webview/info/detail/00011689tp93Yh.html#btnoff",
+            "link": "https://re-zero-rezelos.jp/info/webview/info/detail/000120GAN3aA4i.html#btnoff",
             "description": "月曜日限定ミッションをクリアして\nアイテムをゲットしよう！\n詳しくは↓のボタンをタップ！",
             "is_badge": false,
-            "term_end": 1601909999000,
-            "id": 50020,
+            "term_end": 1602514799000,
+            "id": 50022,
             "category": 4,
-            "priority": 25
+            "priority": 39
         },
         {
             "now_portal_prize_id": "user_data",
