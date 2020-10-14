@@ -1,6 +1,6 @@
 {
     "transaction_id": "user_data",
-    "server_time": 1600654787088,
+    "server_time": 1602663068749,
     "product_list": [
         {
             "catalog_id": 10000101,
@@ -93,6 +93,26 @@
             "google_promo_flg": 0
         },
         {
+            "catalog_id": 10000103,
+            "add_cp_free": 0,
+            "price": 120,
+            "product_id": "rezelos.ios.pack0103",
+            "add_cp_buy": 34,
+            "item_name": "[1回限定]魔法石34個＋【弾む喜び】レムのかけら50個",
+            "product_type_id": 0,
+            "google_promo_flg": 0
+        },
+        {
+            "catalog_id": 10000403,
+            "add_cp_free": 0,
+            "price": 490,
+            "product_id": "rezelos.ios.pack0403",
+            "add_cp_buy": 140,
+            "item_name": "[月1回限定]魔法石140個＋オマケ精神力3個",
+            "product_type_id": 0,
+            "google_promo_flg": 0
+        },
+        {
             "catalog_id": 10010102,
             "add_cp_free": 0,
             "price": 120,
@@ -149,6 +169,36 @@
             "product_id": "rezelos.ios.pack0803",
             "add_cp_buy": 280,
             "item_name": "EXP特訓所SPドロップ報酬100%UPパック",
+            "product_type_id": 0,
+            "google_promo_flg": 0
+        },
+        {
+            "catalog_id": 10010804,
+            "add_cp_free": 0,
+            "price": 980,
+            "product_id": "rezelos.ios.pack0804",
+            "add_cp_buy": 280,
+            "item_name": "EXP特訓所SPドロップ報酬100%UPパック",
+            "product_type_id": 0,
+            "google_promo_flg": 0
+        },
+        {
+            "catalog_id": 10010805,
+            "add_cp_free": 0,
+            "price": 980,
+            "product_id": "rezelos.ios.pack0805",
+            "add_cp_buy": 280,
+            "item_name": "EXP特訓所SPドロップ報酬100%UPパック",
+            "product_type_id": 0,
+            "google_promo_flg": 0
+        },
+        {
+            "catalog_id": 10020104,
+            "add_cp_free": 0,
+            "price": 120,
+            "product_id": "rezelos.ios.pack0104",
+            "add_cp_buy": 34,
+            "item_name": "今だけ魅力なパック1(テスト)",
             "product_type_id": 0,
             "google_promo_flg": 0
         }

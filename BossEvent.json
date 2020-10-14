@@ -1,9 +1,9 @@
 {
     "transaction_id": "user_data",
-    "server_time": 1601450582485,
+    "server_time": 1602663288549,
     "mission": {
         "norma": 320,
-        "name": "[エルザ討伐ミッション]\n勲章を累積320個獲得する",
+        "name": "[魔術師討伐ミッション]\n勲章を累積320個獲得する",
         "destination": {
             "view": "イベントへ",
             "val3": 0,
@@ -11,10 +11,10 @@
             "val1": 0,
             "id": 2006
         },
-        "description": "[エルザ討伐ミッション]\n勲章を累積320個獲得する",
+        "description": "[魔術師討伐ミッション]\n勲章を累積320個獲得する",
         "progress": 0,
-        "term_end": 1602298799000,
-        "id": 150000,
+        "term_end": 1603681199000,
+        "id": 150050,
         "type": 1,
         "prize_list": [
             {
@@ -38,7 +38,7 @@
         "scenario_list": [
             {
                 "voice": "",
-                "image": "evt_bnr_0002_06",
+                "image": "evt_bnr_0003_06",
                 "character": "",
                 "uniq_id": 20010001,
                 "motion": "",
@@ -106,11 +106,18 @@
             }
         ]
     },
+    "skit": [
+        {
+            "skit_adv_id_list": [
+                100081
+            ]
+        }
+    ],
     "boss_event": {
-        "img_deck_name": "ADV_bg103a_forest",
+        "img_deck_name": "ADV_bg119d_crusch",
         "cost_item": {
-            "prize_id": 40102,
-            "num": 0,
+            "prize_id": 40103,
+            "num": "user_data",
             "type": 3
         },
         "cost_item_up_max": 0,
@@ -121,33 +128,33 @@
             "val1": 0,
             "id": 209
         },
-        "is_exchang": true,
+        "is_exchang": false,
         "prize_item_up_max": 100,
-        "view_end": 1602298799000,
-        "term_start": 1601434800000,
+        "view_end": 1603681199000,
+        "term_start": 1602644400000,
         "prize_item": {
-            "prize_id": 40202,
+            "prize_id": 40203,
             "num": "user_data",
             "type": 3
         },
-        "img_name": "evt_bnr_0002_01",
+        "img_name": "evt_bnr_0003_01",
         "battle_card_skill": [
             {
-                "base_id": 11602001
+                "base_id": 11302001
             }
         ],
-        "img_bg_name": "ADV_bg103a_forest",
-        "name": "エルザ討伐イベント",
-        "term_end": 1602039599000,
+        "img_bg_name": "ADV_bg119d_crusch",
+        "name": "魔術師討伐イベント",
+        "term_end": 1603421999000,
         "ranking": "user_data",
         "support_card_skill": [
             {
-                "base_id": 50122020,
+                "base_id": 50113020,
                 "parameter": 15
             }
         ],
-        "id": 1003,
-        "is_sp_boss": true,
+        "id": 1005,
+        "is_sp_boss": false,
         "shop_destination": {
             "view": "交換所へ",
             "val3": 0,

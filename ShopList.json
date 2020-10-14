@@ -2418,25 +2418,25 @@
             "priority": 2,
             "item_view": 1,
             "view": {
-                "prize_id": 40202,
+                "prize_id": 40203,
                 "num": 0,
                 "type": 3
             },
             "img_name": "exc_bnr_medal_event_01.png",
-            "term_start": 1601434800000,
+            "term_start": 1602644400000,
             "catalog_list": [
                 {
                     "limit_type": 1,
                     "cost": [
                         {
-                            "prize_id": 40202,
+                            "prize_id": 40203,
                             "num": 100,
                             "type": 3
                         }
                     ],
                     "limit_term_num": -1,
-                    "description": "エルザ討伐イベント",
-                    "priority": 2,
+                    "description": "魔術師討伐イベント",
+                    "priority": 1,
                     "prize": [
                         {
                             "prize_id": 12299,
@@ -2445,24 +2445,51 @@
                         }
                     ],
                     "img_name": "",
-                    "term_start": 1601434800000,
+                    "term_start": 1602644400000,
                     "group_id": 0,
                     "name": "[1日1回限定]輝く経験値の紙面",
-                    "term_end": 1602082799000,
-                    "id": 40001017,
+                    "term_end": 1603465199000,
+                    "id": 40001033,
                     "limit_num": 1
                 },
                 {
                     "limit_type": 1,
                     "cost": [
                         {
-                            "prize_id": 40202,
+                            "prize_id": 40203,
                             "num": 100,
                             "type": 3
                         }
                     ],
                     "limit_term_num": -1,
-                    "description": "エルザ討伐イベント",
+                    "description": "魔術師討伐イベント",
+                    "priority": 2,
+                    "prize": [
+                        {
+                            "prize_id": 11201,
+                            "num": 5,
+                            "type": 3
+                        }
+                    ],
+                    "img_name": "",
+                    "term_start": 1602644400000,
+                    "group_id": 0,
+                    "name": "[1日1回限定]想起の結晶石",
+                    "term_end": 1603465199000,
+                    "id": 40001034,
+                    "limit_num": 1
+                },
+                {
+                    "limit_type": 1,
+                    "cost": [
+                        {
+                            "prize_id": 40203,
+                            "num": 100,
+                            "type": 3
+                        }
+                    ],
+                    "limit_term_num": -1,
+                    "description": "魔術師討伐イベント",
                     "priority": 3,
                     "prize": [
                         {
@@ -2472,79 +2499,25 @@
                         }
                     ],
                     "img_name": "",
-                    "term_start": 1601434800000,
+                    "term_start": 1602644400000,
                     "group_id": 0,
                     "name": "[1日1回限定]コイン",
-                    "term_end": 1602082799000,
-                    "id": 40001018,
+                    "term_end": 1603465199000,
+                    "id": 40001035,
                     "limit_num": 1
                 },
                 {
                     "limit_type": 1,
                     "cost": [
                         {
-                            "prize_id": 40202,
+                            "prize_id": 40203,
                             "num": 100,
                             "type": 3
                         }
                     ],
                     "limit_term_num": -1,
-                    "description": "エルザ討伐イベント",
+                    "description": "魔術師討伐イベント",
                     "priority": 4,
-                    "prize": [
-                        {
-                            "prize_id": 3005,
-                            "num": 300,
-                            "type": 3
-                        }
-                    ],
-                    "img_name": "",
-                    "term_start": 1601434800000,
-                    "group_id": 0,
-                    "name": "[1日1回限定]知識Ⅱ",
-                    "term_end": 1602082799000,
-                    "id": 40001019,
-                    "limit_num": 1
-                },
-                {
-                    "limit_type": 1,
-                    "cost": [
-                        {
-                            "prize_id": 40202,
-                            "num": 100,
-                            "type": 3
-                        }
-                    ],
-                    "limit_term_num": -1,
-                    "description": "エルザ討伐イベント",
-                    "priority": 5,
-                    "prize": [
-                        {
-                            "prize_id": 3006,
-                            "num": 300,
-                            "type": 3
-                        }
-                    ],
-                    "img_name": "",
-                    "term_start": 1601434800000,
-                    "group_id": 0,
-                    "name": "[1日1回限定]勇気Ⅱ",
-                    "term_end": 1602082799000,
-                    "id": 40001020,
-                    "limit_num": 1
-                },
-                {
-                    "limit_type": 1,
-                    "cost": [
-                        {
-                            "prize_id": 40202,
-                            "num": 100,
-                            "type": 3
-                        }
-                    ],
-                    "limit_term_num": -1,
-                    "description": "エルザ討伐イベント",
-                    "priority": 6,
                     "prize": [
                         {
                             "prize_id": 3007,
@@ -2553,25 +2526,25 @@
                         }
                     ],
                     "img_name": "",
-                    "term_start": 1601434800000,
+                    "term_start": 1602644400000,
                     "group_id": 0,
                     "name": "[1日1回限定]ノリⅡ",
-                    "term_end": 1602082799000,
-                    "id": 40001021,
+                    "term_end": 1603465199000,
+                    "id": 40001036,
                     "limit_num": 1
                 },
                 {
                     "limit_type": 1,
                     "cost": [
                         {
-                            "prize_id": 40202,
+                            "prize_id": 40203,
                             "num": 100,
                             "type": 3
                         }
                     ],
                     "limit_term_num": -1,
-                    "description": "エルザ討伐イベント",
-                    "priority": 7,
+                    "description": "魔術師討伐イベント",
+                    "priority": 5,
                     "prize": [
                         {
                             "prize_id": 3008,
@@ -2580,24 +2553,78 @@
                         }
                     ],
                     "img_name": "",
-                    "term_start": 1601434800000,
+                    "term_start": 1602644400000,
                     "group_id": 0,
                     "name": "[1日1回限定]魅力Ⅱ",
-                    "term_end": 1602082799000,
-                    "id": 40001022,
+                    "term_end": 1603465199000,
+                    "id": 40001037,
+                    "limit_num": 1
+                },
+                {
+                    "limit_type": 1,
+                    "cost": [
+                        {
+                            "prize_id": 40203,
+                            "num": 100,
+                            "type": 3
+                        }
+                    ],
+                    "limit_term_num": -1,
+                    "description": "魔術師討伐イベント",
+                    "priority": 6,
+                    "prize": [
+                        {
+                            "prize_id": 3005,
+                            "num": 300,
+                            "type": 3
+                        }
+                    ],
+                    "img_name": "",
+                    "term_start": 1602644400000,
+                    "group_id": 0,
+                    "name": "[1日1回限定]知識Ⅱ",
+                    "term_end": 1603465199000,
+                    "id": 40001038,
+                    "limit_num": 1
+                },
+                {
+                    "limit_type": 1,
+                    "cost": [
+                        {
+                            "prize_id": 40203,
+                            "num": 100,
+                            "type": 3
+                        }
+                    ],
+                    "limit_term_num": -1,
+                    "description": "魔術師討伐イベント",
+                    "priority": 7,
+                    "prize": [
+                        {
+                            "prize_id": 3006,
+                            "num": 300,
+                            "type": 3
+                        }
+                    ],
+                    "img_name": "",
+                    "term_start": 1602644400000,
+                    "group_id": 0,
+                    "name": "[1日1回限定]勇気Ⅱ",
+                    "term_end": 1603465199000,
+                    "id": 40001039,
                     "limit_num": 1
                 },
                 {
                     "limit_type": 0,
                     "cost": [
                         {
-                            "prize_id": 40202,
+                            "prize_id": 40203,
                             "num": 400,
                             "type": 3
                         }
                     ],
                     "limit_term_num": 6,
-                    "description": "エルザ討伐イベント",
+                    "description": "魔術師討伐イベント",
                     "priority": 8,
                     "prize": [
                         {
@@ -2607,24 +2634,24 @@
                         }
                     ],
                     "img_name": "",
-                    "term_start": 1601434800000,
+                    "term_start": 1602644400000,
                     "group_id": 0,
                     "name": "[6回限定]幸運",
-                    "term_end": 1602298799000,
-                    "id": 40001023,
+                    "term_end": 1603681199000,
+                    "id": 40001040,
                     "limit_num": -1
                 },
                 {
                     "limit_type": 0,
                     "cost": [
                         {
-                            "prize_id": 40202,
+                            "prize_id": 40203,
                             "num": 800,
                             "type": 3
                         }
                     ],
                     "limit_term_num": 6,
-                    "description": "エルザ討伐イベント",
+                    "description": "魔術師討伐イベント",
                     "priority": 9,
                     "prize": [
                         {
@@ -2634,24 +2661,24 @@
                         }
                     ],
                     "img_name": "",
-                    "term_start": 1601434800000,
+                    "term_start": 1602644400000,
                     "group_id": 0,
                     "name": "[6回限定]カリスマ",
-                    "term_end": 1602298799000,
-                    "id": 40001024,
+                    "term_end": 1603681199000,
+                    "id": 40001041,
                     "limit_num": -1
                 },
                 {
                     "limit_type": 0,
                     "cost": [
                         {
-                            "prize_id": 40202,
+                            "prize_id": 40203,
                             "num": 1600,
                             "type": 3
                         }
                     ],
                     "limit_term_num": 6,
-                    "description": "エルザ討伐イベント",
+                    "description": "魔術師討伐イベント",
                     "priority": 10,
                     "prize": [
                         {
@@ -2661,24 +2688,24 @@
                         }
                     ],
                     "img_name": "",
-                    "term_start": 1601434800000,
+                    "term_start": 1602644400000,
                     "group_id": 0,
                     "name": "[6回限定]覇気",
-                    "term_end": 1602298799000,
-                    "id": 40001025,
+                    "term_end": 1603681199000,
+                    "id": 40001042,
                     "limit_num": -1
                 },
                 {
                     "limit_type": 0,
                     "cost": [
                         {
-                            "prize_id": 40202,
+                            "prize_id": 40203,
                             "num": 3000,
                             "type": 3
                         }
                     ],
                     "limit_term_num": 1,
-                    "description": "エルザ討伐イベント",
+                    "description": "魔術師討伐イベント",
                     "priority": 11,
                     "prize": [
                         {
@@ -2688,24 +2715,24 @@
                         }
                     ],
                     "img_name": "",
-                    "term_start": 1601434800000,
+                    "term_start": 1602644400000,
                     "group_id": 0,
                     "name": "[1回限定]上限突破の秘薬",
-                    "term_end": 1602298799000,
-                    "id": 40001026,
+                    "term_end": 1603681199000,
+                    "id": 40001043,
                     "limit_num": -1
                 },
                 {
                     "limit_type": 0,
                     "cost": [
                         {
-                            "prize_id": 40202,
+                            "prize_id": 40203,
                             "num": 5000,
                             "type": 3
                         }
                     ],
                     "limit_term_num": 1,
-                    "description": "エルザ討伐イベント",
+                    "description": "魔術師討伐イベント",
                     "priority": 12,
                     "prize": [
                         {
@@ -2715,25 +2742,106 @@
                         }
                     ],
                     "img_name": "",
-                    "term_start": 1601434800000,
+                    "term_start": 1602644400000,
                     "group_id": 0,
                     "name": "[1回限定]上限突破の秘薬",
-                    "term_end": 1602298799000,
-                    "id": 40001027,
+                    "term_end": 1603681199000,
+                    "id": 40001044,
                     "limit_num": -1
                 },
                 {
                     "limit_type": 0,
                     "cost": [
                         {
-                            "prize_id": 40202,
+                            "prize_id": 40203,
+                            "num": 10000,
+                            "type": 3
+                        }
+                    ],
+                    "limit_term_num": 1,
+                    "description": "魔術師討伐イベント",
+                    "priority": 13,
+                    "prize": [
+                        {
+                            "prize_id": 32605,
+                            "num": 1,
+                            "type": 3
+                        }
+                    ],
+                    "img_name": "",
+                    "term_start": 1602644400000,
+                    "group_id": 0,
+                    "name": "[1回限定]上限突破の秘薬",
+                    "term_end": 1603681199000,
+                    "id": 40001045,
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 40203,
+                            "num": 20000,
+                            "type": 3
+                        }
+                    ],
+                    "limit_term_num": 1,
+                    "description": "魔術師討伐イベント",
+                    "priority": 14,
+                    "prize": [
+                        {
+                            "prize_id": 32605,
+                            "num": 1,
+                            "type": 3
+                        }
+                    ],
+                    "img_name": "",
+                    "term_start": 1602644400000,
+                    "group_id": 0,
+                    "name": "[1回限定]上限突破の秘薬",
+                    "term_end": 1603681199000,
+                    "id": 40001046,
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 40203,
+                            "num": 100,
+                            "type": 3
+                        }
+                    ],
+                    "limit_term_num": 700,
+                    "description": "魔術師討伐イベント",
+                    "priority": 15,
+                    "prize": [
+                        {
+                            "prize_id": 32401,
+                            "num": 1,
+                            "type": 3
+                        }
+                    ],
+                    "img_name": "",
+                    "term_start": 1602644400000,
+                    "group_id": 0,
+                    "name": "[700回限定]下級の魔本",
+                    "term_end": 1603681199000,
+                    "id": 40001047,
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 40203,
                             "num": 1,
                             "type": 3
                         }
                     ],
                     "limit_term_num": -1,
-                    "description": "エルザ討伐イベント",
-                    "priority": 13,
+                    "description": "魔術師討伐イベント",
+                    "priority": 16,
                     "prize": [
                         {
                             "prize_id": 0,
@@ -2742,25 +2850,25 @@
                         }
                     ],
                     "img_name": "",
-                    "term_start": 1601434800000,
+                    "term_start": 1602644400000,
                     "group_id": 0,
                     "name": "コイン",
-                    "term_end": 1602298799000,
-                    "id": 40001028,
+                    "term_end": 1603681199000,
+                    "id": 40001048,
                     "limit_num": -1
                 },
                 {
                     "limit_type": 0,
                     "cost": [
                         {
-                            "prize_id": 40202,
+                            "prize_id": 40203,
                             "num": 2,
                             "type": 3
                         }
                     ],
                     "limit_term_num": -1,
-                    "description": "エルザ討伐イベント",
-                    "priority": 14,
+                    "description": "魔術師討伐イベント",
+                    "priority": 17,
                     "prize": [
                         {
                             "prize_id": 3001,
@@ -2769,25 +2877,25 @@
                         }
                     ],
                     "img_name": "",
-                    "term_start": 1601434800000,
+                    "term_start": 1602644400000,
                     "group_id": 0,
                     "name": "知識",
-                    "term_end": 1602298799000,
-                    "id": 40001029,
+                    "term_end": 1603681199000,
+                    "id": 40001049,
                     "limit_num": -1
                 },
                 {
                     "limit_type": 0,
                     "cost": [
                         {
-                            "prize_id": 40202,
+                            "prize_id": 40203,
                             "num": 2,
                             "type": 3
                         }
                     ],
                     "limit_term_num": -1,
-                    "description": "エルザ討伐イベント",
-                    "priority": 15,
+                    "description": "魔術師討伐イベント",
+                    "priority": 18,
                     "prize": [
                         {
                             "prize_id": 3002,
@@ -2796,25 +2904,25 @@
                         }
                     ],
                     "img_name": "",
-                    "term_start": 1601434800000,
+                    "term_start": 1602644400000,
                     "group_id": 0,
                     "name": "勇気",
-                    "term_end": 1602298799000,
-                    "id": 40001030,
+                    "term_end": 1603681199000,
+                    "id": 40001050,
                     "limit_num": -1
                 },
                 {
                     "limit_type": 0,
                     "cost": [
                         {
-                            "prize_id": 40202,
+                            "prize_id": 40203,
                             "num": 2,
                             "type": 3
                         }
                     ],
                     "limit_term_num": -1,
-                    "description": "エルザ討伐イベント",
-                    "priority": 16,
+                    "description": "魔術師討伐イベント",
+                    "priority": 19,
                     "prize": [
                         {
                             "prize_id": 3003,
@@ -2823,25 +2931,29 @@
                         }
                     ],
                     "img_name": "",
-                    "term_start": 1601434800000,
+                    "term_start": 1602644400000,
                     "group_id": 0,
                     "name": "ノリ",
-                    "term_end": 1602298799000,
-                    "id": 40001031,
+                    "term_end": 1603681199000,
+                    "id": 40001051,
                     "limit_num": -1
                 },
                 {
                     "limit_type": 0,
                     "cost": [
                         {
-                            "prize_id": 40202,
+                            "prize_id": 40203,
                             "num": 2,
                             "type": 3
                         }
                     ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "魅力",
                     "limit_term_num": -1,
-                    "description": "エルザ討伐イベント",
-                    "priority": 17,
+                    "description": "魔術師討伐イベント",
+                    "id": 40001052,
+                    "priority": 20,
                     "prize": [
                         {
                             "prize_id": 3004,
@@ -2849,18 +2961,12 @@
                             "type": 3
                         }
                     ],
-                    "img_name": "",
-                    "term_start": 1601434800000,
-                    "group_id": 0,
-                    "name": "魅力",
-                    "term_end": 1602298799000,
-                    "id": 40001032,
                     "limit_num": -1
                 }
             ],
             "name": "勲章交換所",
             "shop_type": 4,
-            "term_end": 1602298799000,
+            "term_end": 1603681199000,
             "id": 40001
         },
         {

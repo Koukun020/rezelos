@@ -1,117 +1,64 @@
 {
-    "skit_portal": {
-        "skit_id": 10011,
-        "scene_option": "",
-        "scenario_list": [
-            {
-                "voice": "",
-                "image": "",
-                "character": "live2d/AC_emilia01",
-                "uniq_id": 100110001,
-                "motion": "act_hohoemu",
-                "video": "",
-                "msg_text": "今日は、私の誕生日をお祝いしてくれて、\nすごーくありがとう！",
-                "msg_header": "エミリア",
-                "scenario_type": 0,
-                "scenario_id": 1,
-                "command": [
-                    "",
-                    "",
-                    ""
-                ]
-            },
-            {
-                "voice": "vo_adv_emilia,advg_emilia_warai",
-                "image": "",
-                "character": "live2d/AC_emilia01",
-                "uniq_id": 100110002,
-                "motion": "act_egao02",
-                "video": "",
-                "msg_text": "こんな風にみんなに「おめでとう」って\n言ってもらえるなんて思わなくて……\n私、ホントにビックリしちゃった",
-                "msg_header": "エミリア",
-                "scenario_type": 0,
-                "scenario_id": 2,
-                "command": [
-                    "",
-                    "",
-                    ""
-                ]
-            },
-            {
-                "voice": "vo_adv_emilia,advg_emilia_gimon",
-                "image": "",
-                "character": "live2d/AC_emilia01",
-                "uniq_id": 100110003,
-                "motion": "act_hohoemu02",
-                "video": "",
-                "msg_text": "え？　お祝いだけじゃなく、贈り物？\nそんな……気持ちだけでも\nすごーく嬉しかったのに、いいの？",
-                "msg_header": "エミリア",
-                "scenario_type": 0,
-                "scenario_id": 3,
-                "command": [
-                    "",
-                    "",
-                    ""
-                ]
-            },
-            {
-                "voice": "vo_adv_emilia,advg_emilia_odoroki",
-                "image": "",
-                "character": "live2d/AC_emilia01",
-                "uniq_id": 100110004,
-                "motion": "act_bikkuri02",
-                "video": "",
-                "msg_text": "ええ！？　今から準備するの？\nそんなに無茶しなくても、お祝いしてくれる\n気持ちだけで十分なのに……もう！",
-                "msg_header": "エミリア",
-                "scenario_type": 0,
-                "scenario_id": 4,
-                "command": [
-                    "",
-                    "",
-                    ""
-                ]
-            },
-            {
-                "voice": "",
-                "image": "",
-                "character": "",
-                "uniq_id": 100110005,
-                "motion": "",
-                "video": "",
-                "msg_text": "追憶郷クエスト、育成ダンジョン、\n記憶の深淵をプレイすると「誕生日プレゼント」\nが獲得できます。",
-                "msg_header": "",
-                "scenario_type": 0,
-                "scenario_id": 5,
-                "command": [
-                    "",
-                    "",
-                    ""
-                ]
-            },
-            {
-                "voice": "",
-                "image": "",
-                "character": "",
-                "uniq_id": 100110006,
-                "motion": "",
-                "video": "",
-                "msg_text": "「誕生日プレゼント」を集めてイベントミッション\nや交換所で「エミリアのかけら」など豪華報酬を\nゲットしよう！",
-                "msg_header": "",
-                "scenario_type": 0,
-                "scenario_id": 6,
-                "command": [
-                    "",
-                    "",
-                    ""
-                ]
-            }
-        ]
-    },
+    "skit_portal": [
+        {
+            "skit_adv_id_list": [
+                100071
+            ]
+        }
+    ],
     "transaction_id": "user_data",
-    "event_term_start": 1600225200000,
-    "server_time": 1600651632388,
+    "event_term_start": 1602644400000,
+    "server_time": 1602663070450,
     "l2d_character": "live2d/AC_shion01",
     "main_mission": "user_data",
+    "banner_list": [
+        {
+            "img_name": "home_bnr_0001",
+            "dbg_name": "イベント特効ガチャ",
+            "id": 10002,
+            "priority": 9999,
+            "url": "",
+            "target": {
+                "view": "ガチャへ",
+                "val3": 0,
+                "val2": 0,
+                "val1": 0,
+                "id": 207
+            }
+        },
+        {
+            "img_name": "home_bnr_0003",
+            "dbg_name": "魔術師討伐イベント",
+            "id": 10003,
+            "priority": 9998,
+            "url": "",
+            "target": {
+                "view": "イベントへ",
+                "val3": 0,
+                "val2": 0,
+                "val1": 0,
+                "id": 2005
+            }
+        },
+        {
+            "img_name": "home_bnr_0000",
+            "dbg_name": "お知らせ一覧",
+            "id": 10001,
+            "priority": 1,
+            "url": "",
+            "target": {
+                "view": "お知らせ一覧へ",
+                "val3": 0,
+                "val2": 0,
+                "val1": 0,
+                "id": 102
+            }
+        }
+    ],
+    "campaign_target": {
+        "adventure": 0,
+        "quest": 0
+    },
     "stamina": [
         {
             "val": "user_data",
@@ -137,6 +84,114 @@
         }
     ],
     "event_portal_list": [
+        {
+            "now_portal_prize_id": 3001001,
+            "link": "https://re-zero-rezelos.jp/info/webview/info/detail/000169FkuIc5qcBE.html#btnoff",
+            "description": "魔術師討伐イベントログインボーナス",
+            "priority": 1004,
+            "is_receipt": false,
+            "event_portal_prize": [
+                {
+                    "sheet_num": 1,
+                    "day_num": 1,
+                    "id": 3001001,
+                    "prize_list": [
+                        {
+                            "prize_id": 40103,
+                            "num": 100,
+                            "type": 3
+                        }
+                    ],
+                    "next_id": 3001002
+                },
+                {
+                    "sheet_num": 1,
+                    "day_num": 2,
+                    "id": 3001002,
+                    "prize_list": [
+                        {
+                            "prize_id": 1,
+                            "num": 100,
+                            "type": 8
+                        }
+                    ],
+                    "next_id": 3001003
+                },
+                {
+                    "sheet_num": 1,
+                    "day_num": 3,
+                    "id": 3001003,
+                    "prize_list": [
+                        {
+                            "prize_id": 1,
+                            "num": 100,
+                            "type": 8
+                        }
+                    ],
+                    "next_id": 3001004
+                },
+                {
+                    "sheet_num": 1,
+                    "day_num": 4,
+                    "id": 3001004,
+                    "prize_list": [
+                        {
+                            "prize_id": 1,
+                            "num": 100,
+                            "type": 8
+                        }
+                    ],
+                    "next_id": 3001005
+                },
+                {
+                    "sheet_num": 1,
+                    "day_num": 5,
+                    "id": 3001005,
+                    "prize_list": [
+                        {
+                            "prize_id": 1,
+                            "num": 100,
+                            "type": 8
+                        }
+                    ],
+                    "next_id": 3001006
+                },
+                {
+                    "sheet_num": 1,
+                    "day_num": 6,
+                    "id": 3001006,
+                    "prize_list": [
+                        {
+                            "prize_id": 1,
+                            "num": 100,
+                            "type": 8
+                        }
+                    ],
+                    "next_id": 3001007
+                },
+                {
+                    "sheet_num": 1,
+                    "day_num": 7,
+                    "id": 3001007,
+                    "prize_list": [
+                        {
+                            "prize_id": 1,
+                            "num": 100,
+                            "type": 8
+                        }
+                    ],
+                    "next_id": 0
+                }
+            ],
+            "img_name": "lgb_bnr_0009",
+            "receive_type": 1,
+            "term_start": 1602644400000,
+            "name": "魔術師討伐イベントログインボーナス",
+            "is_badge": true,
+            "term_end": 1603421999000,
+            "id": 30010,
+            "category": 3
+        },
         {
             "now_portal_prize_id": 3000701,
             "link": "https://re-zero-rezelos.jp/info/webview/info/detail/000114NstC9zcP.html#btnoff",
@@ -664,7 +719,7 @@
             "now_portal_prize_id": 0,
             "name": "アリーナシーズン結果",
             "link": "",
-            "description": "シーズン1",
+            "description": "シーズン2",
             "is_badge": false,
             "id": 10001,
             "category": 8,
@@ -685,23 +740,23 @@
             "priority": 21
         },
         {
-            "img_name": "gch_bnr_event_0011_01",
+            "img_name": "gch_bnr_event_0013_01",
             "receive_type": 0,
-            "term_start": 1601434800000,
+            "term_start": 1602644400000,
             "name": "イベント特効ガチャ",
             "link": "",
-            "description": "イベント特効ガチャでは\n「エルザ討伐イベント」での勲章取得量の倍率がアップする【小悪魔の本気】フェリス★３や\n[記憶結晶]一杯付き合わないか★３が登場！！",
-            "is_badge": false,
-            "term_end": 1602039599000,
-            "id": 50018,
+            "description": "イベント特効ガチャでは\n「魔術師討伐イベント」での勲章取得量の倍率がアップする【お気に入りの仮装】ベアトリス★３や\n[記憶結晶]にーちゃとの蜜月★３が登場！！",
+            "is_badge": true,
+            "term_end": 1603421999000,
+            "id": 50025,
             "category": 6,
-            "priority": 22,
+            "priority": 28,
             "target": {
-                "view": "ガチャへ",
+                "view": "ホームへ",
                 "val3": 0,
                 "val2": 0,
                 "val1": 0,
-                "id": 207
+                "id": 201
             }
         },
         {
@@ -1344,28 +1399,34 @@
     "is_name_change_second": 0,
     "res_code": 0,
     "client_wait": 0,
-    "badge": "user_data",
-    "event_term_end":1602039599000,
-    "event_id":1003,
-    "gacha_push_tm":1601514000185,
+    "badge": {
+        "adventure": "user_data",
+        "mission": "user_data",
+        "home_chara_setting": "user_data",
+        "battle_card": "user_data",
+        "event_portal": "user_data",
+        "gacha": "user_data",
+        "gacha_chara": {
+            "msg": "新ガチャ追加！",
+            "base_id": 11302001
+        },
+        "present": "user_data",
+        "quest": "user_data",
+        "notice": "user_data"
+    },
+    "event_term_end":1603421999000,
+    "event_id":1005,
+    "gacha_push_tm":1602723600450,
     "campaign_info":[
 	{
-            "icon": "ic_boost_02",
-            "term_end": 1602082799000,
-            "bonus_val": "+100%",
-            "is_quest": 0,
-            "target": "育成ダンジョンEXP特訓所SP",
-            "info": "すべてのアイテムドロップが増加"
-        },
-        {
-            "icon":"ic_boost_03",
-            "term_end":1602039599000,
-            "is_quest":1,
-            "target":"討伐イベント",
-            "info":"討伐イベント開催中"
+            "icon": "ic_boost_03",
+            "term_end": 1603421999000,
+            "is_quest": 1,
+            "target": "討伐イベント",
+            "info": "討伐イベント開催中"
         }
     ],
-    "event_name":"エルザ討伐イベント",
+    "event_name":"魔術師討伐イベント",
     "skit": [
         {
         "skit_id": 102,

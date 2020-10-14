@@ -1,9 +1,9 @@
 {
     "transaction_id": "user_data",
-    "server_time": 1602038212055,
-    "socialsv_hash": "2020-10-06 15:09:35 (a20ef51)",
+    "server_time": 1602663040749,
+    "socialsv_hash": "2020-10-13 17:05:12 (551fdcb)",
     "agreement_version": "20200110",
     "res_code": 0,
-    "socialsv_branch": "release/ver100",
+    "socialsv_branch": "release/ver110",
     "client_wait": 0
 }

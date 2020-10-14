@@ -510,6 +510,36 @@
             "is_badge": false,
             "id": 1055,
             "costume_name": "クルシュ（鎧）"
+        },
+        {
+            "favor_level": 1,
+            "character_name": "ロズワール",
+            "character_id": 15,
+            "priority": 46,
+            "favor_point": 0,
+            "need_favor": 10,
+            "filename": "live2d/AC_roswaal_halloween01",
+            "setting_chara": 0,
+            "is_lock": false,
+            "costume_id": 11503,
+            "is_badge": false,
+            "id": 1056,
+            "costume_name": "ロズワール（ハロウィン）"
+        },
+        {
+            "favor_level": 1,
+            "character_name": "ベアトリス",
+            "character_id": 13,
+            "priority": 47,
+            "favor_point": 0,
+            "need_favor": 10,
+            "filename": "live2d/AC_beatrice_halloween01",
+            "setting_chara": 0,
+            "is_lock": false,
+            "costume_id": 11302,
+            "is_badge": false,
+            "id": 1057,
+            "costume_name": "ベアトリス（ハロウィン）"
         }
     ],
     "server_time": "user_data",

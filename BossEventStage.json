@@ -4,10 +4,15 @@
     "server_time": "user_data",
     "stage_list": [
         {
-            "enemy_card_id": 90801012,
-            "stage_id": 500301,
+            "is_today_limit": 0,
+            "clear_count": 0,
+            "stage_id": 500501,
+            "name": "魔術師初級1",
             "enemy_deck_power": 9000,
-            "description": "エルザを倒して勲章を獲得しよう！",
+            "description": "【制限時間10分】魔術師を倒して勲章を獲得しよう！",
+            "is_lock": 0,
+            "progress_status": 1,
+            "campaign_msg": "",
             "prize": {
                 "clear_count_prize_list": [
                     {
@@ -15,17 +20,34 @@
                         "prize_id": 0,
                         "clear_count": 1,
                         "num": 10,
-                        "id": 350030101,
+                        "id": 350050101,
                         "type": 4
                     }
                 ],
-                "lottery_prize_list": [],
+                "lottery_prize_list": [
+                    {
+                        "prize_id_sub": 0,
+                        "prize_id": 12199,
+                        "rate": 50,
+                        "num": 1,
+                        "id": 250050101,
+                        "type": 3
+                    },
+                    {
+                        "prize_id_sub": 0,
+                        "prize_id": 12299,
+                        "rate": 50,
+                        "num": 1,
+                        "id": 250050102,
+                        "type": 3
+                    }
+                ],
                 "fixed_prize_list": [
                     {
                         "prize_id_sub": 0,
-                        "prize_id": 40202,
+                        "prize_id": 40203,
                         "num": 200,
-                        "id": 150030101,
+                        "id": 150050101,
                         "type": 3
                     }
                 ]
@@ -34,19 +56,12 @@
             "scene": {
                 "after_id": 0,
                 "before_id": 0
-            },
-            "is_today_limit": 0,
-            "clear_count": 0,
-            "name": "エルザ初級1",
-            "is_lock": 0,
-            "progress_status": 1,
-            "campaign_msg": ""
+            }
         },
         {
-            "enemy_card_id": 90801012,
-            "stage_id": 500302,
+            "stage_id": 500502,
             "enemy_deck_power": 11000,
-            "description": "エルザを倒して勲章を獲得しよう！",
+            "description": "【制限時間10分】魔術師を倒して勲章を獲得しよう！",
             "prize": {
                 "clear_count_prize_list": [
                     {
@@ -54,17 +69,34 @@
                         "prize_id": 0,
                         "clear_count": 1,
                         "num": 10,
-                        "id": 350030201,
+                        "id": 350050201,
                         "type": 4
                     }
                 ],
-                "lottery_prize_list": [],
+                "lottery_prize_list": [
+                    {
+                        "prize_id_sub": 0,
+                        "prize_id": 12199,
+                        "rate": 50,
+                        "num": 1,
+                        "id": 250050201,
+                        "type": 3
+                    },
+                    {
+                        "prize_id_sub": 0,
+                        "prize_id": 12299,
+                        "rate": 50,
+                        "num": 1,
+                        "id": 250050202,
+                        "type": 3
+                    }
+                ],
                 "fixed_prize_list": [
                     {
                         "prize_id_sub": 0,
-                        "prize_id": 40202,
+                        "prize_id": 40203,
                         "num": 226,
-                        "id": 150030201,
+                        "id": 150050201,
                         "type": 3
                     }
                 ]
@@ -76,16 +108,15 @@
             },
             "is_today_limit": 0,
             "clear_count": 0,
-            "name": "エルザ初級2",
+            "name": "魔術師初級2",
             "is_lock": 0,
             "progress_status": 1,
             "campaign_msg": ""
         },
         {
-            "enemy_card_id": 90801012,
-            "stage_id": 500303,
+            "stage_id": 500503,
             "enemy_deck_power": 12500,
-            "description": "エルザを倒して勲章を獲得しよう！",
+            "description": "【制限時間10分】魔術師を倒して勲章を獲得しよう！",
             "prize": {
                 "clear_count_prize_list": [
                     {
@@ -93,17 +124,34 @@
                         "prize_id": 0,
                         "clear_count": 1,
                         "num": 10,
-                        "id": 350030301,
+                        "id": 350050301,
                         "type": 4
                     }
                 ],
-                "lottery_prize_list": [],
+                "lottery_prize_list": [
+                    {
+                        "prize_id_sub": 0,
+                        "prize_id": 12199,
+                        "rate": 50,
+                        "num": 1,
+                        "id": 250050301,
+                        "type": 3
+                    },
+                    {
+                        "prize_id_sub": 0,
+                        "prize_id": 12299,
+                        "rate": 50,
+                        "num": 1,
+                        "id": 250050302,
+                        "type": 3
+                    }
+                ],
                 "fixed_prize_list": [
                     {
                         "prize_id_sub": 0,
-                        "prize_id": 40202,
+                        "prize_id": 40203,
                         "num": 248,
-                        "id": 150030301,
+                        "id": 150050301,
                         "type": 3
                     }
                 ]
@@ -115,289 +163,15 @@
             },
             "is_today_limit": 0,
             "clear_count": 0,
-            "name": "エルザ初級3",
+            "name": "魔術師初級3",
             "is_lock": 0,
             "progress_status": 1,
             "campaign_msg": ""
         },
         {
-            "enemy_card_id": 90801013,
-            "stage_id": 500304,
-            "enemy_deck_power": 16000,
-            "description": "エルザを倒して勲章を獲得しよう！",
-            "prize": {
-                "clear_count_prize_list": [
-                    {
-                        "prize_id_sub": 0,
-                        "prize_id": 0,
-                        "clear_count": 1,
-                        "num": 10,
-                        "id": 350030401,
-                        "type": 4
-                    }
-                ],
-                "lottery_prize_list": [],
-                "fixed_prize_list": [
-                    {
-                        "prize_id_sub": 0,
-                        "prize_id": 40202,
-                        "num": 270,
-                        "id": 150030401,
-                        "type": 3
-                    }
-                ]
-            },
-            "period_msg": "",
-            "scene": {
-                "after_id": 0,
-                "before_id": 0
-            },
-            "is_today_limit": 0,
-            "clear_count": 0,
-            "name": "エルザ中級1",
-            "is_lock": 0,
-            "progress_status": 1,
-            "campaign_msg": ""
-        },
-        {
-            "enemy_card_id": 90801013,
-            "stage_id": 500305,
-            "enemy_deck_power": 18000,
-            "description": "エルザを倒して勲章を獲得しよう！",
-            "prize": {
-                "clear_count_prize_list": [
-                    {
-                        "prize_id_sub": 0,
-                        "prize_id": 0,
-                        "clear_count": 1,
-                        "num": 10,
-                        "id": 350030501,
-                        "type": 4
-                    }
-                ],
-                "lottery_prize_list": [],
-                "fixed_prize_list": [
-                    {
-                        "prize_id_sub": 0,
-                        "prize_id": 40202,
-                        "num": 300,
-                        "id": 150030501,
-                        "type": 3
-                    }
-                ]
-            },
-            "period_msg": "",
-            "scene": {
-                "after_id": 0,
-                "before_id": 0
-            },
-            "is_today_limit": 0,
-            "clear_count": 0,
-            "name": "エルザ中級2",
-            "is_lock": 0,
-            "progress_status": 1,
-            "campaign_msg": ""
-        },
-        {
-            "enemy_card_id": 90801013,
-            "stage_id": 500306,
-            "enemy_deck_power": 21500,
-            "description": "エルザを倒して勲章を獲得しよう！",
-            "prize": {
-                "clear_count_prize_list": [
-                    {
-                        "prize_id_sub": 0,
-                        "prize_id": 0,
-                        "clear_count": 1,
-                        "num": 10,
-                        "id": 350030601,
-                        "type": 4
-                    }
-                ],
-                "lottery_prize_list": [],
-                "fixed_prize_list": [
-                    {
-                        "prize_id_sub": 0,
-                        "prize_id": 40202,
-                        "num": 315,
-                        "id": 150030601,
-                        "type": 3
-                    }
-                ]
-            },
-            "period_msg": "",
-            "scene": {
-                "after_id": 0,
-                "before_id": 0
-            },
-            "is_today_limit": 0,
-            "clear_count": 0,
-            "name": "エルザ中級3",
-            "is_lock": 0,
-            "progress_status": 1,
-            "campaign_msg": ""
-        },
-        {
-            "enemy_card_id": 90801014,
-            "stage_id": 500307,
-            "enemy_deck_power": 30000,
-            "description": "エルザを倒して勲章を獲得しよう！",
-            "prize": {
-                "clear_count_prize_list": [
-                    {
-                        "prize_id_sub": 0,
-                        "prize_id": 0,
-                        "clear_count": 1,
-                        "num": 10,
-                        "id": 350030701,
-                        "type": 4
-                    }
-                ],
-                "lottery_prize_list": [],
-                "fixed_prize_list": [
-                    {
-                        "prize_id_sub": 0,
-                        "prize_id": 40202,
-                        "num": 337,
-                        "id": 150030701,
-                        "type": 3
-                    }
-                ]
-            },
-            "period_msg": "",
-            "scene": {
-                "after_id": 0,
-                "before_id": 0
-            },
-            "is_today_limit": 0,
-            "clear_count": 0,
-            "name": "エルザ上級1",
-            "is_lock": 0,
-            "progress_status": 3,
-            "campaign_msg": ""
-        },
-        {
-            "enemy_card_id": 90801014,
-            "stage_id": 500308,
-            "enemy_deck_power": 35000,
-            "description": "エルザを倒して勲章を獲得しよう！",
-            "prize": {
-                "clear_count_prize_list": [
-                    {
-                        "prize_id_sub": 0,
-                        "prize_id": 0,
-                        "clear_count": 1,
-                        "num": 10,
-                        "id": 350030801,
-                        "type": 4
-                    }
-                ],
-                "lottery_prize_list": [],
-                "fixed_prize_list": [
-                    {
-                        "prize_id_sub": 0,
-                        "prize_id": 40202,
-                        "num": 359,
-                        "id": 150030801,
-                        "type": 3
-                    }
-                ]
-            },
-            "period_msg": "",
-            "scene": {
-                "after_id": 0,
-                "before_id": 0
-            },
-            "is_today_limit": 0,
-            "clear_count": 0,
-            "name": "エルザ上級2",
-            "is_lock": 0,
-            "progress_status": 1,
-            "campaign_msg": ""
-        },
-        {
-            "enemy_card_id": 90801014,
-            "stage_id": 500309,
-            "enemy_deck_power": 40000,
-            "description": "エルザを倒して勲章を獲得しよう！",
-            "prize": {
-                "clear_count_prize_list": [
-                    {
-                        "prize_id_sub": 0,
-                        "prize_id": 0,
-                        "clear_count": 1,
-                        "num": 10,
-                        "id": 350030901,
-                        "type": 4
-                    }
-                ],
-                "lottery_prize_list": [],
-                "fixed_prize_list": [
-                    {
-                        "prize_id_sub": 0,
-                        "prize_id": 40202,
-                        "num": 381,
-                        "id": 150030901,
-                        "type": 3
-                    }
-                ]
-            },
-            "period_msg": "",
-            "scene": {
-                "after_id": 0,
-                "before_id": 0
-            },
-            "is_today_limit": 0,
-            "clear_count": 0,
-            "name": "エルザ上級3",
-            "is_lock": 0,
-            "progress_status": 1,
-            "campaign_msg": ""
-        },
-        {
-            "enemy_card_id": 90801015,
-            "stage_id": 500310,
-            "enemy_deck_power": 45000,
-            "description": "エルザを倒して勲章を獲得しよう！",
-            "prize": {
-                "clear_count_prize_list": [
-                    {
-                        "prize_id_sub": 0,
-                        "prize_id": 0,
-                        "clear_count": 1,
-                        "num": 10,
-                        "id": 350031001,
-                        "type": 4
-                    }
-                ],
-                "lottery_prize_list": [],
-                "fixed_prize_list": [
-                    {
-                        "prize_id_sub": 0,
-                        "prize_id": 40202,
-                        "num": 400,
-                        "id": 150031001,
-                        "type": 3
-                    }
-                ]
-            },
-            "period_msg": "",
-            "scene": {
-                "after_id": 0,
-                "before_id": 0
-            },
-            "is_today_limit": 0,
-            "clear_count": 0,
-            "name": "エルザ超級",
-            "is_lock": 0,
-            "progress_status": 1,
-            "campaign_msg": ""
-        },
-        {
-            "enemy_card_id": 90801012,
-            "stage_id": 500311,
+            "stage_id": 500504,
             "enemy_deck_power": 12500,
-            "description": "エルザを倒して勲章を獲得しよう！",
+            "description": "【制限時間10分】魔術師を倒して勲章を獲得しよう！",
             "prize": {
                 "clear_count_prize_list": [
                     {
@@ -405,17 +179,26 @@
                         "prize_id": 0,
                         "clear_count": 1,
                         "num": 10,
-                        "id": 350031101,
+                        "id": 350050401,
                         "type": 4
                     }
                 ],
-                "lottery_prize_list": [],
+                "lottery_prize_list": [
+                    {
+                        "prize_id_sub": 0,
+                        "prize_id": 12299,
+                        "rate": 100,
+                        "num": 2,
+                        "id": 250050401,
+                        "type": 3
+                    }
+                ],
                 "fixed_prize_list": [
                     {
                         "prize_id_sub": 0,
-                        "prize_id": 40202,
+                        "prize_id": 40203,
                         "num": 497,
-                        "id": 150031101,
+                        "id": 150050401,
                         "type": 3
                     }
                 ]
@@ -427,16 +210,171 @@
             },
             "is_today_limit": 0,
             "clear_count": 0,
-            "name": "エルザ初級3 SP",
+            "name": "魔術師初級3(周回用)",
             "is_lock": 0,
             "progress_status": 1,
             "campaign_msg": ""
         },
         {
-            "enemy_card_id": 90801013,
-            "stage_id": 500312,
+            "is_today_limit": 0,
+            "clear_count": 0,
+            "stage_id": 500505,
+            "name": "魔術師中級1",
+            "enemy_deck_power": 16000,
+            "description": "【制限時間7分30秒】魔術師を倒して勲章を獲得しよう！",
+            "is_lock": 0,
+            "progress_status": 1,
+            "campaign_msg": "",
+            "prize": {
+                "clear_count_prize_list": [
+                    {
+                        "prize_id_sub": 0,
+                        "prize_id": 0,
+                        "clear_count": 1,
+                        "num": 10,
+                        "id": 350050501,
+                        "type": 4
+                    }
+                ],
+                "lottery_prize_list": [
+                    {
+                        "prize_id_sub": 0,
+                        "prize_id": 3001,
+                        "rate": 20,
+                        "num": 2,
+                        "id": 250050501,
+                        "type": 3
+                    },
+                    {
+                        "prize_id_sub": 0,
+                        "prize_id": 3002,
+                        "rate": 20,
+                        "num": 2,
+                        "id": 250050502,
+                        "type": 3
+                    },
+                    {
+                        "prize_id_sub": 0,
+                        "prize_id": 3003,
+                        "rate": 20,
+                        "num": 2,
+                        "id": 250050503,
+                        "type": 3
+                    },
+                    {
+                        "prize_id_sub": 0,
+                        "prize_id": 3004,
+                        "rate": 20,
+                        "num": 2,
+                        "id": 250050504,
+                        "type": 3
+                    }
+                ],
+                "fixed_prize_list": [
+                    {
+                        "prize_id_sub": 0,
+                        "prize_id": 40203,
+                        "num": 270,
+                        "id": 150050501,
+                        "type": 3
+                    },
+                    {
+                        "prize_id_sub": 0,
+                        "prize_id": 12299,
+                        "num": 1,
+                        "id": 150050502,
+                        "type": 3
+                    }
+                ]
+            },
+            "period_msg": "",
+            "scene": {
+                "after_id": 0,
+                "before_id": 0
+            }
+        },
+        {
+            "stage_id": 500506,
+            "enemy_deck_power": 18000,
+            "description": "【制限時間7分30秒】魔術師を倒して勲章を獲得しよう！",
+            "prize": {
+                "clear_count_prize_list": [
+                    {
+                        "prize_id_sub": 0,
+                        "prize_id": 0,
+                        "clear_count": 1,
+                        "num": 10,
+                        "id": 350050601,
+                        "type": 4
+                    }
+                ],
+                "lottery_prize_list": [
+                    {
+                        "prize_id_sub": 0,
+                        "prize_id": 3001,
+                        "rate": 20,
+                        "num": 2,
+                        "id": 250050601,
+                        "type": 3
+                    },
+                    {
+                        "prize_id_sub": 0,
+                        "prize_id": 3002,
+                        "rate": 20,
+                        "num": 2,
+                        "id": 250050602,
+                        "type": 3
+                    },
+                    {
+                        "prize_id_sub": 0,
+                        "prize_id": 3003,
+                        "rate": 20,
+                        "num": 2,
+                        "id": 250050603,
+                        "type": 3
+                    },
+                    {
+                        "prize_id_sub": 0,
+                        "prize_id": 3004,
+                        "rate": 20,
+                        "num": 2,
+                        "id": 250050604,
+                        "type": 3
+                    }
+                ],
+                "fixed_prize_list": [
+                    {
+                        "prize_id_sub": 0,
+                        "prize_id": 40203,
+                        "num": 300,
+                        "id": 150050601,
+                        "type": 3
+                    },
+                    {
+                        "prize_id_sub": 0,
+                        "prize_id": 12299,
+                        "num": 1,
+                        "id": 150050602,
+                        "type": 3
+                    }
+                ]
+            },
+            "period_msg": "",
+            "scene": {
+                "after_id": 0,
+                "before_id": 0
+            },
+            "is_today_limit": 0,
+            "clear_count": 0,
+            "name": "魔術師中級2",
+            "is_lock": 0,
+            "progress_status": 1,
+            "campaign_msg": ""
+        },
+        {
+            "stage_id": 500507,
             "enemy_deck_power": 21500,
-            "description": "エルザを倒して勲章を獲得しよう！",
+            "description": "【制限時間7分30秒】魔術師を倒して勲章を獲得しよう！",
             "prize": {
                 "clear_count_prize_list": [
                     {
@@ -444,17 +382,135 @@
                         "prize_id": 0,
                         "clear_count": 1,
                         "num": 10,
-                        "id": 350031201,
+                        "id": 350050701,
                         "type": 4
                     }
                 ],
-                "lottery_prize_list": [],
+                "lottery_prize_list": [
+                    {
+                        "prize_id_sub": 0,
+                        "prize_id": 3001,
+                        "rate": 20,
+                        "num": 2,
+                        "id": 250050701,
+                        "type": 3
+                    },
+                    {
+                        "prize_id_sub": 0,
+                        "prize_id": 3002,
+                        "rate": 20,
+                        "num": 2,
+                        "id": 250050702,
+                        "type": 3
+                    },
+                    {
+                        "prize_id_sub": 0,
+                        "prize_id": 3003,
+                        "rate": 20,
+                        "num": 2,
+                        "id": 250050703,
+                        "type": 3
+                    },
+                    {
+                        "prize_id_sub": 0,
+                        "prize_id": 3004,
+                        "rate": 20,
+                        "num": 2,
+                        "id": 250050704,
+                        "type": 3
+                    }
+                ],
                 "fixed_prize_list": [
                     {
                         "prize_id_sub": 0,
-                        "prize_id": 40202,
+                        "prize_id": 40203,
+                        "num": 315,
+                        "id": 150050701,
+                        "type": 3
+                    },
+                    {
+                        "prize_id_sub": 0,
+                        "prize_id": 12299,
+                        "num": 1,
+                        "id": 150050702,
+                        "type": 3
+                    }
+                ]
+            },
+            "period_msg": "",
+            "scene": {
+                "after_id": 0,
+                "before_id": 0
+            },
+            "is_today_limit": 0,
+            "clear_count": 0,
+            "name": "魔術師中級3",
+            "is_lock": 0,
+            "progress_status": 1,
+            "campaign_msg": ""
+        },
+        {
+            "stage_id": 500508,
+            "enemy_deck_power": 21500,
+            "description": "【制限時間7分30秒】魔術師を倒して勲章を獲得しよう！",
+            "prize": {
+                "clear_count_prize_list": [
+                    {
+                        "prize_id_sub": 0,
+                        "prize_id": 0,
+                        "clear_count": 1,
+                        "num": 10,
+                        "id": 350050801,
+                        "type": 4
+                    }
+                ],
+                "lottery_prize_list": [
+                    {
+                        "prize_id_sub": 0,
+                        "prize_id": 3001,
+                        "rate": 20,
+                        "num": 4,
+                        "id": 250050801,
+                        "type": 3
+                    },
+                    {
+                        "prize_id_sub": 0,
+                        "prize_id": 3002,
+                        "rate": 20,
+                        "num": 4,
+                        "id": 250050802,
+                        "type": 3
+                    },
+                    {
+                        "prize_id_sub": 0,
+                        "prize_id": 3003,
+                        "rate": 20,
+                        "num": 4,
+                        "id": 250050803,
+                        "type": 3
+                    },
+                    {
+                        "prize_id_sub": 0,
+                        "prize_id": 3004,
+                        "rate": 20,
+                        "num": 4,
+                        "id": 250050804,
+                        "type": 3
+                    }
+                ],
+                "fixed_prize_list": [
+                    {
+                        "prize_id_sub": 0,
+                        "prize_id": 40203,
                         "num": 630,
-                        "id": 150031201,
+                        "id": 150050801,
+                        "type": 3
+                    },
+                    {
+                        "prize_id_sub": 0,
+                        "prize_id": 12299,
+                        "num": 2,
+                        "id": 150050802,
                         "type": 3
                     }
                 ]
@@ -466,16 +522,171 @@
             },
             "is_today_limit": 0,
             "clear_count": 0,
-            "name": "エルザ中級3 SP",
+            "name": "魔術師中級3(周回用)",
             "is_lock": 0,
             "progress_status": 1,
             "campaign_msg": ""
         },
         {
-            "enemy_card_id": 90801014,
-            "stage_id": 500313,
+            "is_today_limit": 0,
+            "clear_count": 0,
+            "stage_id": 500509,
+            "name": "魔術師上級1",
+            "enemy_deck_power": 30000,
+            "description": "【制限時間7分】魔術師を倒して勲章を獲得しよう！",
+            "is_lock": 0,
+            "progress_status": 1,
+            "campaign_msg": "",
+            "prize": {
+                "clear_count_prize_list": [
+                    {
+                        "prize_id_sub": 0,
+                        "prize_id": 0,
+                        "clear_count": 1,
+                        "num": 10,
+                        "id": 350050901,
+                        "type": 4
+                    }
+                ],
+                "lottery_prize_list": [
+                    {
+                        "prize_id_sub": 0,
+                        "prize_id": 3005,
+                        "rate": 20,
+                        "num": 2,
+                        "id": 250050901,
+                        "type": 3
+                    },
+                    {
+                        "prize_id_sub": 0,
+                        "prize_id": 3006,
+                        "rate": 20,
+                        "num": 2,
+                        "id": 250050902,
+                        "type": 3
+                    },
+                    {
+                        "prize_id_sub": 0,
+                        "prize_id": 3007,
+                        "rate": 20,
+                        "num": 2,
+                        "id": 250050903,
+                        "type": 3
+                    },
+                    {
+                        "prize_id_sub": 0,
+                        "prize_id": 3008,
+                        "rate": 20,
+                        "num": 2,
+                        "id": 250050904,
+                        "type": 3
+                    }
+                ],
+                "fixed_prize_list": [
+                    {
+                        "prize_id_sub": 0,
+                        "prize_id": 40203,
+                        "num": 337,
+                        "id": 150050901,
+                        "type": 3
+                    },
+                    {
+                        "prize_id_sub": 0,
+                        "prize_id": 12299,
+                        "num": 1,
+                        "id": 150050902,
+                        "type": 3
+                    }
+                ]
+            },
+            "period_msg": "",
+            "scene": {
+                "after_id": 0,
+                "before_id": 0
+            }
+        },
+        {
+            "stage_id": 500510,
+            "enemy_deck_power": 35000,
+            "description": "【制限時間6分30秒】魔術師を倒して勲章を獲得しよう！",
+            "prize": {
+                "clear_count_prize_list": [
+                    {
+                        "prize_id_sub": 0,
+                        "prize_id": 0,
+                        "clear_count": 1,
+                        "num": 10,
+                        "id": 350051001,
+                        "type": 4
+                    }
+                ],
+                "lottery_prize_list": [
+                    {
+                        "prize_id_sub": 0,
+                        "prize_id": 3005,
+                        "rate": 20,
+                        "num": 2,
+                        "id": 250051001,
+                        "type": 3
+                    },
+                    {
+                        "prize_id_sub": 0,
+                        "prize_id": 3006,
+                        "rate": 20,
+                        "num": 2,
+                        "id": 250051002,
+                        "type": 3
+                    },
+                    {
+                        "prize_id_sub": 0,
+                        "prize_id": 3007,
+                        "rate": 20,
+                        "num": 2,
+                        "id": 250051003,
+                        "type": 3
+                    },
+                    {
+                        "prize_id_sub": 0,
+                        "prize_id": 3008,
+                        "rate": 20,
+                        "num": 2,
+                        "id": 250051004,
+                        "type": 3
+                    }
+                ],
+                "fixed_prize_list": [
+                    {
+                        "prize_id_sub": 0,
+                        "prize_id": 40203,
+                        "num": 359,
+                        "id": 150051001,
+                        "type": 3
+                    },
+                    {
+                        "prize_id_sub": 0,
+                        "prize_id": 12299,
+                        "num": 1,
+                        "id": 150051002,
+                        "type": 3
+                    }
+                ]
+            },
+            "period_msg": "",
+            "scene": {
+                "after_id": 0,
+                "before_id": 0
+            },
+            "is_today_limit": 0,
+            "clear_count": 0,
+            "name": "魔術師上級2",
+            "is_lock": 0,
+            "progress_status": 1,
+            "campaign_msg": ""
+        },
+        {
+            "stage_id": 500511,
             "enemy_deck_power": 40000,
-            "description": "エルザを倒して勲章を獲得しよう！",
+            "description": "【制限時間6分30秒】魔術師を倒して勲章を獲得しよう！",
             "prize": {
                 "clear_count_prize_list": [
                     {
@@ -483,17 +694,57 @@
                         "prize_id": 0,
                         "clear_count": 1,
                         "num": 10,
-                        "id": 350031301,
+                        "id": 350051101,
                         "type": 4
                     }
                 ],
-                "lottery_prize_list": [],
+                "lottery_prize_list": [
+                    {
+                        "prize_id_sub": 0,
+                        "prize_id": 3005,
+                        "rate": 20,
+                        "num": 2,
+                        "id": 250051101,
+                        "type": 3
+                    },
+                    {
+                        "prize_id_sub": 0,
+                        "prize_id": 3006,
+                        "rate": 20,
+                        "num": 2,
+                        "id": 250051102,
+                        "type": 3
+                    },
+                    {
+                        "prize_id_sub": 0,
+                        "prize_id": 3007,
+                        "rate": 20,
+                        "num": 2,
+                        "id": 250051103,
+                        "type": 3
+                    },
+                    {
+                        "prize_id_sub": 0,
+                        "prize_id": 3008,
+                        "rate": 20,
+                        "num": 2,
+                        "id": 250051104,
+                        "type": 3
+                    }
+                ],
                 "fixed_prize_list": [
                     {
                         "prize_id_sub": 0,
-                        "prize_id": 40202,
-                        "num": 762,
-                        "id": 150031301,
+                        "prize_id": 40203,
+                        "num": 381,
+                        "id": 150051101,
+                        "type": 3
+                    },
+                    {
+                        "prize_id_sub": 0,
+                        "prize_id": 12299,
+                        "num": 1,
+                        "id": 150051102,
                         "type": 3
                     }
                 ]
@@ -505,16 +756,15 @@
             },
             "is_today_limit": 0,
             "clear_count": 0,
-            "name": "エルザ上級3 SP",
+            "name": "魔術師上級3",
             "is_lock": 0,
             "progress_status": 1,
             "campaign_msg": ""
         },
         {
-            "enemy_card_id": 90801015,
-            "stage_id": 500314,
-            "enemy_deck_power": 45000,
-            "description": "エルザを倒して勲章を獲得しよう！",
+            "stage_id": 500512,
+            "enemy_deck_power": 40000,
+            "description": "【制限時間6分30秒】魔術師を倒して勲章を獲得しよう！",
             "prize": {
                 "clear_count_prize_list": [
                     {
@@ -522,17 +772,57 @@
                         "prize_id": 0,
                         "clear_count": 1,
                         "num": 10,
-                        "id": 350031401,
+                        "id": 350051201,
                         "type": 4
                     }
                 ],
-                "lottery_prize_list": [],
+                "lottery_prize_list": [
+                    {
+                        "prize_id_sub": 0,
+                        "prize_id": 3005,
+                        "rate": 20,
+                        "num": 4,
+                        "id": 250051201,
+                        "type": 3
+                    },
+                    {
+                        "prize_id_sub": 0,
+                        "prize_id": 3006,
+                        "rate": 20,
+                        "num": 4,
+                        "id": 250051202,
+                        "type": 3
+                    },
+                    {
+                        "prize_id_sub": 0,
+                        "prize_id": 3007,
+                        "rate": 20,
+                        "num": 4,
+                        "id": 250051203,
+                        "type": 3
+                    },
+                    {
+                        "prize_id_sub": 0,
+                        "prize_id": 3008,
+                        "rate": 20,
+                        "num": 4,
+                        "id": 250051204,
+                        "type": 3
+                    }
+                ],
                 "fixed_prize_list": [
                     {
                         "prize_id_sub": 0,
-                        "prize_id": 40202,
-                        "num": 800,
-                        "id": 150031401,
+                        "prize_id": 40203,
+                        "num": 762,
+                        "id": 150051201,
+                        "type": 3
+                    },
+                    {
+                        "prize_id_sub": 0,
+                        "prize_id": 12299,
+                        "num": 2,
+                        "id": 150051202,
                         "type": 3
                     }
                 ]
@@ -544,17 +834,252 @@
             },
             "is_today_limit": 0,
             "clear_count": 0,
-            "name": "エルザ超級 SP",
+            "name": "魔術師上級3(周回用)",
+            "is_lock": 0,
+            "progress_status": 1,
+            "campaign_msg": ""
+        },
+        {
+            "stage_id": 500513,
+            "enemy_deck_power": 45000,
+            "description": "【制限時間5分】魔術師を倒して勲章を獲得しよう！",
+            "prize": {
+                "clear_count_prize_list": [
+                    {
+                        "prize_id_sub": 0,
+                        "prize_id": 0,
+                        "clear_count": 1,
+                        "num": 10,
+                        "id": 350051301,
+                        "type": 4
+                    }
+                ],
+                "lottery_prize_list": [
+                    {
+                        "prize_id_sub": 0,
+                        "prize_id": 3009,
+                        "rate": 20,
+                        "num": 2,
+                        "id": 250051301,
+                        "type": 3
+                    },
+                    {
+                        "prize_id_sub": 0,
+                        "prize_id": 3010,
+                        "rate": 20,
+                        "num": 2,
+                        "id": 250051302,
+                        "type": 3
+                    },
+                    {
+                        "prize_id_sub": 0,
+                        "prize_id": 3011,
+                        "rate": 20,
+                        "num": 2,
+                        "id": 250051303,
+                        "type": 3
+                    },
+                    {
+                        "prize_id_sub": 0,
+                        "prize_id": 3012,
+                        "rate": 20,
+                        "num": 2,
+                        "id": 250051304,
+                        "type": 3
+                    }
+                ],
+                "fixed_prize_list": [
+                    {
+                        "prize_id_sub": 0,
+                        "prize_id": 40203,
+                        "num": 400,
+                        "id": 150051301,
+                        "type": 3
+                    },
+                    {
+                        "prize_id_sub": 0,
+                        "prize_id": 12299,
+                        "num": 1,
+                        "id": 150051302,
+                        "type": 3
+                    }
+                ]
+            },
+            "period_msg": "",
+            "scene": {
+                "after_id": 0,
+                "before_id": 0
+            },
+            "is_today_limit": 0,
+            "clear_count": 0,
+            "name": "魔術師超級1",
+            "is_lock": 0,
+            "progress_status": 1,
+            "campaign_msg": ""
+        },
+        {
+            "stage_id": 500514,
+            "enemy_deck_power": 45000,
+            "description": "【制限時間5分】魔術師を倒して勲章を獲得しよう！",
+            "prize": {
+                "clear_count_prize_list": [
+                    {
+                        "prize_id_sub": 0,
+                        "prize_id": 0,
+                        "clear_count": 1,
+                        "num": 10,
+                        "id": 350051401,
+                        "type": 4
+                    }
+                ],
+                "lottery_prize_list": [
+                    {
+                        "prize_id_sub": 0,
+                        "prize_id": 3009,
+                        "rate": 20,
+                        "num": 4,
+                        "id": 250051401,
+                        "type": 3
+                    },
+                    {
+                        "prize_id_sub": 0,
+                        "prize_id": 3010,
+                        "rate": 20,
+                        "num": 4,
+                        "id": 250051402,
+                        "type": 3
+                    },
+                    {
+                        "prize_id_sub": 0,
+                        "prize_id": 3011,
+                        "rate": 20,
+                        "num": 4,
+                        "id": 250051403,
+                        "type": 3
+                    },
+                    {
+                        "prize_id_sub": 0,
+                        "prize_id": 3012,
+                        "rate": 20,
+                        "num": 4,
+                        "id": 250051404,
+                        "type": 3
+                    }
+                ],
+                "fixed_prize_list": [
+                    {
+                        "prize_id_sub": 0,
+                        "prize_id": 40203,
+                        "num": 800,
+                        "id": 150051401,
+                        "type": 3
+                    },
+                    {
+                        "prize_id_sub": 0,
+                        "prize_id": 12299,
+                        "num": 2,
+                        "id": 150051402,
+                        "type": 3
+                    }
+                ]
+            },
+            "period_msg": "",
+            "scene": {
+                "after_id": 0,
+                "before_id": 0
+            },
+            "is_today_limit": 0,
+            "clear_count": 0,
+            "name": "魔術師超級1(周回用)",
+            "is_lock": 0,
+            "progress_status": 1,
+            "campaign_msg": ""
+        },
+        {
+            "stage_id": 500515,
+            "enemy_deck_power": 45000,
+            "description": "【制限時間3分】魔術師を倒して勲章を獲得しよう！",
+            "prize": {
+                "clear_count_prize_list": [
+                    {
+                        "prize_id_sub": 0,
+                        "prize_id": 0,
+                        "clear_count": 1,
+                        "num": 100,
+                        "id": 350051501,
+                        "type": 4
+                    }
+                ],
+                "lottery_prize_list": [
+                    {
+                        "prize_id_sub": 0,
+                        "prize_id": 3009,
+                        "rate": 20,
+                        "num": 2,
+                        "id": 250051501,
+                        "type": 3
+                    },
+                    {
+                        "prize_id_sub": 0,
+                        "prize_id": 3010,
+                        "rate": 20,
+                        "num": 2,
+                        "id": 250051502,
+                        "type": 3
+                    },
+                    {
+                        "prize_id_sub": 0,
+                        "prize_id": 3011,
+                        "rate": 20,
+                        "num": 2,
+                        "id": 250051503,
+                        "type": 3
+                    },
+                    {
+                        "prize_id_sub": 0,
+                        "prize_id": 3012,
+                        "rate": 20,
+                        "num": 2,
+                        "id": 250051504,
+                        "type": 3
+                    }
+                ],
+                "fixed_prize_list": [
+                    {
+                        "prize_id_sub": 0,
+                        "prize_id": 40203,
+                        "num": 400,
+                        "id": 150051501,
+                        "type": 3
+                    },
+                    {
+                        "prize_id_sub": 0,
+                        "prize_id": 12299,
+                        "num": 1,
+                        "id": 150051502,
+                        "type": 3
+                    }
+                ]
+            },
+            "period_msg": "",
+            "scene": {
+                "after_id": 0,
+                "before_id": 0
+            },
+            "is_today_limit": 0,
+            "clear_count": 0,
+            "name": "魔術師超級チャレンジ",
             "is_lock": 0,
             "progress_status": 1,
             "campaign_msg": ""
         }
     ],
+    "defeat_dialog": 0,
     "user_data": "user_data",
     "sp_stage_list": [
         {
-            "enemy_card_id": 97601104,
-            "stage_id": 500401,
+            "enemy_card_id": 97601107,
+            "stage_id": 500601,
             "enemy_deck_power": 12500,
             "description": "レアクリスタルを倒して大量の勲章を獲得しよう！！！",
             "prize": {
@@ -564,17 +1089,57 @@
                         "prize_id": 0,
                         "clear_count": 1,
                         "num": 10,
-                        "id": 350040101,
+                        "id": 350060101,
                         "type": 4
                     }
                 ],
-                "lottery_prize_list": [],
+                "lottery_prize_list": [
+                    {
+                        "prize_id_sub": 0,
+                        "prize_id": 3001,
+                        "rate": 20,
+                        "num": 4,
+                        "id": 250060101,
+                        "type": 3
+                    },
+                    {
+                        "prize_id_sub": 0,
+                        "prize_id": 3002,
+                        "rate": 20,
+                        "num": 4,
+                        "id": 250060102,
+                        "type": 3
+                    },
+                    {
+                        "prize_id_sub": 0,
+                        "prize_id": 3003,
+                        "rate": 20,
+                        "num": 4,
+                        "id": 250060103,
+                        "type": 3
+                    },
+                    {
+                        "prize_id_sub": 0,
+                        "prize_id": 3004,
+                        "rate": 20,
+                        "num": 4,
+                        "id": 250060104,
+                        "type": 3
+                    }
+                ],
                 "fixed_prize_list": [
                     {
                         "prize_id_sub": 0,
-                        "prize_id": 40202,
+                        "prize_id": 40203,
                         "num": 1000,
-                        "id": 150040101,
+                        "id": 150060101,
+                        "type": 3
+                    },
+                    {
+                        "prize_id_sub": 0,
+                        "prize_id": 12299,
+                        "num": 2,
+                        "id": 150060102,
                         "type": 3
                     }
                 ]
@@ -592,8 +1157,8 @@
             "campaign_msg": ""
         },
         {
-            "enemy_card_id": 97601105,
-            "stage_id": 500402,
+            "enemy_card_id": 97601108,
+            "stage_id": 500602,
             "enemy_deck_power": 21500,
             "description": "レアクリスタルを倒して大量の勲章を獲得しよう！！！",
             "prize": {
@@ -603,17 +1168,57 @@
                         "prize_id": 0,
                         "clear_count": 1,
                         "num": 10,
-                        "id": 350040201,
+                        "id": 350060201,
                         "type": 4
                     }
                 ],
-                "lottery_prize_list": [],
+                "lottery_prize_list": [
+                    {
+                        "prize_id_sub": 0,
+                        "prize_id": 3005,
+                        "rate": 20,
+                        "num": 4,
+                        "id": 250060101,
+                        "type": 3
+                    },
+                    {
+                        "prize_id_sub": 0,
+                        "prize_id": 3006,
+                        "rate": 20,
+                        "num": 4,
+                        "id": 250060102,
+                        "type": 3
+                    },
+                    {
+                        "prize_id_sub": 0,
+                        "prize_id": 3007,
+                        "rate": 20,
+                        "num": 4,
+                        "id": 250060103,
+                        "type": 3
+                    },
+                    {
+                        "prize_id_sub": 0,
+                        "prize_id": 3008,
+                        "rate": 20,
+                        "num": 4,
+                        "id": 250060104,
+                        "type": 3
+                    }
+                ],
                 "fixed_prize_list": [
                     {
                         "prize_id_sub": 0,
-                        "prize_id": 40202,
+                        "prize_id": 40203,
                         "num": 1500,
-                        "id": 150040201,
+                        "id": 150060201,
+                        "type": 3
+                    },
+                    {
+                        "prize_id_sub": 0,
+                        "prize_id": 12299,
+                        "num": 2,
+                        "id": 150060202,
                         "type": 3
                     }
                 ]
@@ -631,8 +1236,8 @@
             "campaign_msg": ""
         },
         {
-            "enemy_card_id": 97601106,
-            "stage_id": 500403,
+            "enemy_card_id": 97601109,
+            "stage_id": 500603,
             "enemy_deck_power": 35000,
             "description": "レアクリスタルを倒して大量の勲章を獲得しよう！！！",
             "prize": {
@@ -642,17 +1247,57 @@
                         "prize_id": 0,
                         "clear_count": 1,
                         "num": 10,
-                        "id": 350040301,
+                        "id": 350060301,
                         "type": 4
                     }
                 ],
-                "lottery_prize_list": [],
+                "lottery_prize_list": [
+                    {
+                        "prize_id_sub": 0,
+                        "prize_id": 3009,
+                        "rate": 20,
+                        "num": 4,
+                        "id": 250060301,
+                        "type": 3
+                    },
+                    {
+                        "prize_id_sub": 0,
+                        "prize_id": 3010,
+                        "rate": 20,
+                        "num": 4,
+                        "id": 250060302,
+                        "type": 3
+                    },
+                    {
+                        "prize_id_sub": 0,
+                        "prize_id": 3011,
+                        "rate": 20,
+                        "num": 4,
+                        "id": 250060303,
+                        "type": 3
+                    },
+                    {
+                        "prize_id_sub": 0,
+                        "prize_id": 3012,
+                        "rate": 20,
+                        "num": 4,
+                        "id": 250060304,
+                        "type": 3
+                    }
+                ],
                 "fixed_prize_list": [
                     {
                         "prize_id_sub": 0,
-                        "prize_id": 40202,
+                        "prize_id": 40203,
                         "num": 2000,
-                        "id": 150040301,
+                        "id": 150060301,
+                        "type": 3
+                    },
+                    {
+                        "prize_id_sub": 0,
+                        "prize_id": 12299,
+                        "num": 2,
+                        "id": 150060302,
                         "type": 3
                     }
                 ]

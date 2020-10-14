@@ -573,7 +573,122 @@
                 }
             ],
             "present_text": "TVアニメ放送記念ログインボーナス"
-        }
+        },
+        {
+            "present_id": 90031261984,
+            "get_time": 1602247254000,
+            "prize_list": [
+                {
+                    "ticket_num": 0,
+                    "prize_id_sub": 0,
+                    "prize_id": 0,
+                    "num": 1000,
+                    "val_b": 0,
+                    "piece_num": 0,
+                    "val_type": 0,
+                    "type": 4,
+                    "is_duplicate": 0,
+                    "val_a": 0
+                }
+            ],
+            "present_text": "サービス開始1ヵ月<br>記念プレゼント！"
+        },
+        {
+            "present_id": 90032758633,
+            "get_time": 1602659437000,
+            "prize_list": [
+                {
+                    "ticket_num": 0,
+                    "prize_id_sub": 0,
+                    "prize_id": 3005,
+                    "num": 100,
+                    "val_b": 0,
+                    "piece_num": 0,
+                    "val_type": 0,
+                    "type": 3,
+                    "is_duplicate": 0,
+                    "val_a": 0
+                }
+            ],
+            "present_text": "メモリーボード開放の消費アイテム不備のお詫び"
+        },
+        {
+            "present_id": 90032758634,
+            "get_time": 1602659437000,
+            "prize_list": [
+                {
+                    "ticket_num": 0,
+                    "prize_id_sub": 0,
+                    "prize_id": 3005,
+                    "num": 100,
+                    "val_b": 0,
+                    "piece_num": 0,
+                    "val_type": 0,
+                    "type": 3,
+                    "is_duplicate": 0,
+                    "val_a": 0
+                }
+            ],
+            "present_text": "メモリーボード開放の消費アイテム不備のお詫び"
+        },
+        {
+            "present_id": 90032834649,
+            "get_time": 1602663068000,
+            "prize_list": [
+                {
+                    "ticket_num": 0,
+                    "prize_id_sub": 0,
+                    "prize_id": 1501,
+                    "num": 500,
+                    "val_b": 0,
+                    "piece_num": 0,
+                    "val_type": 0,
+                    "type": 3,
+                    "is_duplicate": 0,
+                    "val_a": 0
+                }
+            ],
+            "present_text": "リリース１ヶ月記念緊急特番<br>5000 RT 達成"
+        },
+        {
+            "present_id": 90032834650,
+            "get_time": 1602663068000,
+            "prize_list": [
+                {
+                    "ticket_num": 0,
+                    "prize_id_sub": 0,
+                    "prize_id": 1000,
+                    "num": 10,
+                    "val_b": 0,
+                    "piece_num": 0,
+                    "val_type": 0,
+                    "type": 3,
+                    "is_duplicate": 0,
+                    "val_a": 0
+                }
+            ],
+            "present_text": "リリース１ヶ月記念緊急特番<br>5000 RT 達成"
+        },
+        {
+            "present_id": 90032834697,
+            "get_time": 1602663070000,
+            "present_limit": 1603421999000,
+            "prize_list": [
+                {
+                    "ticket_num": 0,
+                    "prize_id_sub": 0,
+                    "prize_id": 40103,
+                    "num": 100,
+                    "val_b": 0,
+                    "piece_num": 0,
+                    "val_type": 0,
+                    "type": 3,
+                    "is_duplicate": 0,
+                    "val_a": 0
+                }
+            ],
+            "present_text": "魔術師討伐イベントログインボーナス"
+        },
     ],
     "res_code": 0,
     "client_wait": 0
