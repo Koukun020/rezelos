@@ -699,7 +699,7 @@
                 {
                     "rank_point": "user_data",
                     "rank": "user_data",
-                    "term_id": 1,
+                    "term_id": 3,
                     "prize_list": [
                         {
                             "prize_id": 100001,
@@ -719,7 +719,7 @@
             "now_portal_prize_id": 0,
             "name": "アリーナシーズン結果",
             "link": "",
-            "description": "シーズン2",
+            "description": "シーズン3",
             "is_badge": false,
             "id": 10001,
             "category": 8,
@@ -1025,15 +1025,42 @@
         {
             "img_name": "portal_bnr_0003",
             "receive_type": 0,
-            "term_start": 1602428400000,
+            "term_start": 1603033200000,
             "name": "期間限定ミッション",
-            "link": "https://re-zero-rezelos.jp/info/webview/info/detail/000120GAN3aA4i.html#btnoff",
+            "link": "https://re-zero-rezelos.jp/info/webview/info/detail/000121zjk6sD7k.html#btnoff",
             "description": "月曜日限定ミッションをクリアして\nアイテムをゲットしよう！\n詳しくは↓のボタンをタップ！",
             "is_badge": false,
-            "term_end": 1602514799000,
-            "id": 50022,
+            "term_end": 1603119599000,
+            "id": 50023,
             "category": 4,
-            "priority": 39
+            "priority": 39,
+            "target": {
+                "view": "内容詳細",
+                "val3": 0,
+                "val2": 0,
+                "val1": 0,
+                "id": 0
+            }
+        },
+        {
+            "img_name": "portal_bnr_0014",
+            "receive_type": 0,
+            "term_start": 1603033200000,
+            "name": "技能の祠SPドロップ報酬100%UPキャンペーン",
+            "link": "",
+            "description": "技能の祠SPのドロップ報酬が100%UP！\n大量のスキル素材をゲットしよう！\n*「技能の祠」はキャンペーンの対象外となります。",
+            "is_badge": false,
+            "term_end": 1603637999000,
+            "id": 50026,
+            "category": 4,
+            "priority": 29,
+            "target": {
+                "view": "クエストへ",
+                "val3": 0,
+                "val2": 0,
+                "val1": 0,
+                "id": 2003
+            }
         },
         {
             "now_portal_prize_id": "user_data",
@@ -1416,8 +1443,32 @@
     },
     "event_term_end":1603421999000,
     "event_id":1005,
-    "gacha_push_tm":1602723600450,
+    "gacha_push_tm":1603155600549,
     "campaign_info":[
+        {
+            "icon": "ic_boost_02",
+            "term_end": 1603637999000,
+            "bonus_val": "+100%",
+            "is_quest": 0,
+            "target": "育成ダンジョン技能の祠(エミリア陣営)SP",
+            "info": "すべてのアイテムドロップが増加"
+        },
+        {
+            "icon": "ic_boost_02",
+            "term_end": 1603637999000,
+            "bonus_val": "+100%",
+            "is_quest": 0,
+            "target": "育成ダンジョン技能の祠(アナスタシア陣営)SP",
+            "info": "すべてのアイテムドロップが増加"
+        },
+        {
+            "icon": "ic_boost_02",
+            "term_end": 1603637999000,
+            "bonus_val": "+100%",
+            "is_quest": 0,
+            "target": "育成ダンジョン技能の祠(クルシュ陣営)SP",
+            "info": "すべてのアイテムドロップが増加"
+        },
 	{
             "icon": "ic_boost_03",
             "term_end": 1603421999000,
