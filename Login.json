@@ -2,7 +2,7 @@
     "transaction_id": "user_data",
     "server_time": 1603266910594,
     "safety_net_interval": 24,
-    "user_id": 384419,
+    "user_id": "user_data",
     "basedata_version": [
         {
             "type": "Message",
