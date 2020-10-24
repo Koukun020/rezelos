@@ -540,6 +540,22 @@
             "is_badge": false,
             "id": 1057,
             "costume_name": "ベアトリス（ハロウィン）"
+        },
+        {
+            "favor_level": 1,
+            "character_name": "フレデリカ",
+            "unlock_condition": "次のいずれかのキャラクターを獲得する。「【見守る眼差し】フレデリカ」",
+            "character_id": 51,
+            "priority": 48,
+            "favor_point": 0,
+            "need_favor": 10,
+            "filename": "live2d/AC_frederica01",
+            "setting_chara": 0,
+            "is_lock": true,
+            "costume_id": 15101,
+            "is_badge": false,
+            "id": 1058,
+            "costume_name": "フレデリカ"
         }
     ],
     "server_time": "user_data",

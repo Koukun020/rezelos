@@ -1,37 +1,6 @@
 {
     "transaction_id": "user_data",
-    "server_time": 1602663288549,
-    "mission": {
-        "norma": 320,
-        "name": "[魔術師討伐ミッション]\n勲章を累積320個獲得する",
-        "destination": {
-            "view": "イベントへ",
-            "val3": 0,
-            "val2": 0,
-            "val1": 0,
-            "id": 2006
-        },
-        "description": "[魔術師討伐ミッション]\n勲章を累積320個獲得する",
-        "progress": 0,
-        "term_end": 1603681199000,
-        "id": 150050,
-        "type": 1,
-        "prize_list": [
-            {
-                "ticket_num": 0,
-                "prize_id_sub": 0,
-                "prize_id": 0,
-                "num": 150,
-                "val_b": 0,
-                "piece_num": 0,
-                "val_type": 0,
-                "type": 4,
-                "is_duplicate": 0,
-                "val_a": 0
-            }
-        ],
-        "status": 1
-    },
+    "server_time": 1603501465094,
     "how_to_play": {
         "skit_id": 2001,
         "scene_option": "",
@@ -128,7 +97,7 @@
             "val1": 0,
             "id": 209
         },
-        "is_exchang": false,
+        "is_exchang": true,
         "prize_item_up_max": 100,
         "view_end": 1603681199000,
         "term_start": 1602644400000,
