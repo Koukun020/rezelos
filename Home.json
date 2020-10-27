@@ -41,6 +41,20 @@
             }
         },
         {
+            "img_name": "home_bnr_0004",
+            "dbg_name": "アリーナ応援キャンペーン",
+            "id": 10006,
+            "priority": 9995,
+            "url": "",
+            "target": {
+                "view": "アリーナへ",
+                "val3": 0,
+                "val2": 0,
+                "val1": 0,
+                "id": 2004
+            }
+        },
+        {
             "img_name": "home_bnr_0000",
             "dbg_name": "お知らせ一覧",
             "id": 10001,
@@ -1025,13 +1039,13 @@
         {
             "img_name": "portal_bnr_0003",
             "receive_type": 0,
-            "term_start": 1603033200000,
+            "term_start": 1603638000000,
             "name": "期間限定ミッション",
-            "link": "https://re-zero-rezelos.jp/info/webview/info/detail/000121zjk6sD7k.html#btnoff",
+            "link": "https://re-zero-rezelos.jp/info/webview/info/detail/000122TFqUzENI.html#btnoff",
             "description": "月曜日限定ミッションをクリアして\nアイテムをゲットしよう！\n詳しくは↓のボタンをタップ！",
             "is_badge": false,
-            "term_end": 1603119599000,
-            "id": 50023,
+            "term_end": 1603724399000,
+            "id": 50024,
             "category": 4,
             "priority": 39,
             "target": {
@@ -1040,6 +1054,26 @@
                 "val2": 0,
                 "val1": 0,
                 "id": 0
+            }
+        },
+        {
+            "img_name": "portal_bnr_0013",
+            "receive_type": 0,
+            "term_start": 1603638000000,
+            "name": "アリーナ応援キャンペーン",
+            "link": "",
+            "description": "報酬のアリーナメダルが増量！\nこの機会にたくさんアリーナメダルをゲットしよう！",
+            "is_badge": false,
+            "term_end": 1604239200000,
+            "id": 50028,
+            "category": 4,
+            "priority": 31,
+            "target": {
+                "view": "アリーナへ",
+                "val3": 0,
+                "val2": 0,
+                "val1": 0,
+                "id": 2004
             }
         },
         {
@@ -1464,30 +1498,6 @@
     "event_id":0,
     "gacha_push_tm":1603501200794,
     "campaign_info":[
-        {
-            "icon": "ic_boost_02",
-            "term_end": 1603637999000,
-            "bonus_val": "+100%",
-            "is_quest": 0,
-            "target": "育成ダンジョン技能の祠(エミリア陣営)SP",
-            "info": "すべてのアイテムドロップが増加"
-        },
-        {
-            "icon": "ic_boost_02",
-            "term_end": 1603637999000,
-            "bonus_val": "+100%",
-            "is_quest": 0,
-            "target": "育成ダンジョン技能の祠(アナスタシア陣営)SP",
-            "info": "すべてのアイテムドロップが増加"
-        },
-        {
-            "icon": "ic_boost_02",
-            "term_end": 1603637999000,
-            "bonus_val": "+100%",
-            "is_quest": 0,
-            "target": "育成ダンジョン技能の祠(クルシュ陣営)SP",
-            "info": "すべてのアイテムドロップが増加"
-        }
     ],
     "skit": [
         {

@@ -1,7 +1,7 @@
 {
     "transaction_id": "user_data",
     "is_boss_event_unlock": 1,
-    "server_time": 1601450505285,
+    "server_time": 1603784958894,
     "is_extra_battle_unlock": 1,
     "is_arena_unlock": 1,
     "stamina": [
@@ -29,13 +29,6 @@
         }
     ],
     "boss_event": [
-        {
-            "event_id": 1005,
-            "img_name": "evt_bnr_0003_04",
-            "is_create_ranking": 0,
-            "is_badge": 0,
-            "term_end": 1603421999000
-        }
     ],
     "user_data": "user_data",
     "area_list": [
@@ -69,19 +62,19 @@
         "is_campaign_open": 0
     },
     "weekday_battle": {
-        "is_drop_up": 1,
+        "is_drop_up": 0,
         "play_limit": -1,
         "clear_count": 0,
         "is_badge": 0,
         "term_end": 0,
-        "is_campaign_open": 1
+        "is_campaign_open": 0
     },
     "is_weekday_battle_unlock": 1,
     "arena_season": {
-        "reward_start_tm": 1603634399000,
+        "reward_start_tm": 1604239199000,
         "is_badge": 0,
-        "start_tm": 1603080000000,
-        "id": 4,
-        "end_tm": 1603634399000
+        "start_tm": 1603638000000,
+        "id": 5,
+        "end_tm": 1604239199000
     }
 }
