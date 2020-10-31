@@ -1,16 +1,16 @@
 {
     "transaction_id": "user_data",
-    "server_time": 1603266910594,
+    "server_time": 1604048904084,
     "safety_net_interval": 24,
     "user_id": "user_data",
     "basedata_version": [
         {
             "type": "Message",
-            "version": "36e8284d7ab0c36d0c9c48d331bf565a"
+            "version": "90035f0d18237943a5ecace76bb5e0a0"
         },
         {
             "type": "Other",
-            "version": "c3f7d6fca3cb61668cb012f683a147b8"
+            "version": "6e09d5f7c7435c08c98dc426d516c4be"
         },
         {
             "type": "Meteor",
@@ -18,11 +18,11 @@
         },
         {
             "type": "Card",
-            "version": "8d99a29c458cf7de3a71a8f15291978b"
+            "version": "a3e1ee99a7172e9e0968404bfb7f3136"
         },
         {
             "type": "Adv",
-            "version": "2d19d9b5b997e75808641ee87e330941"
+            "version":"bc9d8664abf5d999e4eeb575562682f1"
         }
     ],
     "user_data": "user_data",

@@ -315,6 +315,62 @@
             "category": 3
         },
         {
+            "now_portal_prize_id": 3001201,
+            "link": "https://re-zero-rezelos.jp/info/webview/info/detail/000190d68FHmo2LB.html#btnoff",
+            "description": "Re:ゼロから始める異世界生活 2nd season 1\nBlu-ray & DVD 発売記念ログインボーナス",
+            "priority": 1006,
+            "is_receipt": false,
+            "event_portal_prize": [
+                {
+                    "sheet_num": 1,
+                    "day_num": 1,
+                    "id": 3001201,
+                    "prize_list": [
+                        {
+                            "prize_id": 0,
+                            "num": 100,
+                            "type": 4
+                        }
+                    ],
+                    "next_id": 3001202
+                },
+                {
+                    "sheet_num": 1,
+                    "day_num": 2,
+                    "id": 3001202,
+                    "prize_list": [
+                        {
+                            "prize_id": 0,
+                            "num": 100,
+                            "type": 4
+                        }
+                    ],
+                    "next_id": 3001203
+                },
+                {
+                    "sheet_num": 1,
+                    "day_num": 3,
+                    "id": 3001203,
+                    "prize_list": [
+                        {
+                            "prize_id": 0,
+                            "num": 100,
+                            "type": 4
+                        }
+                    ],
+                    "next_id": 0
+                }
+            ],
+            "img_name": "lgb_bnr_0011",
+            "receive_type": 1,
+            "term_start": 1603854000000,
+            "name": "Re:ゼロから始める異世界生活 2nd season 1\nBlu-ray & DVD 発売記念ログインボーナス",
+            "is_badge": false,
+            "term_end": 1604458799000,
+            "id": 30012,
+            "category": 3
+        },
+        {
             "now_portal_prize_id": "user_data",
             "link": "",
             "description": "毎日アイテムが貰えるぞ！\n忘れずログインしよう！",
@@ -733,7 +789,7 @@
             "now_portal_prize_id": 0,
             "name": "アリーナシーズン結果",
             "link": "",
-            "description": "シーズン3",
+            "description": "シーズン4",
             "is_badge": false,
             "id": 10001,
             "category": 8,
