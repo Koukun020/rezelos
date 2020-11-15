@@ -15,10 +15,10 @@
                         }
                     ],
                     "buy_count": 0,
-                    "total_buy_count": "user_data",
+                    "total_buy_count": 1,
                     "limit_term_num": -1,
                     "description": "・購入した有償魔法石は、直接所持数に加算されます。",
-                    "priority": 3,
+                    "priority": 6,
                     "prize": [
                         {
                             "prize_id": 0,
@@ -43,11 +43,36 @@
                     ],
                     "img_name": "",
                     "group_id": 0,
+                    "name": "[1回限定]魔法石34個＋【弾む喜び】レムのかけら50個",
+                    "limit_term_num": 1,
+                    "description": "・購入した有償魔法石は、直接所持数に加算されます。\n・【弾む喜び】レムのかけらは、プレゼントBOXに送られます。",
+                    "id": 10000103,
+                    "priority": 4,
+                    "prize": [
+                        {
+                            "prize_id": 10401002,
+                            "num": 50,
+                            "type": 9
+                        }
+                    ],
+                    "limit_num": -1
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 0,
+                            "num": 0,
+                            "type": 0
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
                     "name": "魔法石 140個",
                     "limit_term_num": -1,
                     "description": "・購入した有償魔法石は、直接所持数に加算されます。",
                     "id": 10000401,
-                    "priority": 4,
+                    "priority": 7,
                     "prize": [
                         {
                             "prize_id": 0,
@@ -56,6 +81,31 @@
                         }
                     ],
                     "limit_num": -1
+                },
+                {
+                    "limit_type": 2,
+                    "cost": [
+                        {
+                            "prize_id": 0,
+                            "num": 0,
+                            "type": 0
+                        }
+                    ],
+                    "img_name": "",
+                    "group_id": 0,
+                    "name": "[月1回限定]魔法石140個＋オマケ精神力3個",
+                    "limit_term_num": -1,
+                    "description": "・購入した有償魔法石は、直接所持数に加算されます。\n・おまけの精神力は、プレゼントBOXに送られます。",
+                    "id": 10000403,
+                    "priority": 3,
+                    "prize": [
+                        {
+                            "prize_id": 2,
+                            "num": 3,
+                            "type": 8
+                        }
+                    ],
+                    "limit_num": 1
                 },
                 {
                     "limit_type": 0,
@@ -72,7 +122,7 @@
                     "limit_term_num": -1,
                     "description": "・購入した有償、無償魔法石は、直接所持数に加算されます。",
                     "id": 10000801,
-                    "priority": 5,
+                    "priority": 8,
                     "prize": [
                         {
                             "prize_id": 0,
@@ -97,7 +147,7 @@
                     "limit_term_num": -1,
                     "description": "・購入した有償、無償魔法石は、直接所持数に加算されます。",
                     "id": 10001201,
-                    "priority": 6,
+                    "priority": 9,
                     "prize": [
                         {
                             "prize_id": 0,
@@ -122,7 +172,7 @@
                     "limit_term_num": -1,
                     "description": "・購入した有償、無償魔法石は、直接所持数に加算されます。\n・「[月4回限定]魔法石 560個＋オマケ350個」は同一月内に4回購入することができます。\n・購入回数は、毎月1日の00:00にリセットされます。",
                     "id": 10001601,
-                    "priority": 1,
+                    "priority": 2,
                     "prize": [
                         {
                             "prize_id": 0,
@@ -147,7 +197,7 @@
                     "limit_term_num": -1,
                     "description": "・購入した有償、無償魔法石は、直接所持数に加算されます。",
                     "id": 10002401,
-                    "priority": 7,
+                    "priority": 10,
                     "prize": [
                         {
                             "prize_id": 0,
@@ -172,7 +222,7 @@
                     "limit_term_num": -1,
                     "description": "・購入した有償、無償魔法石は、直接所持数に加算されます。",
                     "id": 10004001,
-                    "priority": 8,
+                    "priority": 11,
                     "prize": [
                         {
                             "prize_id": 0,
@@ -197,7 +247,7 @@
                     "limit_term_num": -1,
                     "description": "・購入した有償、無償魔法石は、直接所持数に加算されます。",
                     "id": 10005601,
-                    "priority": 9,
+                    "priority": 5,
                     "prize": [
                         {
                             "prize_id": 0,
@@ -222,7 +272,7 @@
                     "limit_term_num": -1,
                     "description": "・購入した有償、無償魔法石は、直接所持数に加算されます。\n・「[月3回限定]魔法石 2,857個＋オマケ2,000個」は同一月内に3回購入することができます。\n・購入回数は、毎月1日の00:00にリセットされます。",
                     "id": 10005602,
-                    "priority": 2,
+                    "priority": 1,
                     "prize": [
                         {
                             "prize_id": 0,
@@ -260,7 +310,7 @@
                     "limit_term_num": 1,
                     "description": "・購入した有償魔法石は、直接所持数に加算されます。\n・「【1回限定】★2以上確定ガチャチケットパック」で購入したチケットは、プレゼントBOXに送られます。\n・「【1回限定】★2以上確定ガチャチケットパック」は1回だけ購入することができます。\n・「★2以上確定ガチャチケット」の使用期限は獲得した日から170日後までになります。",
                     "id": 10010102,
-                    "priority": 1,
+                    "priority": 2,
                     "prize": [
                         {
                             "prize_id": 1010,
@@ -285,7 +335,7 @@
                     "limit_term_num": 1,
                     "description": "・購入した有償魔法石は、直接所持数に加算されます。\n・「【1回限定】★2以上キャラ確定ガチャチケットパック」で購入したチケットは、プレゼントBOXに送られます。\n・「【1回限定】★2以上キャラ確定ガチャチケットパック」は1回だけ購入することができます。\n・「★2以上キャラ確定ガチャチケット」の使用期限は獲得した日から170日後までになります。",
                     "id": 10010402,
-                    "priority": 2,
+                    "priority": 4,
                     "prize": [
                         {
                             "prize_id": 1020,
@@ -304,12 +354,10 @@
                             "type": 0
                         }
                     ],
-                    "img_name": "pck_bnr_0005.png",
-                    "group_id": 500,
-                    "name": "デイリー魔法石パック",
+                    "buy_count": 0,
+                    "total_buy_count": 0,
                     "limit_term_num": -1,
                     "description": "・「デイリー魔法石パック」の購入時に有償魔法石280個を獲得できます。\n・有効期間中、毎日配布される無償魔法石30個はログインボーナスとして受け取れます。\n・有効期間中、ログインしなかった日数分の無償魔法石は獲得することはできません。\n・有効期間は購入日から27日後の23:59までです。\n例）1月1日15:00に購入した場合、1月28日23:59までが有効期間になります。\n・「デイリー魔法石パック」は購入後28日目から再購入することができます。\n※28日目に再購入した場合は翌日の00:00から28日間ログインボーナスが発生します。",
-                    "id": 10010802,
                     "priority": 5,
                     "prize": [
                         {
@@ -318,6 +366,10 @@
                             "type": 0
                         }
                     ],
+                    "img_name": "pck_bnr_0005.png",
+                    "group_id": 500,
+                    "name": "デイリー魔法石パック",
+                    "id": 10010802,
                     "limit_num": 1
                 },
                 {
@@ -336,6 +388,58 @@
                     "description": "・「EXP特訓所SPドロップ報酬100%UPパック」の購入時に有償魔法石280個を獲得できます。\n・通常の「EXP訓練所」は対象外となります\n・有効期間の終了は購入日から27日後の23:59までです。\n例）1月1日15:00に購入した場合、1月28日23:59までが有効期間になります。\n・「EXP特訓所SPドロップ報酬100%UPパック」は購入後28日目から再購入することができます。\n※28日目に再購入した場合は翌日の00:00から28日間が有効期間となります。\n※訓練所SPをプレイ後に購入をしてしまうと、1日分の効果が得られなくなってしまうのでご注意ください",
                     "id": 10010803,
                     "priority": 6,
+                    "prize": [
+                        {
+                            "prize_id": 0,
+                            "num": 0,
+                            "type": 0
+                        }
+                    ],
+                    "limit_num": 1
+                },
+                {
+                    "limit_type": 3,
+                    "cost": [
+                        {
+                            "prize_id": 0,
+                            "num": 0,
+                            "type": 0
+                        }
+                    ],
+                    "img_name": "pck_bnr_0007.png",
+                    "term_start": 1603033200000,
+                    "group_id": 700,
+                    "name": "進化の洞窟SPドロップ報酬100%UPパック",
+                    "limit_term_num": -1,
+                    "description": "・「進化の洞窟SPドロップ報酬100%UPパック」の購入時に有償魔法石280個を獲得できます。\n・通常の「進化の洞窟」は対象外となります\n・有効期間の終了は購入日から27日後の23:59までです。\n例）1月1日15:00に購入した場合、1月28日23:59までが有効期間になります。\n・「進化の洞窟SPドロップ報酬100%UPパック」は購入後28日目から再購入することができます。\n※28日目に再購入した場合は翌日の00:00から28日間が有効期間となります。\n※進化の洞窟SPをプレイ後に購入をしてしまうと、1日分の効果が得られなくなってしまうのでご注意ください",
+                    "id": 10010804,
+                    "priority": 7,
+                    "prize": [
+                        {
+                            "prize_id": 0,
+                            "num": 0,
+                            "type": 0
+                        }
+                    ],
+                    "limit_num": 1
+                },
+                {
+                    "limit_type": 3,
+                    "cost": [
+                        {
+                            "prize_id": 0,
+                            "num": 0,
+                            "type": 0
+                        }
+                    ],
+                    "img_name": "pck_bnr_0008.png",
+                    "term_start": 1603033200000,
+                    "group_id": 800,
+                    "name": "技能の祠SPドロップ報酬100%UPパック",
+                    "limit_term_num": -1,
+                    "description": "・「技能の祠SPドロップ報酬100%UPパック」の購入時に有償魔法石280個を獲得できます。\n・通常の「技能の祠」は対象外となります\n・有効期間の終了は購入日から27日後の23:59までです。\n例）1月1日15:00に購入した場合、1月28日23:59までが有効期間になります。\n・「技能の祠SPドロップ報酬100%UPパック」は購入後28日目から再購入することができます。\n※28日目に再購入した場合は翌日の00:00から28日間が有効期間となります。\n※技能の祠SPをプレイ後に購入をしてしまうと、1日分の効果が得られなくなってしまうのでご注意ください",
+                    "id": 10010805,
+                    "priority": 8,
                     "prize": [
                         {
                             "prize_id": 0,
@@ -385,7 +489,7 @@
                     "limit_term_num": 1,
                     "description": "・購入した有償魔法石は、直接所持数に加算されます。\n・「【1回限定】★3キャラ確定ガチャチケットパック」で購入したチケットは、プレゼントBOXに送られます。\n・「【1回限定】★3キャラ確定ガチャチケットパック」は1回だけ購入することができます。\n・「★3キャラ確定ガチャチケット」の使用期限は獲得した日から170日後までになります。",
                     "id": 10012402,
-                    "priority": 4,
+                    "priority": 1,
                     "prize": [
                         {
                             "prize_id": 1030,
@@ -418,11 +522,12 @@
                         }
                     ],
                     "img_name": "",
+                    "term_start": 1604156400000,
                     "group_id": 0,
-                    "name": "[月2回限定]上限突破の秘薬",
+                    "name": "[月5回限定]上限突破の秘薬",
                     "limit_term_num": -1,
-                    "description": "[月2回限定]上限突破の秘薬",
-                    "id": 10003001,
+                    "description": "[月5回限定]上限突破の秘薬",
+                    "id": 10003002,
                     "priority": 1,
                     "prize": [
                         {
@@ -431,7 +536,7 @@
                             "type": 3
                         }
                     ],
-                    "limit_num": 2
+                    "limit_num": 5
                 }
             ],
             "name": "アイテム交換",
@@ -2245,162 +2350,162 @@
                     "limit_type": 0,
                     "cost": [
                         {
-                            "prize_id": 1506,
+                            "prize_id": 1510,
                             "num": 300,
                             "type": 3
                         }
                     ],
                     "limit_term_num": -1,
                     "description": "期間限定ガチャポイント交換",
-                    "priority": 9,
+                    "priority": 24,
                     "prize": [
                         {
-                            "prize_id": 11501001,
+                            "prize_id": 15101001,
                             "num": 1,
                             "type": 1
                         }
                     ],
                     "img_name": "",
-                    "term_start": 1600182000000,
+                    "term_start": 1603422000000,
                     "group_id": 0,
-                    "name": "【辺境伯の実力】ロズワール",
-                    "term_end": 1601045999000,
-                    "id": 30005004,
+                    "name": "【見守る眼差し】フレデリカ",
+                    "term_end": 1604372399000,
+                    "id": 30005024,
                     "limit_num": -1
                 },
                 {
                     "limit_type": 0,
                     "cost": [
                         {
-                            "prize_id": 1506,
+                            "prize_id": 1510,
                             "num": 3,
                             "type": 3
                         }
                     ],
                     "limit_term_num": -1,
                     "description": "期間限定ガチャポイント交換",
-                    "priority": 10,
+                    "priority": 25,
                     "prize": [
                         {
-                            "prize_id": 11501001,
+                            "prize_id": 15101001,
                             "num": 1,
                             "type": 9
                         }
                     ],
                     "img_name": "",
-                    "term_start": 1600182000000,
+                    "term_start": 1603422000000,
                     "group_id": 0,
-                    "name": "【辺境伯の実力】ロズワールのかけら",
-                    "term_end": 1601045999000,
-                    "id": 30005005,
+                    "name": "【見守る眼差し】フレデリカのかけら",
+                    "term_end": 1604372399000,
+                    "id": 30005025,
                     "limit_num": -1
                 },
                 {
                     "limit_type": 0,
                     "cost": [
                         {
-                            "prize_id": 1506,
+                            "prize_id": 1510,
                             "num": 150,
                             "type": 3
                         }
                     ],
                     "limit_term_num": -1,
                     "description": "期間限定ガチャポイント交換",
-                    "priority": 11,
+                    "priority": 26,
                     "prize": [
                         {
-                            "prize_id": 50100160,
+                            "prize_id": 50100170,
                             "num": 1,
                             "type": 2
                         }
                     ],
                     "img_name": "",
-                    "term_start": 1600182000000,
+                    "term_start": 1603422000000,
                     "group_id": 0,
-                    "name": "浴場での主従関係?",
-                    "term_end": 1601045999000,
-                    "id": 30005006,
+                    "name": "包丁使いはまるでダメ",
+                    "term_end": 1604372399000,
+                    "id": 30005026,
                     "limit_num": -1
                 },
                 {
                     "limit_type": 0,
                     "cost": [
                         {
-                            "prize_id": 1504,
+                            "prize_id": 1511,
                             "num": 300,
                             "type": 3
                         }
                     ],
                     "limit_term_num": -1,
                     "description": "期間限定ガチャポイント交換",
-                    "priority": 4,
+                    "priority": 27,
                     "prize": [
                         {
-                            "prize_id": 10402001,
+                            "prize_id": 13102001,
                             "num": 1,
                             "type": 1
                         }
                     ],
                     "img_name": "",
-                    "term_start": 1600225200000,
+                    "term_start": 1604113200000,
                     "group_id": 0,
-                    "name": "【殺戮の鬼少女】レム",
-                    "term_end": 1601089199000,
-                    "id": 30005007,
+                    "name": "【メイドさんデイズ】ペトラ",
+                    "term_end": 1605149999000,
+                    "id": 30005027,
                     "limit_num": -1
                 },
                 {
                     "limit_type": 0,
                     "cost": [
                         {
-                            "prize_id": 1504,
+                            "prize_id": 1511,
                             "num": 3,
                             "type": 3
                         }
                     ],
                     "limit_term_num": -1,
                     "description": "期間限定ガチャポイント交換",
-                    "priority": 5,
+                    "priority": 28,
                     "prize": [
                         {
-                            "prize_id": 10402001,
+                            "prize_id": 13102001,
                             "num": 1,
                             "type": 9
                         }
                     ],
                     "img_name": "",
-                    "term_start": 1600225200000,
+                    "term_start": 1604113200000,
                     "group_id": 0,
-                    "name": "【殺戮の鬼少女】レムのかけら",
-                    "term_end": 1601089199000,
-                    "id": 30005008,
+                    "name": "【メイドさんデイズ】ペトラのかけら",
+                    "term_end": 1605149999000,
+                    "id": 30005028,
                     "limit_num": -1
                 },
                 {
                     "limit_type": 0,
                     "cost": [
                         {
-                            "prize_id": 1504,
+                            "prize_id": 1511,
                             "num": 150,
                             "type": 3
                         }
                     ],
                     "limit_term_num": -1,
                     "description": "期間限定ガチャポイント交換",
-                    "priority": 6,
+                    "priority": 29,
                     "prize": [
                         {
-                            "prize_id": 50111030,
+                            "prize_id": 50101090,
                             "num": 1,
                             "type": 2
                         }
                     ],
                     "img_name": "",
-                    "term_start": 1600225200000,
+                    "term_start": 1604113200000,
                     "group_id": 0,
-                    "name": "もう、絶対に逃がさない",
-                    "term_end": 1601089199000,
-                    "id": 30005009,
+                    "name": "パックとは相思相愛！？",
+                    "term_end": 1605149999000,
+                    "id": 30005029,
                     "limit_num": -1
                 }
             ],
@@ -2418,24 +2523,26 @@
             "priority": 2,
             "item_view": 1,
             "view": {
-                "prize_id": 40203,
+                "prize_id": 40204,
                 "num": 0,
                 "type": 3
             },
             "img_name": "exc_bnr_medal_event_01.png",
-            "term_start": 1602644400000,
+            "term_start": 1604113200000,
             "catalog_list": [
                 {
                     "limit_type": 1,
                     "cost": [
                         {
-                            "prize_id": 40203,
+                            "prize_id": 40204,
                             "num": 100,
                             "type": 3
                         }
                     ],
+                    "buy_count": 0,
+                    "total_buy_count": 1,
                     "limit_term_num": -1,
-                    "description": "魔術師討伐イベント",
+                    "description": "エミリア獲得イベント",
                     "priority": 1,
                     "prize": [
                         {
@@ -2445,24 +2552,26 @@
                         }
                     ],
                     "img_name": "",
-                    "term_start": 1602644400000,
+                    "term_start": 1604113200000,
                     "group_id": 0,
                     "name": "[1日1回限定]輝く経験値の紙面",
-                    "term_end": 1603465199000,
-                    "id": 40001033,
+                    "term_end": 1604933999000,
+                    "id": 40001053,
                     "limit_num": 1
                 },
                 {
                     "limit_type": 1,
                     "cost": [
                         {
-                            "prize_id": 40203,
+                            "prize_id": 40204,
                             "num": 100,
                             "type": 3
                         }
                     ],
+                    "buy_count": 0,
+                    "total_buy_count": 1,
                     "limit_term_num": -1,
-                    "description": "魔術師討伐イベント",
+                    "description": "エミリア獲得イベント",
                     "priority": 2,
                     "prize": [
                         {
@@ -2472,24 +2581,26 @@
                         }
                     ],
                     "img_name": "",
-                    "term_start": 1602644400000,
+                    "term_start": 1604113200000,
                     "group_id": 0,
                     "name": "[1日1回限定]想起の結晶石",
-                    "term_end": 1603465199000,
-                    "id": 40001034,
+                    "term_end": 1604933999000,
+                    "id": 40001054,
                     "limit_num": 1
                 },
                 {
                     "limit_type": 1,
                     "cost": [
                         {
-                            "prize_id": 40203,
+                            "prize_id": 40204,
                             "num": 100,
                             "type": 3
                         }
                     ],
+                    "buy_count": 0,
+                    "total_buy_count": 1,
                     "limit_term_num": -1,
-                    "description": "魔術師討伐イベント",
+                    "description": "エミリア獲得イベント",
                     "priority": 3,
                     "prize": [
                         {
@@ -2499,24 +2610,26 @@
                         }
                     ],
                     "img_name": "",
-                    "term_start": 1602644400000,
+                    "term_start": 1604113200000,
                     "group_id": 0,
                     "name": "[1日1回限定]コイン",
-                    "term_end": 1603465199000,
-                    "id": 40001035,
+                    "term_end": 1604933999000,
+                    "id": 40001055,
                     "limit_num": 1
                 },
                 {
                     "limit_type": 1,
                     "cost": [
                         {
-                            "prize_id": 40203,
+                            "prize_id": 40204,
                             "num": 100,
                             "type": 3
                         }
                     ],
+                    "buy_count": 0,
+                    "total_buy_count": 1,
                     "limit_term_num": -1,
-                    "description": "魔術師討伐イベント",
+                    "description": "エミリア獲得イベント",
                     "priority": 4,
                     "prize": [
                         {
@@ -2526,24 +2639,26 @@
                         }
                     ],
                     "img_name": "",
-                    "term_start": 1602644400000,
+                    "term_start": 1604113200000,
                     "group_id": 0,
                     "name": "[1日1回限定]ノリⅡ",
-                    "term_end": 1603465199000,
-                    "id": 40001036,
+                    "term_end": 1604933999000,
+                    "id": 40001056,
                     "limit_num": 1
                 },
                 {
                     "limit_type": 1,
                     "cost": [
                         {
-                            "prize_id": 40203,
+                            "prize_id": 40204,
                             "num": 100,
                             "type": 3
                         }
                     ],
+                    "buy_count": 0,
+                    "total_buy_count": 1,
                     "limit_term_num": -1,
-                    "description": "魔術師討伐イベント",
+                    "description": "エミリア獲得イベント",
                     "priority": 5,
                     "prize": [
                         {
@@ -2553,24 +2668,26 @@
                         }
                     ],
                     "img_name": "",
-                    "term_start": 1602644400000,
+                    "term_start": 1604113200000,
                     "group_id": 0,
                     "name": "[1日1回限定]魅力Ⅱ",
-                    "term_end": 1603465199000,
-                    "id": 40001037,
+                    "term_end": 1604933999000,
+                    "id": 40001057,
                     "limit_num": 1
                 },
                 {
                     "limit_type": 1,
                     "cost": [
                         {
-                            "prize_id": 40203,
+                            "prize_id": 40204,
                             "num": 100,
                             "type": 3
                         }
                     ],
+                    "buy_count": 0,
+                    "total_buy_count": 1,
                     "limit_term_num": -1,
-                    "description": "魔術師討伐イベント",
+                    "description": "エミリア獲得イベント",
                     "priority": 6,
                     "prize": [
                         {
@@ -2580,24 +2697,26 @@
                         }
                     ],
                     "img_name": "",
-                    "term_start": 1602644400000,
+                    "term_start": 1604113200000,
                     "group_id": 0,
                     "name": "[1日1回限定]知識Ⅱ",
-                    "term_end": 1603465199000,
-                    "id": 40001038,
+                    "term_end": 1604933999000,
+                    "id": 40001058,
                     "limit_num": 1
                 },
                 {
                     "limit_type": 1,
                     "cost": [
                         {
-                            "prize_id": 40203,
+                            "prize_id": 40204,
                             "num": 100,
                             "type": 3
                         }
                     ],
+                    "buy_count": 0,
+                    "total_buy_count": 1,
                     "limit_term_num": -1,
-                    "description": "魔術師討伐イベント",
+                    "description": "エミリア獲得イベント",
                     "priority": 7,
                     "prize": [
                         {
@@ -2607,24 +2726,26 @@
                         }
                     ],
                     "img_name": "",
-                    "term_start": 1602644400000,
+                    "term_start": 1604113200000,
                     "group_id": 0,
                     "name": "[1日1回限定]勇気Ⅱ",
-                    "term_end": 1603465199000,
-                    "id": 40001039,
+                    "term_end": 1604933999000,
+                    "id": 40001059,
                     "limit_num": 1
                 },
                 {
                     "limit_type": 0,
                     "cost": [
                         {
-                            "prize_id": 40203,
+                            "prize_id": 40204,
                             "num": 400,
                             "type": 3
                         }
                     ],
+                    "buy_count": 0,
+                    "total_buy_count": 6,
                     "limit_term_num": 6,
-                    "description": "魔術師討伐イベント",
+                    "description": "エミリア獲得イベント",
                     "priority": 8,
                     "prize": [
                         {
@@ -2634,24 +2755,26 @@
                         }
                     ],
                     "img_name": "",
-                    "term_start": 1602644400000,
+                    "term_start": 1604113200000,
                     "group_id": 0,
                     "name": "[6回限定]幸運",
-                    "term_end": 1603681199000,
-                    "id": 40001040,
+                    "term_end": 1605149999000,
+                    "id": 40001060,
                     "limit_num": -1
                 },
                 {
                     "limit_type": 0,
                     "cost": [
                         {
-                            "prize_id": 40203,
+                            "prize_id": 40204,
                             "num": 800,
                             "type": 3
                         }
                     ],
+                    "buy_count": 0,
+                    "total_buy_count": 6,
                     "limit_term_num": 6,
-                    "description": "魔術師討伐イベント",
+                    "description": "エミリア獲得イベント",
                     "priority": 9,
                     "prize": [
                         {
@@ -2661,24 +2784,26 @@
                         }
                     ],
                     "img_name": "",
-                    "term_start": 1602644400000,
+                    "term_start": 1604113200000,
                     "group_id": 0,
                     "name": "[6回限定]カリスマ",
-                    "term_end": 1603681199000,
-                    "id": 40001041,
+                    "term_end": 1605149999000,
+                    "id": 40001061,
                     "limit_num": -1
                 },
                 {
                     "limit_type": 0,
                     "cost": [
                         {
-                            "prize_id": 40203,
+                            "prize_id": 40204,
                             "num": 1600,
                             "type": 3
                         }
                     ],
+                    "buy_count": 0,
+                    "total_buy_count": 6,
                     "limit_term_num": 6,
-                    "description": "魔術師討伐イベント",
+                    "description": "エミリア獲得イベント",
                     "priority": 10,
                     "prize": [
                         {
@@ -2688,24 +2813,26 @@
                         }
                     ],
                     "img_name": "",
-                    "term_start": 1602644400000,
+                    "term_start": 1604113200000,
                     "group_id": 0,
                     "name": "[6回限定]覇気",
-                    "term_end": 1603681199000,
-                    "id": 40001042,
+                    "term_end": 1605149999000,
+                    "id": 40001062,
                     "limit_num": -1
                 },
                 {
                     "limit_type": 0,
                     "cost": [
                         {
-                            "prize_id": 40203,
+                            "prize_id": 40204,
                             "num": 3000,
                             "type": 3
                         }
                     ],
+                    "buy_count": 0,
+                    "total_buy_count": 1,
                     "limit_term_num": 1,
-                    "description": "魔術師討伐イベント",
+                    "description": "エミリア獲得イベント",
                     "priority": 11,
                     "prize": [
                         {
@@ -2715,24 +2842,24 @@
                         }
                     ],
                     "img_name": "",
-                    "term_start": 1602644400000,
+                    "term_start": 1604113200000,
                     "group_id": 0,
                     "name": "[1回限定]上限突破の秘薬",
-                    "term_end": 1603681199000,
-                    "id": 40001043,
+                    "term_end": 1605149999000,
+                    "id": 40001063,
                     "limit_num": -1
                 },
                 {
                     "limit_type": 0,
                     "cost": [
                         {
-                            "prize_id": 40203,
+                            "prize_id": 40204,
                             "num": 5000,
                             "type": 3
                         }
                     ],
                     "limit_term_num": 1,
-                    "description": "魔術師討伐イベント",
+                    "description": "エミリア獲得イベント",
                     "priority": 12,
                     "prize": [
                         {
@@ -2742,24 +2869,24 @@
                         }
                     ],
                     "img_name": "",
-                    "term_start": 1602644400000,
+                    "term_start": 1604113200000,
                     "group_id": 0,
                     "name": "[1回限定]上限突破の秘薬",
-                    "term_end": 1603681199000,
-                    "id": 40001044,
+                    "term_end": 1605149999000,
+                    "id": 40001064,
                     "limit_num": -1
                 },
                 {
                     "limit_type": 0,
                     "cost": [
                         {
-                            "prize_id": 40203,
+                            "prize_id": 40204,
                             "num": 10000,
                             "type": 3
                         }
                     ],
                     "limit_term_num": 1,
-                    "description": "魔術師討伐イベント",
+                    "description": "エミリア獲得イベント",
                     "priority": 13,
                     "prize": [
                         {
@@ -2769,24 +2896,24 @@
                         }
                     ],
                     "img_name": "",
-                    "term_start": 1602644400000,
+                    "term_start": 1604113200000,
                     "group_id": 0,
                     "name": "[1回限定]上限突破の秘薬",
-                    "term_end": 1603681199000,
-                    "id": 40001045,
+                    "term_end": 1605149999000,
+                    "id": 40001065,
                     "limit_num": -1
                 },
                 {
                     "limit_type": 0,
                     "cost": [
                         {
-                            "prize_id": 40203,
+                            "prize_id": 40204,
                             "num": 20000,
                             "type": 3
                         }
                     ],
                     "limit_term_num": 1,
-                    "description": "魔術師討伐イベント",
+                    "description": "エミリア獲得イベント",
                     "priority": 14,
                     "prize": [
                         {
@@ -2796,51 +2923,51 @@
                         }
                     ],
                     "img_name": "",
-                    "term_start": 1602644400000,
+                    "term_start": 1604113200000,
                     "group_id": 0,
                     "name": "[1回限定]上限突破の秘薬",
-                    "term_end": 1603681199000,
-                    "id": 40001046,
+                    "term_end": 1605149999000,
+                    "id": 40001066,
                     "limit_num": -1
                 },
                 {
                     "limit_type": 0,
                     "cost": [
                         {
-                            "prize_id": 40203,
+                            "prize_id": 40204,
                             "num": 100,
                             "type": 3
                         }
                     ],
                     "limit_term_num": 700,
-                    "description": "魔術師討伐イベント",
+                    "description": "エミリア獲得イベント",
                     "priority": 15,
                     "prize": [
                         {
-                            "prize_id": 32401,
+                            "prize_id": 32404,
                             "num": 1,
                             "type": 3
                         }
                     ],
                     "img_name": "",
-                    "term_start": 1602644400000,
+                    "term_start": 1604113200000,
                     "group_id": 0,
-                    "name": "[700回限定]下級の魔本",
-                    "term_end": 1603681199000,
-                    "id": 40001047,
+                    "name": "[700回限定]桜色の種子",
+                    "term_end": 1605149999000,
+                    "id": 40001067,
                     "limit_num": -1
                 },
                 {
                     "limit_type": 0,
                     "cost": [
                         {
-                            "prize_id": 40203,
+                            "prize_id": 40204,
                             "num": 1,
                             "type": 3
                         }
                     ],
                     "limit_term_num": -1,
-                    "description": "魔術師討伐イベント",
+                    "description": "エミリア獲得イベント",
                     "priority": 16,
                     "prize": [
                         {
@@ -2850,24 +2977,24 @@
                         }
                     ],
                     "img_name": "",
-                    "term_start": 1602644400000,
+                    "term_start": 1604113200000,
                     "group_id": 0,
                     "name": "コイン",
-                    "term_end": 1603681199000,
-                    "id": 40001048,
+                    "term_end": 1605149999000,
+                    "id": 40001068,
                     "limit_num": -1
                 },
                 {
                     "limit_type": 0,
                     "cost": [
                         {
-                            "prize_id": 40203,
+                            "prize_id": 40204,
                             "num": 2,
                             "type": 3
                         }
                     ],
                     "limit_term_num": -1,
-                    "description": "魔術師討伐イベント",
+                    "description": "エミリア獲得イベント",
                     "priority": 17,
                     "prize": [
                         {
@@ -2877,24 +3004,24 @@
                         }
                     ],
                     "img_name": "",
-                    "term_start": 1602644400000,
+                    "term_start": 1604113200000,
                     "group_id": 0,
                     "name": "知識",
-                    "term_end": 1603681199000,
-                    "id": 40001049,
+                    "term_end": 1605149999000,
+                    "id": 40001069,
                     "limit_num": -1
                 },
                 {
                     "limit_type": 0,
                     "cost": [
                         {
-                            "prize_id": 40203,
+                            "prize_id": 40204,
                             "num": 2,
                             "type": 3
                         }
                     ],
                     "limit_term_num": -1,
-                    "description": "魔術師討伐イベント",
+                    "description": "エミリア獲得イベント",
                     "priority": 18,
                     "prize": [
                         {
@@ -2904,24 +3031,24 @@
                         }
                     ],
                     "img_name": "",
-                    "term_start": 1602644400000,
+                    "term_start": 1604113200000,
                     "group_id": 0,
                     "name": "勇気",
-                    "term_end": 1603681199000,
-                    "id": 40001050,
+                    "term_end": 1605149999000,
+                    "id": 40001070,
                     "limit_num": -1
                 },
                 {
                     "limit_type": 0,
                     "cost": [
                         {
-                            "prize_id": 40203,
+                            "prize_id": 40204,
                             "num": 2,
                             "type": 3
                         }
                     ],
                     "limit_term_num": -1,
-                    "description": "魔術師討伐イベント",
+                    "description": "エミリア獲得イベント",
                     "priority": 19,
                     "prize": [
                         {
@@ -2931,28 +3058,24 @@
                         }
                     ],
                     "img_name": "",
-                    "term_start": 1602644400000,
+                    "term_start": 1604113200000,
                     "group_id": 0,
                     "name": "ノリ",
-                    "term_end": 1603681199000,
-                    "id": 40001051,
+                    "term_end": 1605149999000,
+                    "id": 40001071,
                     "limit_num": -1
                 },
                 {
                     "limit_type": 0,
                     "cost": [
                         {
-                            "prize_id": 40203,
+                            "prize_id": 40204,
                             "num": 2,
                             "type": 3
                         }
                     ],
-                    "img_name": "",
-                    "group_id": 0,
-                    "name": "魅力",
                     "limit_term_num": -1,
-                    "description": "魔術師討伐イベント",
-                    "id": 40001052,
+                    "description": "エミリア獲得イベント",
                     "priority": 20,
                     "prize": [
                         {
@@ -2961,12 +3084,18 @@
                             "type": 3
                         }
                     ],
+                    "img_name": "",
+                    "term_start": 1604113200000,
+                    "group_id": 0,
+                    "name": "魅力",
+                    "term_end": 1605149999000,
+                    "id": 40001072,
                     "limit_num": -1
                 }
             ],
             "name": "勲章交換所",
             "shop_type": 4,
-            "term_end": 1603681199000,
+            "term_end": 1605149999000,
             "id": 40001
         },
         {
@@ -5216,6 +5345,54 @@
                         }
                     ],
                     "limit_num": 0
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 13102001,
+                            "num": 200,
+                            "type": 9
+                        }
+                    ],
+                    "group_id": 0,
+                    "name": "【メイドさんデイズ】ペトラ",
+                    "limit_term_num": 1,
+                    "description": "【メイドさんデイズ】ペトラ",
+                    "id": 13102001,
+                    "priority": 11,
+                    "prize": [
+                        {
+                            "prize_id": 13102001,
+                            "num": 1,
+                            "type": 1
+                        }
+                    ],
+                    "limit_num": 0
+                },
+                {
+                    "limit_type": 0,
+                    "cost": [
+                        {
+                            "prize_id": 15101001,
+                            "num": 200,
+                            "type": 9
+                        }
+                    ],
+                    "group_id": 0,
+                    "name": "【見守る眼差し】フレデリカ",
+                    "limit_term_num": 1,
+                    "description": "【見守る眼差し】フレデリカ",
+                    "id": 15101001,
+                    "priority": 12,
+                    "prize": [
+                        {
+                            "prize_id": 15101001,
+                            "num": 1,
+                            "type": 1
+                        }
+                    ],
+                    "limit_num": 0
                 }
             ],
             "name": "キャラクターのかけら交換所",
@@ -5227,12 +5404,12 @@
         }
     ],
     "transaction_id": "user_data",
-    "server_time": 1600738730082,
-    "day_end": 1600786799999,
+    "server_time": 1604329112035,
+    "day_end": 1604329199999,
     "item_list": "user_data",
-    "month_end": 1601477999999,
+    "month_end": 1606748399999,
     "user_data": "user_data",
-    "week_end": 1601218799999,
+    "week_end": 1604847599999,
     "prize_list": "user_data",
     "res_code": 0,
     "client_wait": 0

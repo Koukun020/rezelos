@@ -7,16 +7,16 @@
         }
     ],
     "transaction_id": "user_data",
-    "event_term_start": 1602644400000,
-    "server_time": 1603441358794,
+    "event_term_start": 1604113200000,
+    "server_time": 1604314206035,
     "l2d_character": "live2d/AC_shion01",
     "main_mission": "user_data",
     "banner_list": [
         {
-            "img_name": "home_bnr_0002",
-            "dbg_name": "Pickupガチャ～フレデリカ～",
-            "id": 10004,
-            "priority": 9997,
+            "img_name": "home_bnr_0007",
+            "dbg_name": "イベント特効ガチャ",
+            "id": 10007,
+            "priority": 9994,
             "url": "",
             "target": {
                 "view": "ガチャへ",
@@ -27,31 +27,17 @@
             }
         },
         {
-            "img_name": "home_bnr_0005",
-            "dbg_name": "期間限定かけらダンジョンオープン",
-            "id": 10005,
-            "priority": 9996,
+            "img_name": "home_bnr_0009",
+            "dbg_name": "エミリア獲得イベント",
+            "id": 10008,
+            "priority": 9993,
             "url": "",
             "target": {
-                "view": "クエストへ",
+                "view": "イベントへ",
                 "val3": 0,
                 "val2": 0,
                 "val1": 0,
-                "id": 2007
-            }
-        },
-        {
-            "img_name": "home_bnr_0004",
-            "dbg_name": "アリーナ応援キャンペーン",
-            "id": 10006,
-            "priority": 9995,
-            "url": "",
-            "target": {
-                "view": "アリーナへ",
-                "val3": 0,
-                "val2": 0,
-                "val1": 0,
-                "id": 2004
+                "id": 2005
             }
         },
         {
@@ -98,6 +84,114 @@
         }
     ],
     "event_portal_list": [
+        {
+            "now_portal_prize_id": 3001303,
+            "link": "https://re-zero-rezelos.jp/info/webview/info/detail/000199ZOJCfFjtEM.html#btnoff",
+            "description": "【精霊使いの真髄】エミリア★3　獲得イベント\nログインボーナス",
+            "priority": 1007,
+            "is_receipt": false,
+            "event_portal_prize": [
+                {
+                    "sheet_num": 1,
+                    "day_num": 1,
+                    "id": 3001301,
+                    "prize_list": [
+                        {
+                            "prize_id": 40104,
+                            "num": 100,
+                            "type": 3
+                        }
+                    ],
+                    "next_id": 3001302
+                },
+                {
+                    "sheet_num": 1,
+                    "day_num": 2,
+                    "id": 3001302,
+                    "prize_list": [
+                        {
+                            "prize_id": 1,
+                            "num": 100,
+                            "type": 8
+                        }
+                    ],
+                    "next_id": 3001303
+                },
+                {
+                    "sheet_num": 1,
+                    "day_num": 3,
+                    "id": 3001303,
+                    "prize_list": [
+                        {
+                            "prize_id": 1,
+                            "num": 100,
+                            "type": 8
+                        }
+                    ],
+                    "next_id": 3001304
+                },
+                {
+                    "sheet_num": 1,
+                    "day_num": 4,
+                    "id": 3001304,
+                    "prize_list": [
+                        {
+                            "prize_id": 1,
+                            "num": 100,
+                            "type": 8
+                        }
+                    ],
+                    "next_id": 3001305
+                },
+                {
+                    "sheet_num": 1,
+                    "day_num": 5,
+                    "id": 3001305,
+                    "prize_list": [
+                        {
+                            "prize_id": 1,
+                            "num": 100,
+                            "type": 8
+                        }
+                    ],
+                    "next_id": 3001306
+                },
+                {
+                    "sheet_num": 1,
+                    "day_num": 6,
+                    "id": 3001306,
+                    "prize_list": [
+                        {
+                            "prize_id": 1,
+                            "num": 100,
+                            "type": 8
+                        }
+                    ],
+                    "next_id": 3001307
+                },
+                {
+                    "sheet_num": 1,
+                    "day_num": 7,
+                    "id": 3001307,
+                    "prize_list": [
+                        {
+                            "prize_id": 1,
+                            "num": 100,
+                            "type": 8
+                        }
+                    ],
+                    "next_id": 0
+                }
+            ],
+            "img_name": "lgb_bnr_0014",
+            "receive_type": 1,
+            "term_start": 1604113200000,
+            "name": "【精霊使いの真髄】エミリア★3　獲得イベント\nログインボーナス",
+            "is_badge": false,
+            "term_end": 1604890799000,
+            "id": 30013,
+            "category": 3
+        },
         {
             "now_portal_prize_id": 3001001,
             "link": "https://re-zero-rezelos.jp/info/webview/info/detail/000169FkuIc5qcBE.html#btnoff",
@@ -769,7 +863,7 @@
                 {
                     "rank_point": "user_data",
                     "rank": "user_data",
-                    "term_id": 3,
+                    "term_id": 5,
                     "prize_list": [
                         {
                             "prize_id": 100001,
@@ -789,7 +883,7 @@
             "now_portal_prize_id": 0,
             "name": "アリーナシーズン結果",
             "link": "",
-            "description": "シーズン4",
+            "description": "シーズン5",
             "is_badge": false,
             "id": 10001,
             "category": 8,
@@ -810,23 +904,23 @@
             "priority": 21
         },
         {
-            "img_name": "gch_bnr_event_0013_01",
+            "img_name": "gch_bnr_event_0015_01",
             "receive_type": 0,
-            "term_start": 1602644400000,
+            "term_start": 1604113200000,
             "name": "イベント特効ガチャ",
             "link": "",
-            "description": "イベント特効ガチャでは\n「魔術師討伐イベント」での勲章取得量の倍率がアップする【お気に入りの仮装】ベアトリス★３や\n[記憶結晶]にーちゃとの蜜月★３が登場！！",
-            "is_badge": true,
-            "term_end": 1603421999000,
-            "id": 50025,
+            "description": "イベント特効ガチャでは\nイベントでの勲章取得量の倍率がアップする\n【メイドさんデイズ】ペトラ★３や\n[記憶結晶]パックとは相思相愛！？★３が登場！！",
+            "is_badge": false,
+            "term_end": 1604890799000,
+            "id": 50029,
             "category": 6,
-            "priority": 28,
+            "priority": 32,
             "target": {
-                "view": "ホームへ",
+                "view": "ガチャへ",
                 "val3": 0,
                 "val2": 0,
                 "val1": 0,
-                "id": 201
+                "id": 207
             }
         },
         {
@@ -1095,15 +1189,15 @@
         {
             "img_name": "portal_bnr_0003",
             "receive_type": 0,
-            "term_start": 1603638000000,
+            "term_start": 1604242800000,
             "name": "期間限定ミッション",
-            "link": "https://re-zero-rezelos.jp/info/webview/info/detail/000122TFqUzENI.html#btnoff",
-            "description": "月曜日限定ミッションをクリアして\nアイテムをゲットしよう！\n詳しくは↓のボタンをタップ！",
+            "link": "https://re-zero-rezelos.jp/info/webview/info/detail/000203Ku6xZu37MON2.html#btnoff",
+            "description": "月曜日限定ミッションをクリアして\nアイテムをゲットしよう！\n\n詳しくは内容詳細をタップ！",
             "is_badge": false,
-            "term_end": 1603724399000,
-            "id": 50024,
+            "term_end": 1604329199000,
+            "id": 50034,
             "category": 4,
-            "priority": 39,
+            "priority": 100,
             "target": {
                 "view": "内容詳細",
                 "val3": 0,
@@ -1551,8 +1645,10 @@
         "quest": "user_data",
         "notice": "user_data"
     },
-    "event_id":0,
-    "gacha_push_tm":1603501200794,
+    "event_term_end": 1604890799000,
+    "event_id": 1007,
+    "gacha_push_tm": 1604365200035,
+    "event_name": "エミリア獲得イベント",
     "campaign_info":[
     ],
     "skit": [
@@ -2495,6 +2591,12 @@
             "msg": "あれ！？　もしかして放置！　放置されてますか！？",
             "motion": "act_nayamu",
             "id": 100115
+        },
+        {
+            "voice":"vo_sim_shion001/home_halloween",
+            "msg":"おお！　これが巷でウワサのハロウィーンですか！　みなさん、派手ですねえ！",
+            "motion":"act_egao",
+            "id":100125
         }
     ],
     "stamina_push_2_tm": "user_data",

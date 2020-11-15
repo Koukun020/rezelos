@@ -4,15 +4,10 @@
     "server_time": "user_data",
     "stage_list": [
         {
-            "is_today_limit": 0,
-            "clear_count": 0,
-            "stage_id": 500501,
-            "name": "魔術師初級1",
+            "enemy_card_id": 97901001,
+            "stage_id": 500701,
             "enemy_deck_power": 9000,
-            "description": "【制限時間10分】魔術師を倒して勲章を獲得しよう！",
-            "is_lock": 0,
-            "progress_status": 1,
-            "campaign_msg": "",
+            "description": "ゴーレムを倒して勲章を獲得しよう！",
             "prize": {
                 "clear_count_prize_list": [
                     {
@@ -20,7 +15,7 @@
                         "prize_id": 0,
                         "clear_count": 1,
                         "num": 10,
-                        "id": 350050101,
+                        "id": 350070101,
                         "type": 4
                     }
                 ],
@@ -30,7 +25,7 @@
                         "prize_id": 12199,
                         "rate": 50,
                         "num": 1,
-                        "id": 250050101,
+                        "id": 250070101,
                         "type": 3
                     },
                     {
@@ -38,16 +33,16 @@
                         "prize_id": 12299,
                         "rate": 50,
                         "num": 1,
-                        "id": 250050102,
+                        "id": 250070102,
                         "type": 3
                     }
                 ],
                 "fixed_prize_list": [
                     {
                         "prize_id_sub": 0,
-                        "prize_id": 40203,
+                        "prize_id": 40204,
                         "num": 200,
-                        "id": 150050101,
+                        "id": 150070101,
                         "type": 3
                     }
                 ]
@@ -56,12 +51,19 @@
             "scene": {
                 "after_id": 0,
                 "before_id": 0
-            }
+            },
+            "is_today_limit": 0,
+            "clear_count": 0,
+            "name": "ゴーレム初級1",
+            "is_lock": 0,
+            "progress_status": 3,
+            "campaign_msg": ""
         },
         {
-            "stage_id": 500502,
+            "enemy_card_id": 97901001,
+            "stage_id": 500702,
             "enemy_deck_power": 11000,
-            "description": "【制限時間10分】魔術師を倒して勲章を獲得しよう！",
+            "description": "ゴーレムを倒して勲章を獲得しよう！",
             "prize": {
                 "clear_count_prize_list": [
                     {
@@ -69,7 +71,7 @@
                         "prize_id": 0,
                         "clear_count": 1,
                         "num": 10,
-                        "id": 350050201,
+                        "id": 350070201,
                         "type": 4
                     }
                 ],
@@ -79,7 +81,7 @@
                         "prize_id": 12199,
                         "rate": 50,
                         "num": 1,
-                        "id": 250050201,
+                        "id": 250070201,
                         "type": 3
                     },
                     {
@@ -87,16 +89,16 @@
                         "prize_id": 12299,
                         "rate": 50,
                         "num": 1,
-                        "id": 250050202,
+                        "id": 250070202,
                         "type": 3
                     }
                 ],
                 "fixed_prize_list": [
                     {
                         "prize_id_sub": 0,
-                        "prize_id": 40203,
+                        "prize_id": 40204,
                         "num": 226,
-                        "id": 150050201,
+                        "id": 150070201,
                         "type": 3
                     }
                 ]
@@ -108,15 +110,16 @@
             },
             "is_today_limit": 0,
             "clear_count": 0,
-            "name": "魔術師初級2",
+            "name": "ゴーレム初級2",
             "is_lock": 0,
             "progress_status": 1,
             "campaign_msg": ""
         },
         {
-            "stage_id": 500503,
+            "enemy_card_id": 97901001,
+            "stage_id": 500703,
             "enemy_deck_power": 12500,
-            "description": "【制限時間10分】魔術師を倒して勲章を獲得しよう！",
+            "description": "ゴーレムを倒して勲章を獲得しよう！",
             "prize": {
                 "clear_count_prize_list": [
                     {
@@ -124,7 +127,7 @@
                         "prize_id": 0,
                         "clear_count": 1,
                         "num": 10,
-                        "id": 350050301,
+                        "id": 350070301,
                         "type": 4
                     }
                 ],
@@ -134,7 +137,7 @@
                         "prize_id": 12199,
                         "rate": 50,
                         "num": 1,
-                        "id": 250050301,
+                        "id": 250070301,
                         "type": 3
                     },
                     {
@@ -142,16 +145,16 @@
                         "prize_id": 12299,
                         "rate": 50,
                         "num": 1,
-                        "id": 250050302,
+                        "id": 250070302,
                         "type": 3
                     }
                 ],
                 "fixed_prize_list": [
                     {
                         "prize_id_sub": 0,
-                        "prize_id": 40203,
+                        "prize_id": 40204,
                         "num": 248,
-                        "id": 150050301,
+                        "id": 150070301,
                         "type": 3
                     }
                 ]
@@ -163,15 +166,16 @@
             },
             "is_today_limit": 0,
             "clear_count": 0,
-            "name": "魔術師初級3",
+            "name": "ゴーレム初級3",
             "is_lock": 0,
             "progress_status": 1,
             "campaign_msg": ""
         },
         {
-            "stage_id": 500504,
+            "enemy_card_id": 97901001,
+            "stage_id": 500704,
             "enemy_deck_power": 12500,
-            "description": "【制限時間10分】魔術師を倒して勲章を獲得しよう！",
+            "description": "ゴーレムを倒して勲章を獲得しよう！",
             "prize": {
                 "clear_count_prize_list": [
                     {
@@ -179,26 +183,34 @@
                         "prize_id": 0,
                         "clear_count": 1,
                         "num": 10,
-                        "id": 350050401,
+                        "id": 350070401,
                         "type": 4
                     }
                 ],
                 "lottery_prize_list": [
                     {
                         "prize_id_sub": 0,
-                        "prize_id": 12299,
-                        "rate": 100,
+                        "prize_id": 12199,
+                        "rate": 50,
                         "num": 2,
-                        "id": 250050401,
+                        "id": 250070401,
+                        "type": 3
+                    },
+                    {
+                        "prize_id_sub": 0,
+                        "prize_id": 12299,
+                        "rate": 50,
+                        "num": 2,
+                        "id": 250070402,
                         "type": 3
                     }
                 ],
                 "fixed_prize_list": [
                     {
                         "prize_id_sub": 0,
-                        "prize_id": 40203,
-                        "num": 497,
-                        "id": 150050401,
+                        "prize_id": 40204,
+                        "num": 496,
+                        "id": 150070401,
                         "type": 3
                     }
                 ]
@@ -210,21 +222,16 @@
             },
             "is_today_limit": 0,
             "clear_count": 0,
-            "name": "魔術師初級3(周回用)",
+            "name": "ゴーレム初級3(周回用)",
             "is_lock": 0,
             "progress_status": 1,
             "campaign_msg": ""
         },
         {
-            "is_today_limit": 0,
-            "clear_count": 0,
-            "stage_id": 500505,
-            "name": "魔術師中級1",
+            "enemy_card_id": 97901002,
+            "stage_id": 500705,
             "enemy_deck_power": 16000,
-            "description": "【制限時間7分30秒】魔術師を倒して勲章を獲得しよう！",
-            "is_lock": 0,
-            "progress_status": 1,
-            "campaign_msg": "",
+            "description": "ゴーレムを倒して勲章を獲得しよう！",
             "prize": {
                 "clear_count_prize_list": [
                     {
@@ -232,7 +239,7 @@
                         "prize_id": 0,
                         "clear_count": 1,
                         "num": 10,
-                        "id": 350050501,
+                        "id": 350070501,
                         "type": 4
                     }
                 ],
@@ -242,7 +249,7 @@
                         "prize_id": 3001,
                         "rate": 20,
                         "num": 2,
-                        "id": 250050501,
+                        "id": 250070501,
                         "type": 3
                     },
                     {
@@ -250,7 +257,7 @@
                         "prize_id": 3002,
                         "rate": 20,
                         "num": 2,
-                        "id": 250050502,
+                        "id": 250070502,
                         "type": 3
                     },
                     {
@@ -258,7 +265,7 @@
                         "prize_id": 3003,
                         "rate": 20,
                         "num": 2,
-                        "id": 250050503,
+                        "id": 250070503,
                         "type": 3
                     },
                     {
@@ -266,23 +273,23 @@
                         "prize_id": 3004,
                         "rate": 20,
                         "num": 2,
-                        "id": 250050504,
+                        "id": 250070504,
                         "type": 3
                     }
                 ],
                 "fixed_prize_list": [
                     {
                         "prize_id_sub": 0,
-                        "prize_id": 40203,
+                        "prize_id": 40204,
                         "num": 270,
-                        "id": 150050501,
+                        "id": 150070501,
                         "type": 3
                     },
                     {
                         "prize_id_sub": 0,
                         "prize_id": 12299,
                         "num": 1,
-                        "id": 150050502,
+                        "id": 150070502,
                         "type": 3
                     }
                 ]
@@ -291,12 +298,19 @@
             "scene": {
                 "after_id": 0,
                 "before_id": 0
-            }
+            },
+            "is_today_limit": 0,
+            "clear_count": 0,
+            "name": "ゴーレム中級1",
+            "is_lock": 0,
+            "progress_status": 1,
+            "campaign_msg": ""
         },
         {
-            "stage_id": 500506,
+            "enemy_card_id": 97901002,
+            "stage_id": 500706,
             "enemy_deck_power": 18000,
-            "description": "【制限時間7分30秒】魔術師を倒して勲章を獲得しよう！",
+            "description": "ゴーレムを倒して勲章を獲得しよう！",
             "prize": {
                 "clear_count_prize_list": [
                     {
@@ -304,7 +318,7 @@
                         "prize_id": 0,
                         "clear_count": 1,
                         "num": 10,
-                        "id": 350050601,
+                        "id": 350070601,
                         "type": 4
                     }
                 ],
@@ -314,7 +328,7 @@
                         "prize_id": 3001,
                         "rate": 20,
                         "num": 2,
-                        "id": 250050601,
+                        "id": 250070601,
                         "type": 3
                     },
                     {
@@ -322,7 +336,7 @@
                         "prize_id": 3002,
                         "rate": 20,
                         "num": 2,
-                        "id": 250050602,
+                        "id": 250070602,
                         "type": 3
                     },
                     {
@@ -330,7 +344,7 @@
                         "prize_id": 3003,
                         "rate": 20,
                         "num": 2,
-                        "id": 250050603,
+                        "id": 250070603,
                         "type": 3
                     },
                     {
@@ -338,23 +352,23 @@
                         "prize_id": 3004,
                         "rate": 20,
                         "num": 2,
-                        "id": 250050604,
+                        "id": 250070604,
                         "type": 3
                     }
                 ],
                 "fixed_prize_list": [
                     {
                         "prize_id_sub": 0,
-                        "prize_id": 40203,
+                        "prize_id": 40204,
                         "num": 300,
-                        "id": 150050601,
+                        "id": 150070601,
                         "type": 3
                     },
                     {
                         "prize_id_sub": 0,
                         "prize_id": 12299,
                         "num": 1,
-                        "id": 150050602,
+                        "id": 150070602,
                         "type": 3
                     }
                 ]
@@ -366,15 +380,16 @@
             },
             "is_today_limit": 0,
             "clear_count": 0,
-            "name": "魔術師中級2",
+            "name": "ゴーレム中級2",
             "is_lock": 0,
             "progress_status": 1,
             "campaign_msg": ""
         },
         {
-            "stage_id": 500507,
+            "enemy_card_id": 97901002,
+            "stage_id": 500707,
             "enemy_deck_power": 21500,
-            "description": "【制限時間7分30秒】魔術師を倒して勲章を獲得しよう！",
+            "description": "ゴーレムを倒して勲章を獲得しよう！",
             "prize": {
                 "clear_count_prize_list": [
                     {
@@ -382,7 +397,7 @@
                         "prize_id": 0,
                         "clear_count": 1,
                         "num": 10,
-                        "id": 350050701,
+                        "id": 350070701,
                         "type": 4
                     }
                 ],
@@ -392,7 +407,7 @@
                         "prize_id": 3001,
                         "rate": 20,
                         "num": 2,
-                        "id": 250050701,
+                        "id": 250070701,
                         "type": 3
                     },
                     {
@@ -400,7 +415,7 @@
                         "prize_id": 3002,
                         "rate": 20,
                         "num": 2,
-                        "id": 250050702,
+                        "id": 250070702,
                         "type": 3
                     },
                     {
@@ -408,7 +423,7 @@
                         "prize_id": 3003,
                         "rate": 20,
                         "num": 2,
-                        "id": 250050703,
+                        "id": 250070703,
                         "type": 3
                     },
                     {
@@ -416,23 +431,23 @@
                         "prize_id": 3004,
                         "rate": 20,
                         "num": 2,
-                        "id": 250050704,
+                        "id": 250070704,
                         "type": 3
                     }
                 ],
                 "fixed_prize_list": [
                     {
                         "prize_id_sub": 0,
-                        "prize_id": 40203,
+                        "prize_id": 40204,
                         "num": 315,
-                        "id": 150050701,
+                        "id": 150070701,
                         "type": 3
                     },
                     {
                         "prize_id_sub": 0,
                         "prize_id": 12299,
                         "num": 1,
-                        "id": 150050702,
+                        "id": 150070702,
                         "type": 3
                     }
                 ]
@@ -444,15 +459,16 @@
             },
             "is_today_limit": 0,
             "clear_count": 0,
-            "name": "魔術師中級3",
+            "name": "ゴーレム中級3",
             "is_lock": 0,
             "progress_status": 1,
             "campaign_msg": ""
         },
         {
-            "stage_id": 500508,
+            "enemy_card_id": 97901002,
+            "stage_id": 500708,
             "enemy_deck_power": 21500,
-            "description": "【制限時間7分30秒】魔術師を倒して勲章を獲得しよう！",
+            "description": "ゴーレムを倒して勲章を獲得しよう！",
             "prize": {
                 "clear_count_prize_list": [
                     {
@@ -460,7 +476,7 @@
                         "prize_id": 0,
                         "clear_count": 1,
                         "num": 10,
-                        "id": 350050801,
+                        "id": 350070801,
                         "type": 4
                     }
                 ],
@@ -470,7 +486,7 @@
                         "prize_id": 3001,
                         "rate": 20,
                         "num": 4,
-                        "id": 250050801,
+                        "id": 250070801,
                         "type": 3
                     },
                     {
@@ -478,7 +494,7 @@
                         "prize_id": 3002,
                         "rate": 20,
                         "num": 4,
-                        "id": 250050802,
+                        "id": 250070802,
                         "type": 3
                     },
                     {
@@ -486,7 +502,7 @@
                         "prize_id": 3003,
                         "rate": 20,
                         "num": 4,
-                        "id": 250050803,
+                        "id": 250070803,
                         "type": 3
                     },
                     {
@@ -494,23 +510,23 @@
                         "prize_id": 3004,
                         "rate": 20,
                         "num": 4,
-                        "id": 250050804,
+                        "id": 250070804,
                         "type": 3
                     }
                 ],
                 "fixed_prize_list": [
                     {
                         "prize_id_sub": 0,
-                        "prize_id": 40203,
+                        "prize_id": 40204,
                         "num": 630,
-                        "id": 150050801,
+                        "id": 150070801,
                         "type": 3
                     },
                     {
                         "prize_id_sub": 0,
                         "prize_id": 12299,
                         "num": 2,
-                        "id": 150050802,
+                        "id": 150070802,
                         "type": 3
                     }
                 ]
@@ -522,21 +538,16 @@
             },
             "is_today_limit": 0,
             "clear_count": 0,
-            "name": "魔術師中級3(周回用)",
+            "name": "ゴーレム中級3(周回用)",
             "is_lock": 0,
             "progress_status": 1,
             "campaign_msg": ""
         },
         {
-            "is_today_limit": 0,
-            "clear_count": 0,
-            "stage_id": 500509,
-            "name": "魔術師上級1",
+            "enemy_card_id": 97901003,
+            "stage_id": 500709,
             "enemy_deck_power": 30000,
-            "description": "【制限時間7分】魔術師を倒して勲章を獲得しよう！",
-            "is_lock": 0,
-            "progress_status": 1,
-            "campaign_msg": "",
+            "description": "ゴーレムを倒して勲章を獲得しよう！",
             "prize": {
                 "clear_count_prize_list": [
                     {
@@ -544,7 +555,7 @@
                         "prize_id": 0,
                         "clear_count": 1,
                         "num": 10,
-                        "id": 350050901,
+                        "id": 350070901,
                         "type": 4
                     }
                 ],
@@ -554,7 +565,7 @@
                         "prize_id": 3005,
                         "rate": 20,
                         "num": 2,
-                        "id": 250050901,
+                        "id": 250070901,
                         "type": 3
                     },
                     {
@@ -562,7 +573,7 @@
                         "prize_id": 3006,
                         "rate": 20,
                         "num": 2,
-                        "id": 250050902,
+                        "id": 250070902,
                         "type": 3
                     },
                     {
@@ -570,7 +581,7 @@
                         "prize_id": 3007,
                         "rate": 20,
                         "num": 2,
-                        "id": 250050903,
+                        "id": 250070903,
                         "type": 3
                     },
                     {
@@ -578,23 +589,23 @@
                         "prize_id": 3008,
                         "rate": 20,
                         "num": 2,
-                        "id": 250050904,
+                        "id": 250070904,
                         "type": 3
                     }
                 ],
                 "fixed_prize_list": [
                     {
                         "prize_id_sub": 0,
-                        "prize_id": 40203,
+                        "prize_id": 40204,
                         "num": 337,
-                        "id": 150050901,
+                        "id": 150070901,
                         "type": 3
                     },
                     {
                         "prize_id_sub": 0,
                         "prize_id": 12299,
-                        "num": 1,
-                        "id": 150050902,
+                        "num": 2,
+                        "id": 150070902,
                         "type": 3
                     }
                 ]
@@ -603,12 +614,19 @@
             "scene": {
                 "after_id": 0,
                 "before_id": 0
-            }
+            },
+            "is_today_limit": 0,
+            "clear_count": 0,
+            "name": "ゴーレム上級1",
+            "is_lock": 0,
+            "progress_status": 3,
+            "campaign_msg": ""
         },
         {
-            "stage_id": 500510,
+            "enemy_card_id": 97901003,
+            "stage_id": 500710,
             "enemy_deck_power": 35000,
-            "description": "【制限時間6分30秒】魔術師を倒して勲章を獲得しよう！",
+            "description": "ゴーレムを倒して勲章を獲得しよう！",
             "prize": {
                 "clear_count_prize_list": [
                     {
@@ -616,7 +634,7 @@
                         "prize_id": 0,
                         "clear_count": 1,
                         "num": 10,
-                        "id": 350051001,
+                        "id": 350071001,
                         "type": 4
                     }
                 ],
@@ -626,7 +644,7 @@
                         "prize_id": 3005,
                         "rate": 20,
                         "num": 2,
-                        "id": 250051001,
+                        "id": 250071001,
                         "type": 3
                     },
                     {
@@ -634,7 +652,7 @@
                         "prize_id": 3006,
                         "rate": 20,
                         "num": 2,
-                        "id": 250051002,
+                        "id": 250071002,
                         "type": 3
                     },
                     {
@@ -642,7 +660,7 @@
                         "prize_id": 3007,
                         "rate": 20,
                         "num": 2,
-                        "id": 250051003,
+                        "id": 250071003,
                         "type": 3
                     },
                     {
@@ -650,23 +668,23 @@
                         "prize_id": 3008,
                         "rate": 20,
                         "num": 2,
-                        "id": 250051004,
+                        "id": 250071004,
                         "type": 3
                     }
                 ],
                 "fixed_prize_list": [
                     {
                         "prize_id_sub": 0,
-                        "prize_id": 40203,
+                        "prize_id": 40204,
                         "num": 359,
-                        "id": 150051001,
+                        "id": 150071001,
                         "type": 3
                     },
                     {
                         "prize_id_sub": 0,
                         "prize_id": 12299,
-                        "num": 1,
-                        "id": 150051002,
+                        "num": 2,
+                        "id": 150071002,
                         "type": 3
                     }
                 ]
@@ -678,15 +696,16 @@
             },
             "is_today_limit": 0,
             "clear_count": 0,
-            "name": "魔術師上級2",
+            "name": "ゴーレム上級2",
             "is_lock": 0,
-            "progress_status": 1,
+            "progress_status": 3,
             "campaign_msg": ""
         },
         {
-            "stage_id": 500511,
+            "enemy_card_id": 97901003,
+            "stage_id": 500711,
             "enemy_deck_power": 40000,
-            "description": "【制限時間6分30秒】魔術師を倒して勲章を獲得しよう！",
+            "description": "ゴーレムを倒して勲章を獲得しよう！",
             "prize": {
                 "clear_count_prize_list": [
                     {
@@ -694,7 +713,7 @@
                         "prize_id": 0,
                         "clear_count": 1,
                         "num": 10,
-                        "id": 350051101,
+                        "id": 350071101,
                         "type": 4
                     }
                 ],
@@ -704,7 +723,7 @@
                         "prize_id": 3005,
                         "rate": 20,
                         "num": 2,
-                        "id": 250051101,
+                        "id": 250071101,
                         "type": 3
                     },
                     {
@@ -712,7 +731,7 @@
                         "prize_id": 3006,
                         "rate": 20,
                         "num": 2,
-                        "id": 250051102,
+                        "id": 250071102,
                         "type": 3
                     },
                     {
@@ -720,7 +739,7 @@
                         "prize_id": 3007,
                         "rate": 20,
                         "num": 2,
-                        "id": 250051103,
+                        "id": 250071103,
                         "type": 3
                     },
                     {
@@ -728,23 +747,23 @@
                         "prize_id": 3008,
                         "rate": 20,
                         "num": 2,
-                        "id": 250051104,
+                        "id": 250071104,
                         "type": 3
                     }
                 ],
                 "fixed_prize_list": [
                     {
                         "prize_id_sub": 0,
-                        "prize_id": 40203,
+                        "prize_id": 40204,
                         "num": 381,
-                        "id": 150051101,
+                        "id": 150071101,
                         "type": 3
                     },
                     {
                         "prize_id_sub": 0,
                         "prize_id": 12299,
-                        "num": 1,
-                        "id": 150051102,
+                        "num": 2,
+                        "id": 150071102,
                         "type": 3
                     }
                 ]
@@ -756,15 +775,16 @@
             },
             "is_today_limit": 0,
             "clear_count": 0,
-            "name": "魔術師上級3",
+            "name": "ゴーレム上級3",
             "is_lock": 0,
             "progress_status": 1,
             "campaign_msg": ""
         },
         {
-            "stage_id": 500512,
+            "enemy_card_id": 97901003,
+            "stage_id": 500712,
             "enemy_deck_power": 40000,
-            "description": "【制限時間6分30秒】魔術師を倒して勲章を獲得しよう！",
+            "description": "ゴーレムを倒して勲章を獲得しよう！",
             "prize": {
                 "clear_count_prize_list": [
                     {
@@ -772,7 +792,7 @@
                         "prize_id": 0,
                         "clear_count": 1,
                         "num": 10,
-                        "id": 350051201,
+                        "id": 350071201,
                         "type": 4
                     }
                 ],
@@ -782,7 +802,7 @@
                         "prize_id": 3005,
                         "rate": 20,
                         "num": 4,
-                        "id": 250051201,
+                        "id": 250071201,
                         "type": 3
                     },
                     {
@@ -790,7 +810,7 @@
                         "prize_id": 3006,
                         "rate": 20,
                         "num": 4,
-                        "id": 250051202,
+                        "id": 250071202,
                         "type": 3
                     },
                     {
@@ -798,7 +818,7 @@
                         "prize_id": 3007,
                         "rate": 20,
                         "num": 4,
-                        "id": 250051203,
+                        "id": 250071203,
                         "type": 3
                     },
                     {
@@ -806,23 +826,23 @@
                         "prize_id": 3008,
                         "rate": 20,
                         "num": 4,
-                        "id": 250051204,
+                        "id": 250071204,
                         "type": 3
                     }
                 ],
                 "fixed_prize_list": [
                     {
                         "prize_id_sub": 0,
-                        "prize_id": 40203,
+                        "prize_id": 40204,
                         "num": 762,
-                        "id": 150051201,
+                        "id": 150071201,
                         "type": 3
                     },
                     {
                         "prize_id_sub": 0,
                         "prize_id": 12299,
-                        "num": 2,
-                        "id": 150051202,
+                        "num": 4,
+                        "id": 150071202,
                         "type": 3
                     }
                 ]
@@ -834,15 +854,16 @@
             },
             "is_today_limit": 0,
             "clear_count": 0,
-            "name": "魔術師上級3(周回用)",
+            "name": "ゴーレム上級3(周回用)",
             "is_lock": 0,
             "progress_status": 1,
             "campaign_msg": ""
         },
         {
-            "stage_id": 500513,
+            "enemy_card_id": 97901004,
+            "stage_id": 500713,
             "enemy_deck_power": 45000,
-            "description": "【制限時間5分】魔術師を倒して勲章を獲得しよう！",
+            "description": "ゴーレムを倒して勲章を獲得しよう！",
             "prize": {
                 "clear_count_prize_list": [
                     {
@@ -850,7 +871,7 @@
                         "prize_id": 0,
                         "clear_count": 1,
                         "num": 10,
-                        "id": 350051301,
+                        "id": 350071301,
                         "type": 4
                     }
                 ],
@@ -860,7 +881,7 @@
                         "prize_id": 3009,
                         "rate": 20,
                         "num": 2,
-                        "id": 250051301,
+                        "id": 250071301,
                         "type": 3
                     },
                     {
@@ -868,7 +889,7 @@
                         "prize_id": 3010,
                         "rate": 20,
                         "num": 2,
-                        "id": 250051302,
+                        "id": 250071302,
                         "type": 3
                     },
                     {
@@ -876,7 +897,7 @@
                         "prize_id": 3011,
                         "rate": 20,
                         "num": 2,
-                        "id": 250051303,
+                        "id": 250071303,
                         "type": 3
                     },
                     {
@@ -884,23 +905,23 @@
                         "prize_id": 3012,
                         "rate": 20,
                         "num": 2,
-                        "id": 250051304,
+                        "id": 250071304,
                         "type": 3
                     }
                 ],
                 "fixed_prize_list": [
                     {
                         "prize_id_sub": 0,
-                        "prize_id": 40203,
+                        "prize_id": 40204,
                         "num": 400,
-                        "id": 150051301,
+                        "id": 150071301,
                         "type": 3
                     },
                     {
                         "prize_id_sub": 0,
-                        "prize_id": 12299,
+                        "prize_id": 12399,
                         "num": 1,
-                        "id": 150051302,
+                        "id": 150071302,
                         "type": 3
                     }
                 ]
@@ -912,15 +933,16 @@
             },
             "is_today_limit": 0,
             "clear_count": 0,
-            "name": "魔術師超級1",
+            "name": "ゴーレム超級1",
             "is_lock": 0,
             "progress_status": 1,
             "campaign_msg": ""
         },
         {
-            "stage_id": 500514,
+            "enemy_card_id": 97901004,
+            "stage_id": 500714,
             "enemy_deck_power": 45000,
-            "description": "【制限時間5分】魔術師を倒して勲章を獲得しよう！",
+            "description": "ゴーレムを倒して勲章を獲得しよう！",
             "prize": {
                 "clear_count_prize_list": [
                     {
@@ -928,7 +950,7 @@
                         "prize_id": 0,
                         "clear_count": 1,
                         "num": 10,
-                        "id": 350051401,
+                        "id": 350071401,
                         "type": 4
                     }
                 ],
@@ -938,7 +960,7 @@
                         "prize_id": 3009,
                         "rate": 20,
                         "num": 4,
-                        "id": 250051401,
+                        "id": 250071401,
                         "type": 3
                     },
                     {
@@ -946,7 +968,7 @@
                         "prize_id": 3010,
                         "rate": 20,
                         "num": 4,
-                        "id": 250051402,
+                        "id": 250071402,
                         "type": 3
                     },
                     {
@@ -954,7 +976,7 @@
                         "prize_id": 3011,
                         "rate": 20,
                         "num": 4,
-                        "id": 250051403,
+                        "id": 250071403,
                         "type": 3
                     },
                     {
@@ -962,23 +984,23 @@
                         "prize_id": 3012,
                         "rate": 20,
                         "num": 4,
-                        "id": 250051404,
+                        "id": 250071404,
                         "type": 3
                     }
                 ],
                 "fixed_prize_list": [
                     {
                         "prize_id_sub": 0,
-                        "prize_id": 40203,
+                        "prize_id": 40204,
                         "num": 800,
-                        "id": 150051401,
+                        "id": 150071401,
                         "type": 3
                     },
                     {
                         "prize_id_sub": 0,
-                        "prize_id": 12299,
+                        "prize_id": 12399,
                         "num": 2,
-                        "id": 150051402,
+                        "id": 150071402,
                         "type": 3
                     }
                 ]
@@ -990,24 +1012,25 @@
             },
             "is_today_limit": 0,
             "clear_count": 0,
-            "name": "魔術師超級1(周回用)",
+            "name": "ゴーレム超級1(周回用)",
             "is_lock": 0,
             "progress_status": 1,
             "campaign_msg": ""
         },
         {
-            "stage_id": 500515,
-            "enemy_deck_power": 45000,
-            "description": "【制限時間3分】魔術師を倒して勲章を獲得しよう！",
+            "enemy_card_id": 97901005,
+            "stage_id": 500715,
+            "enemy_deck_power": 50000,
+            "description": "ゴーレムを倒して勲章を獲得しよう！",
             "prize": {
                 "clear_count_prize_list": [
                     {
                         "prize_id_sub": 0,
-                        "prize_id": 0,
+                        "prize_id": 32605,
                         "clear_count": 1,
-                        "num": 100,
-                        "id": 350051501,
-                        "type": 4
+                        "num": 1,
+                        "id": 350071501,
+                        "type": 3
                     }
                 ],
                 "lottery_prize_list": [
@@ -1016,7 +1039,7 @@
                         "prize_id": 3009,
                         "rate": 20,
                         "num": 2,
-                        "id": 250051501,
+                        "id": 250071501,
                         "type": 3
                     },
                     {
@@ -1024,7 +1047,7 @@
                         "prize_id": 3010,
                         "rate": 20,
                         "num": 2,
-                        "id": 250051502,
+                        "id": 250071502,
                         "type": 3
                     },
                     {
@@ -1032,7 +1055,7 @@
                         "prize_id": 3011,
                         "rate": 20,
                         "num": 2,
-                        "id": 250051503,
+                        "id": 250071503,
                         "type": 3
                     },
                     {
@@ -1040,23 +1063,23 @@
                         "prize_id": 3012,
                         "rate": 20,
                         "num": 2,
-                        "id": 250051504,
+                        "id": 250071504,
                         "type": 3
                     }
                 ],
                 "fixed_prize_list": [
                     {
                         "prize_id_sub": 0,
-                        "prize_id": 40203,
+                        "prize_id": 40204,
                         "num": 400,
-                        "id": 150051501,
+                        "id": 150071501,
                         "type": 3
                     },
                     {
                         "prize_id_sub": 0,
-                        "prize_id": 12299,
+                        "prize_id": 12399,
                         "num": 1,
-                        "id": 150051502,
+                        "id": 150071502,
                         "type": 3
                     }
                 ]
@@ -1068,7 +1091,7 @@
             },
             "is_today_limit": 0,
             "clear_count": 0,
-            "name": "魔術師超級チャレンジ",
+            "name": "ゴーレム超級チャレンジ",
             "is_lock": 0,
             "progress_status": 1,
             "campaign_msg": ""
@@ -1077,243 +1100,7 @@
     "defeat_dialog": 0,
     "user_data": "user_data",
     "sp_stage_list": [
-        {
-            "enemy_card_id": 97601107,
-            "stage_id": 500601,
-            "enemy_deck_power": 12500,
-            "description": "レアクリスタルを倒して大量の勲章を獲得しよう！！！",
-            "prize": {
-                "clear_count_prize_list": [
-                    {
-                        "prize_id_sub": 0,
-                        "prize_id": 0,
-                        "clear_count": 1,
-                        "num": 10,
-                        "id": 350060101,
-                        "type": 4
-                    }
-                ],
-                "lottery_prize_list": [
-                    {
-                        "prize_id_sub": 0,
-                        "prize_id": 3001,
-                        "rate": 20,
-                        "num": 4,
-                        "id": 250060101,
-                        "type": 3
-                    },
-                    {
-                        "prize_id_sub": 0,
-                        "prize_id": 3002,
-                        "rate": 20,
-                        "num": 4,
-                        "id": 250060102,
-                        "type": 3
-                    },
-                    {
-                        "prize_id_sub": 0,
-                        "prize_id": 3003,
-                        "rate": 20,
-                        "num": 4,
-                        "id": 250060103,
-                        "type": 3
-                    },
-                    {
-                        "prize_id_sub": 0,
-                        "prize_id": 3004,
-                        "rate": 20,
-                        "num": 4,
-                        "id": 250060104,
-                        "type": 3
-                    }
-                ],
-                "fixed_prize_list": [
-                    {
-                        "prize_id_sub": 0,
-                        "prize_id": 40203,
-                        "num": 1000,
-                        "id": 150060101,
-                        "type": 3
-                    },
-                    {
-                        "prize_id_sub": 0,
-                        "prize_id": 12299,
-                        "num": 2,
-                        "id": 150060102,
-                        "type": 3
-                    }
-                ]
-            },
-            "period_msg": "",
-            "scene": {
-                "after_id": 0,
-                "before_id": 0
-            },
-            "is_today_limit": 0,
-            "clear_count": 0,
-            "name": "レアクリスタル初級",
-            "is_lock": 0,
-            "progress_status": 3,
-            "campaign_msg": ""
-        },
-        {
-            "enemy_card_id": 97601108,
-            "stage_id": 500602,
-            "enemy_deck_power": 21500,
-            "description": "レアクリスタルを倒して大量の勲章を獲得しよう！！！",
-            "prize": {
-                "clear_count_prize_list": [
-                    {
-                        "prize_id_sub": 0,
-                        "prize_id": 0,
-                        "clear_count": 1,
-                        "num": 10,
-                        "id": 350060201,
-                        "type": 4
-                    }
-                ],
-                "lottery_prize_list": [
-                    {
-                        "prize_id_sub": 0,
-                        "prize_id": 3005,
-                        "rate": 20,
-                        "num": 4,
-                        "id": 250060101,
-                        "type": 3
-                    },
-                    {
-                        "prize_id_sub": 0,
-                        "prize_id": 3006,
-                        "rate": 20,
-                        "num": 4,
-                        "id": 250060102,
-                        "type": 3
-                    },
-                    {
-                        "prize_id_sub": 0,
-                        "prize_id": 3007,
-                        "rate": 20,
-                        "num": 4,
-                        "id": 250060103,
-                        "type": 3
-                    },
-                    {
-                        "prize_id_sub": 0,
-                        "prize_id": 3008,
-                        "rate": 20,
-                        "num": 4,
-                        "id": 250060104,
-                        "type": 3
-                    }
-                ],
-                "fixed_prize_list": [
-                    {
-                        "prize_id_sub": 0,
-                        "prize_id": 40203,
-                        "num": 1500,
-                        "id": 150060201,
-                        "type": 3
-                    },
-                    {
-                        "prize_id_sub": 0,
-                        "prize_id": 12299,
-                        "num": 2,
-                        "id": 150060202,
-                        "type": 3
-                    }
-                ]
-            },
-            "period_msg": "",
-            "scene": {
-                "after_id": 0,
-                "before_id": 0
-            },
-            "is_today_limit": 0,
-            "clear_count": 0,
-            "name": "レアクリスタル中級",
-            "is_lock": 0,
-            "progress_status": 3,
-            "campaign_msg": ""
-        },
-        {
-            "enemy_card_id": 97601109,
-            "stage_id": 500603,
-            "enemy_deck_power": 35000,
-            "description": "レアクリスタルを倒して大量の勲章を獲得しよう！！！",
-            "prize": {
-                "clear_count_prize_list": [
-                    {
-                        "prize_id_sub": 0,
-                        "prize_id": 0,
-                        "clear_count": 1,
-                        "num": 10,
-                        "id": 350060301,
-                        "type": 4
-                    }
-                ],
-                "lottery_prize_list": [
-                    {
-                        "prize_id_sub": 0,
-                        "prize_id": 3009,
-                        "rate": 20,
-                        "num": 4,
-                        "id": 250060301,
-                        "type": 3
-                    },
-                    {
-                        "prize_id_sub": 0,
-                        "prize_id": 3010,
-                        "rate": 20,
-                        "num": 4,
-                        "id": 250060302,
-                        "type": 3
-                    },
-                    {
-                        "prize_id_sub": 0,
-                        "prize_id": 3011,
-                        "rate": 20,
-                        "num": 4,
-                        "id": 250060303,
-                        "type": 3
-                    },
-                    {
-                        "prize_id_sub": 0,
-                        "prize_id": 3012,
-                        "rate": 20,
-                        "num": 4,
-                        "id": 250060304,
-                        "type": 3
-                    }
-                ],
-                "fixed_prize_list": [
-                    {
-                        "prize_id_sub": 0,
-                        "prize_id": 40203,
-                        "num": 2000,
-                        "id": 150060301,
-                        "type": 3
-                    },
-                    {
-                        "prize_id_sub": 0,
-                        "prize_id": 12299,
-                        "num": 2,
-                        "id": 150060302,
-                        "type": 3
-                    }
-                ]
-            },
-            "period_msg": "",
-            "scene": {
-                "after_id": 0,
-                "before_id": 0
-            },
-            "is_today_limit": 0,
-            "clear_count": 0,
-            "name": "レアクリスタル上級",
-            "is_lock": 0,
-            "progress_status": 3,
-            "campaign_msg": ""
-        }
+        
     ],
     "res_code": 0,
     "client_wait": 0

@@ -1,13 +1,13 @@
 {
     "transaction_id": "user_data",
-    "server_time": 1603501465094,
+    "server_time": 1604330717435,
     "how_to_play": {
         "skit_id": 2001,
         "scene_option": "",
         "scenario_list": [
             {
                 "voice": "",
-                "image": "evt_bnr_0003_06",
+                "image": "evt_bnr_0004_06",
                 "character": "",
                 "uniq_id": 20010001,
                 "motion": "",
@@ -75,17 +75,10 @@
             }
         ]
     },
-    "skit": [
-        {
-            "skit_adv_id_list": [
-                100081
-            ]
-        }
-    ],
     "boss_event": {
-        "img_deck_name": "ADV_bg119d_crusch",
+        "img_deck_name": "ADV_bg103c_forest",
         "cost_item": {
-            "prize_id": 40103,
+            "prize_id": 40104,
             "num": "user_data",
             "type": 3
         },
@@ -97,33 +90,36 @@
             "val1": 0,
             "id": 209
         },
-        "is_exchang": true,
+        "is_exchang": false,
         "prize_item_up_max": 100,
-        "view_end": 1603681199000,
-        "term_start": 1602644400000,
+        "view_end": 1605149999000,
+        "term_start": 1604113200000,
         "prize_item": {
-            "prize_id": 40203,
+            "prize_id": 40204,
             "num": "user_data",
             "type": 3
         },
-        "img_name": "evt_bnr_0003_01",
+        "img_name": "evt_bnr_0004_01",
         "battle_card_skill": [
             {
-                "base_id": 11302001
+                "base_id": 13102001
+            },
+            {
+                "base_id": 11503001
             }
         ],
-        "img_bg_name": "ADV_bg119d_crusch",
-        "name": "魔術師討伐イベント",
-        "term_end": 1603421999000,
+        "img_bg_name": "ADV_bg103c_forest",
+        "name": "エミリア獲得イベント",
+        "term_end": 1604890799000,
         "ranking": "user_data",
         "support_card_skill": [
             {
-                "base_id": 50113020,
+                "base_id": 50101090,
                 "parameter": 15
             }
         ],
-        "id": 1005,
-        "is_sp_boss": false,
+        "id": 1007,
+        "is_sp_boss": true,
         "shop_destination": {
             "view": "交換所へ",
             "val3": 0,

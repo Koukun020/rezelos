@@ -497,7 +497,7 @@
             "costume_name": "スバル（執事）"
         },
         {
-            "favor_level": 1,
+            "favor_level": "user_data",
             "character_name": "クルシュ",
             "character_id": 22,
             "priority": 45,
@@ -512,12 +512,12 @@
             "costume_name": "クルシュ（鎧）"
         },
         {
-            "favor_level": 1,
+            "favor_level": "user_data",
             "character_name": "ロズワール",
             "character_id": 15,
             "priority": 46,
-            "favor_point": 0,
-            "need_favor": 10,
+            "favor_point": "user_data",
+            "need_favor": "user_data",
             "filename": "live2d/AC_roswaal_halloween01",
             "setting_chara": 0,
             "is_lock": false,
@@ -527,12 +527,12 @@
             "costume_name": "ロズワール（ハロウィン）"
         },
         {
-            "favor_level": 1,
+            "favor_level": "user_data",
             "character_name": "ベアトリス",
             "character_id": 13,
             "priority": 47,
-            "favor_point": 0,
-            "need_favor": 10,
+            "favor_point": "user_data",
+            "need_favor": "user_data",
             "filename": "live2d/AC_beatrice_halloween01",
             "setting_chara": 0,
             "is_lock": false,
@@ -542,20 +542,34 @@
             "costume_name": "ベアトリス（ハロウィン）"
         },
         {
-            "favor_level": 1,
+            "favor_level": "user_data",
             "character_name": "フレデリカ",
-            "unlock_condition": "次のいずれかのキャラクターを獲得する。「【見守る眼差し】フレデリカ」",
             "character_id": 51,
             "priority": 48,
-            "favor_point": 0,
-            "need_favor": 10,
+            "favor_point": "user_data",
+            "need_favor": "user_data",
             "filename": "live2d/AC_frederica01",
             "setting_chara": 0,
-            "is_lock": true,
+            "is_lock": false,
             "costume_id": 15101,
             "is_badge": false,
             "id": 1058,
             "costume_name": "フレデリカ"
+        },
+        {
+            "favor_level": "user_data",
+            "character_name": "ペトラ",
+            "character_id": 31,
+            "priority": 49,
+            "favor_point": "user_data",
+            "need_favor": "user_data",
+            "filename": "live2d/AC_petra_maid01",
+            "setting_chara": 0,
+            "is_lock": false,
+            "costume_id": 13102,
+            "is_badge": false,
+            "id": 1059,
+            "costume_name": "ペトラ（メイド）"
         }
     ],
     "server_time": "user_data",
